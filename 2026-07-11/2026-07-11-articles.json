@@ -6,240 +6,240 @@
       "title": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "excerpt": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "meta": "C++ · ★ 20,701 · 🍴 3,420 · 📈 117 stars today",
+      "meta": "C++ · ★ 20,743 · 🍴 3,421 · 📈 117 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "现代 C++ 测试框架，支持单元测试、TDD 及 BDD 风格。基于 C++14/17，提供简洁的头文件集成方式，解决复杂测试用例组织难题，适用于追求高效与标准化测试流程的 C++ 开发者。"
+      "summary": "Catch2 是现代 C++ 原生测试框架，支持单元测试、TDD 和 BDD。基于 C++14/17 构建，提供简洁的断言语法和头文件分发模式，解决 C++ 生态缺乏轻量级测试工具的问题。适用于追求高效开发体验的 C++ 开发者及大型系统测试场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "excerpt": "Abseil Common Libraries (C++)",
-      "meta": "C++ · ★ 17,593 · 🍴 3,206 · 📈 120 stars today",
+      "meta": "C++ · ★ 17,621 · 🍴 3,207 · 📈 120 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 开源的 C++ 基础库集合，涵盖字符串处理、容器、时间工具等。旨在弥补标准库不足，提升代码性能与可维护性，是构建高性能后端服务及系统级 C++ 应用的理想基础设施。"
+      "summary": "Abseil 是 Google 开源的 C++ 基础库集合，涵盖容器、算法、字符串处理等常用组件。旨在弥补标准库不足，提升代码性能与可维护性。适用于对底层性能敏感的大型 C++ 项目，如后端服务、高性能计算及基础设施软件。"
     },
     {
       "sourceId": "github-trending",
       "title": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "excerpt": "CLI tool for configuring and monitoring Claude Code",
-      "meta": "Python · ★ 28,876 · 🍴 3,170 · 📈 230 stars today",
+      "meta": "Python · ★ 28,890 · 🍴 3,171 · 📈 230 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为 Claude Code 设计的 CLI 工具，用于配置和管理代码生成模板。通过标准化提示词模板，优化 AI 辅助编程体验，提升代码生成的一致性与效率，适合习惯使用 Claude 进行开发的工程师。"
+      "summary": "该工具用于配置和监控 Claude Code CLI 行为，通过模板化管理提示词与工作流。解决 AI 编程助手上下文不一致问题，提升代码生成质量。适合需要标准化 AI 辅助开发流程的工程师，优化交互式编码体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "meta": "TypeScript · ★ 6,904 · 🍴 939 · 📈 338 stars today",
+      "meta": "TypeScript · ★ 6,920 · 🍴 940 · 📈 338 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "遵循 Agent Skills 标准的编码智能体技能库，兼容 Antigravity、Gemini CLI 等工具。通过模块化技能扩展 AI 编程能力，解决复杂代码任务中的上下文理解与执行问题，助力智能开发工作流。"
+      "summary": "Stitch Skills 是为 Stitch MCP 服务器设计的智能体技能库，遵循开放标准。实现与 Antigravity、Gemini CLI 等编码智能体的兼容，扩展 AI 编程能力。适用于希望自定义和增强 AI 编码助手功能的开发者团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "excerpt": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "meta": "Go · ★ 49,268 · 🍴 10,683 · 📈 229 stars today",
+      "meta": "Go · ★ 49,275 · 🍴 10,683 · 📈 229 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基础设施即代码（IaC）工具，通过声明式配置文件管理云资源。支持 AWS、Azure 等多云平台，实现环境的自动化创建与变更，确保基础设施的安全性与可预测性，是 DevOps 团队的核心利器。"
+      "summary": "Terraform 通过声明式配置文件管理基础设施，安全可控地创建和变更资源。将 API 调用转化为可共享的配置，解决多云环境下的运维复杂性。广泛应用于 DevOps 领域，适合需要自动化部署和管理云资源的工程团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "excerpt": "Mesh optimization library that makes meshes smaller and faster to render",
-      "meta": "C++ · ★ 8,079 · 🍴 788 · 📈 111 stars today",
+      "meta": "C++ · ★ 8,087 · 🍴 788 · 📈 111 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能网格优化库，通过顶点缓存优化和索引压缩显著减小模型体积并加速渲染。解决游戏及 3D 应用中的带宽瓶颈与绘制调用开销，适用于对实时渲染性能有严苛要求的图形学开发者。"
+      "summary": "MeshOptimizer 是网格优化库，通过减少顶点数量和优化缓存命中率，使 3D 模型更小且渲染更快。解决图形应用中的性能瓶颈。适用于游戏引擎、虚拟现实及实时 3D 渲染场景，显著提升绘图效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "excerpt": "OpenAI Plugins",
-      "meta": "JavaScript · ★ 4,312 · 🍴 643 · 📈 112 stars today",
+      "meta": "JavaScript · ★ 4,316 · 🍴 643 · 📈 112 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 插件生态系统的基础规范与示例集合。定义 ChatGPT 插件接口标准，允许模型连接外部 API 获取实时数据，扩展对话功能边界，适合希望集成第三方服务以增强 AI 交互能力的开发者。"
+      "summary": "OpenAI Plugins 允许 ChatGPT 连接外部应用程序和数据源，突破内置知识限制。通过标准化接口实现功能扩展，解决信息滞后和功能单一问题。适合开发者构建增强型 AI 助手，集成实时数据或专用工具。"
     },
     {
       "sourceId": "github-trending",
       "title": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "excerpt": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "meta": "TypeScript · ★ 7,666 · 🍴 962 · 📈 900 stars today",
+      "meta": "TypeScript · ★ 7,680 · 🍴 963 · 📈 900 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude 的 MCP 服务器，赋予 AI 终端控制、文件系统搜索及代码差异编辑能力。打破 AI 沙盒限制，实现本地环境下的自动化运维与代码修改，显著提升 AI 辅助开发与系统管理的实操效率。"
+      "summary": "DesktopCommanderMCP 为 Claude 提供终端控制、文件系统搜索和差异编辑能力。作为 MCP 服务器扩展 AI 的系统操作权限，解决纯文本交互无法执行本地命令的痛点。适用于需要 AI 辅助进行复杂文件操作和调试的开发人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "excerpt": "Asio C++ Library",
-      "meta": "C++ · ★ 6,106 · 🍴 1,509 · 📈 75 stars today",
+      "meta": "C++ · ★ 6,109 · 🍴 1,509 · 📈 75 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台 C++ 网络编程库，提供异步 I/O 操作抽象。简化 TCP/UDP、SSL 等底层网络通信开发，广泛应用于高性能服务器、游戏引擎及嵌入式网络模块，是 C++ 网络编程的事实标准组件。"
+      "summary": "Asio 是 C++ 网络编程库，提供异步 I/O 操作和事件循环机制。解决高并发网络服务开发的复杂性，支持 TCP、UDP 等协议。广泛应用于游戏服务器、即时通讯及高性能后端系统，是 C++ 网络编程的事实标准。"
     },
     {
       "sourceId": "github-trending",
       "title": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "excerpt": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "meta": "Rust · ★ 94,487 · 🍴 4,958 · 📈 654 stars today",
+      "meta": "Rust · ★ 94,489 · 🍴 4,958 · 📈 654 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "极速 JavaScript 运行时，集成打包器、测试运行器及包管理器。基于 Zig 编写，启动速度与执行效率远超 Node.js，解决前端构建慢、依赖安装繁琐痛点，适合追求极致开发体验的现代 Web 项目。"
+      "summary": "Bun 是集运行时、打包器、测试运行器和包管理器于一体的极速 JavaScript 平台。利用 Zig 编译器优化，大幅缩短构建和启动时间。适合追求极致开发体验和性能的 Node.js 开发者，替代传统 Webpack/Vite 工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "excerpt": "Action for checking out a repo",
-      "meta": "TypeScript · ★ 8,426 · 🍴 2,713 · 📈 8 stars today",
+      "meta": "TypeScript · ★ 8,428 · 🍴 2,713 · 📈 8 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Actions 官方检查仓库动作，用于在工作流中克隆代码。作为 CI/CD 流水线的基础步骤，确保后续构建、测试任务能访问最新源码，是自动化部署流程中不可或缺的标准组件。"
+      "summary": "GitHub Actions Checkout 动作用于在 CI/CD 流水线中检出代码仓库。解决自动化任务获取源码的标准需求，支持多分支和子模块。是所有基于 GitHub Actions 的工作流必备组件，确保构建环境的一致性。"
     },
     {
       "sourceId": "github-trending",
       "title": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "excerpt": "🏡 Open source home automation that puts local control and privacy first.",
-      "meta": "Python · ★ 88,462 · 🍴 38,021 · 📈 125 stars today",
+      "meta": "Python · ★ 88,499 · 🍴 38,022 · 📈 125 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源家庭自动化核心平台，强调本地控制与隐私保护。支持海量智能家居设备接入，提供高度可定制的自动化逻辑，适合注重数据私有性及深度 DIY 的极客用户，打造真正的智能家庭中枢。"
+      "summary": "Home Assistant 是开源家庭自动化核心，强调本地控制和隐私保护。支持数百种设备协议，解决智能家居厂商锁定和数据泄露风险。适合极客和家庭用户搭建私有智能中枢，实现跨品牌设备的统一管理和自动化。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "excerpt": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "meta": "C · ★ 136,325 · 🍴 8,358 · 📈 130 stars today",
+      "meta": "C · ★ 136,341 · 🍴 8,360 · 📈 130 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软官方 Windows 系统实用工具集，包含窗口管理、颜色拾取、批量重命名等功能。旨在增强 Windows 原生体验，提升多任务处理效率与个性化定制能力，是 Windows 用户必备的效率增强套件。"
+      "summary": "PowerToys 是微软官方 Windows 实用工具集，包含 Fuzzy Finder、PowerRename 等功能。超频生产力与系统定制，解决 Windows 原生功能缺失问题。适合追求高效工作流的 Windows 用户，提升日常操作便捷性。"
     },
     {
       "sourceId": "github-trending",
       "title": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "excerpt": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "meta": "TypeScript · ★ 50,538 · 🍴 3,582 · 📈 75 stars today",
+      "meta": "TypeScript · ★ 50,545 · 🍴 3,582 · 📈 75 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "快速可靠的浏览器端到端测试框架，提供直观的时间旅行调试界面。解决传统 E2E 测试调试难、稳定性差的问题，支持实时重载与自动等待，适合前端团队构建高置信度的 UI 自动化测试。"
+      "summary": "Cypress 是快速可靠的浏览器测试框架，支持端到端、集成和单元测试。提供实时重载和网络流量拦截，解决前端测试调试困难问题。适合现代 Web 应用开发，帮助团队在浏览器环境中直观验证 UI 交互逻辑。"
     },
     {
       "sourceId": "github-trending",
       "title": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "excerpt": "The React Framework",
-      "meta": "JavaScript · ★ 140,842 · 🍴 31,541 · 📈 331 stars today",
+      "meta": "JavaScript · ★ 140,856 · 🍴 31,542 · 📈 331 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "React 全栈框架，支持服务端渲染（SSR）、静态生成及混合渲染。优化 SEO 与首屏加载速度，内置路由、API 路由等功能，解决单页应用性能与生态碎片化问题，是现代 Web 应用的首选架构。"
+      "summary": "Next.js 是基于 React 的全栈框架，支持服务端渲染和静态生成。解决单页应用 SEO 不佳和首屏加载慢的问题。提供路由、API 路由等开箱即用功能，适合构建高性能、SEO 友好的企业级 Web 应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "DayuanJiang/next-ai-draw-io",
       "url": "https://github.com/DayuanJiang/next-ai-draw-io",
       "excerpt": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "meta": "TypeScript · ★ 33,173 · 🍴 3,598 · 📈 74 stars today",
+      "meta": "TypeScript · ★ 33,191 · 🍴 3,599 · 📈 74 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "结合 Next.js 与 AI 能力的 Draw.io 集成应用。通过自然语言指令自动生成或修改流程图，降低绘图门槛，解决传统绘图工具操作繁琐痛点，适合需要快速可视化逻辑结构的研发与产品团队。"
+      "summary": "该项目结合 Next.js 与 draw.io 及 AI 能力，允许通过自然语言创建和修改图表。解决传统绘图工具操作繁琐、AI 缺乏可视化交互的问题。适合需要快速生成架构图、流程图的技术文档编写者和产品经理。"
     },
     {
       "sourceId": "github-trending",
       "title": "malisper/pgrust",
       "url": "https://github.com/malisper/pgrust",
       "excerpt": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "meta": "Rust · ★ 1,757 · 🍴 45 · 📈 789 stars today",
+      "meta": "Rust · ★ 1,806 · 🍴 45 · 📈 789 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用 Rust 重写的高性能 PostgreSQL 数据库内核，已通过全部回归测试。利用 Rust 内存安全特性提升稳定性与并发性能，旨在为对延迟敏感或需深度定制的场景提供轻量级、高可靠的数据库替代方案。"
+      "summary": "Pgrust 是用 Rust 重写的 PostgreSQL，目前已通过 100% 回归测试。旨在利用 Rust 内存安全和并发优势提升数据库性能与稳定性。适合关注数据库底层优化、寻求更高性能替代方案的系统架构师和开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "dotnet/aspnetcore",
       "url": "https://github.com/dotnet/aspnetcore",
       "excerpt": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "meta": "C# · ★ 38,270 · 🍴 10,881 · 📈 69 stars today",
+      "meta": "C# · ★ 38,278 · 🍴 10,882 · 📈 69 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台 .NET Web 框架，支持 Windows、Mac、Linux 上的现代云应用开发。提供高性能 HTTP 服务器、中间件管道及 Razor 视图引擎，解决传统 ASP.NET 的性能瓶颈与平台限制，构建企业级 Web 服务。"
+      "summary": "ASP.NET Core 是跨平台 .NET 框架，用于构建现代云原生 Web 应用。解决旧版 .NET 依赖 Windows 的问题，支持 Windows、Mac 和 Linux。提供高性能 HTTP 管道和依赖注入，适合构建微服务和 RESTful API。"
     },
     {
       "sourceId": "github-trending",
       "title": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "excerpt": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "meta": "TypeScript · ★ 47,116 · 🍴 2,469 · 📈 284 stars today",
+      "meta": "TypeScript · ★ 47,134 · 🍴 2,470 · 📈 284 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "下一代 Node.js 与 TypeScript ORM，支持多种数据库。提供类型安全的数据库查询构建器及自动迁移工具，解决传统 ORM 类型不安全、查询构造繁琐问题，极大提升后端数据层开发的效率与安全性。"
+      "summary": "Prisma 是下一代 ORM，支持 Node.js 和 TypeScript，兼容多种数据库。通过类型安全查询解决数据库访问错误，提供自动迁移和类型推断。适合全栈开发者快速构建数据驱动应用，提升开发效率和代码可靠性。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "excerpt": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "meta": "Jupyter Notebook · ★ 47,689 · 🍴 5,637 · 📈 476 stars today",
+      "meta": "Jupyter Notebook · ★ 47,711 · 🍴 5,643 · 📈 476 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 提供的 Claude 模型使用指南与食谱合集。展示如何通过特定提示词技巧激发模型潜能，解决 AI 应用开发中的效果优化难题，帮助开发者掌握高效使用 LLM 的最佳实践与创意用法。"
+      "summary": "Anthropic 提供的 Claude 使用技巧合集，展示如何高效利用 AI 进行代码生成、数据分析等任务。解决用户不熟悉高级 Prompt 技巧的问题。适合希望深入挖掘 Claude 潜力、提升 AI 协作效率的开发者和研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 252,153 · 🍴 22,512 · 📈 737 stars today",
+      "meta": "Shell · ★ 252,193 · 🍴 22,514 · 📈 737 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "智能体技能框架与软件开发方法论，旨在提升 AI 辅助编程的系统性。提供结构化技能定义与工作流规范，解决多智能体协作混乱问题，帮助团队建立可复用、可验证的高效 AI 开发实践体系。"
+      "summary": "Superpowers 是智能体技能框架和软件开发方法论，旨在规范 AI 辅助开发流程。解决 AI 编程中指令混乱和结果不可控问题。适合希望建立标准化 AI 编码工作流、提升团队协作效率的工程团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "nasa/fprime",
       "url": "https://github.com/nasa/fprime",
       "excerpt": "F´ - A flight software and embedded systems framework",
-      "meta": "C++ · ★ 11,406 · 🍴 1,728 · 📈 100 stars today",
+      "meta": "C++ · ★ 11,415 · 🍴 1,729 · 📈 100 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NASA 开发的飞行软件与嵌入式系统框架，强调高可靠性与模块化。支持组件化设计与自动代码生成，解决航天及关键任务系统中软件复杂度管理难题，适合对实时性与安全性要求极高的嵌入式开发。"
+      "summary": "F´ 是 NASA 开源的飞行软件和嵌入式系统框架，提供组件化设计和验证工具。解决航天级软件高可靠性和可重用性需求。适合航空航天、机器人及高安全性嵌入式系统开发，确保代码在极端环境下的稳定性。"
     },
     {
       "sourceId": "github-trending",
       "title": "ansible/ansible",
       "url": "https://github.com/ansible/ansible",
       "excerpt": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on rem",
-      "meta": "Python · ★ 69,495 · 🍴 24,271 · 📈 20 stars today",
+      "meta": "Python · ★ 69,500 · 🍴 24,271 · 📈 20 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "极简 IT 自动化平台，无需代理即可管理服务器与网络设备。通过 YAML 剧本实现配置管理、应用部署及编排，解决大规模基础设施运维复杂性，是 DevOps 团队实现持续交付与配置一致性的核心工具。"
+      "summary": "Ansible 是简单直观的 IT 自动化平台，无需代理即可配置系统、部署应用。解决服务器运维复杂性和配置漂移问题。支持代码部署、网络配置及云平台管理，适合 DevOps 工程师实现基础设施即代码（IaC）。"
     },
     {
       "sourceId": "github-trending",
       "title": "nuxt/nuxt",
       "url": "https://github.com/nuxt/nuxt",
       "excerpt": "the full-stack Vue framework",
-      "meta": "TypeScript · ★ 60,676 · 🍴 5,834 · 📈 10 stars today",
+      "meta": "TypeScript · ★ 60,683 · 🍴 5,835 · 📈 10 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 Vue.js 的全栈框架，提供自动导入、服务端渲染及静态站点生成。解决 Vue 项目配置复杂、SEO 不佳及开发体验割裂问题，通过约定优于配置的理念，助力开发者快速构建高性能现代 Web 应用。"
+      "summary": "Nuxt 是基于 Vue 的全栈框架，提供服务端渲染、静态生成和自动路由。解决 Vue 单页应用 SEO 和首屏性能问题。内置模块化系统和中间件，适合构建高性能、可维护的现代 Web 应用，简化全栈开发流程。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -247,15 +247,6 @@
       "url": "https://www.v2ex.com/t/1226505",
       "excerpt": "57 回复 · 程序员 节点",
       "publishedAt": "2026-07-10T15:55:22.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "Apple 美区礼品卡购买问题",
-      "url": "https://www.v2ex.com/t/1225835",
-      "excerpt": "32 回复 · Apple 节点",
-      "publishedAt": "2026-07-08T06:15:14.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -396,15 +387,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "继之前 5.4 的 “收口”之后， 5.6 Sol 好像特别喜欢说 “红灯”",
-      "url": "https://www.v2ex.com/t/1226476",
-      "excerpt": "7 回复 · 程序员 节点",
-      "publishedAt": "2026-07-10T12:31:35.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "mbp 遇到奇葩充电问题",
       "url": "https://www.v2ex.com/t/1226058",
       "excerpt": "7 回复 · Apple 节点",
@@ -467,6 +449,24 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "如何理解 rust 闭包的借用值机制? 被借用的值在闭包内到底是什么类型?",
+      "url": "https://www.v2ex.com/t/1212706",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-05-14T07:18:22.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "excerpt": "4 回复 · 程序员 节点",
+      "publishedAt": "2026-07-11T12:30:42.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "openai-news",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
@@ -474,7 +474,7 @@
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "德国电信宣布与OpenAI合作，利用其技术重塑客户服务、员工工作流及网络运营，加速向AI原生电信运营商转型。"
+      "summary": "德国电信正利用OpenAI技术转型为AI原生运营商，全面重塑客户服务、员工工作流及网络运营。"
     },
     {
       "sourceId": "openai-news",
@@ -484,7 +484,7 @@
       "publishedAt": "2026-07-09T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布GPT-5.6成为Microsoft 365 Copilot的首选模型，将在Word、Excel、PowerPoint等应用中提供更强AI能力，提升工作效率与质量。"
+      "summary": "GPT-5.6成为Microsoft 365 Copilot首选模型，显著提升Word、Excel等应用AI能力。"
     },
     {
       "sourceId": "openai-news",
@@ -494,7 +494,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布GPT-5.6，主打前沿智能与可扩展性。该模型在每Token智能、性价比及按需能力方面均有显著提升，旨在应对高难度工作任务。"
+      "summary": "OpenAI发布GPT-5.6，宣称每Token智能更强、性价比更高，旨在支持更具挑战性的工作任务。"
     },
     {
       "sourceId": "openai-news",
@@ -504,7 +504,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出ChatGPT Work功能，作为代理可在多应用间行动，长时间跟进项目并将目标转化为完成的工作成果。"
+      "summary": "ChatGPT Work作为智能体上线，可跨应用操作文件并长期协作，助力用户完成复杂目标。"
     },
     {
       "sourceId": "openai-news",
@@ -514,7 +514,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布GPT-5.5生物安全漏洞赏金计划详情，旨在通过社区协作发现并修复潜在的安全风险。"
+      "summary": "OpenAI启动GPT-5.5生物领域漏洞赏金计划，详情已公布。"
     },
     {
       "sourceId": "openai-news",
@@ -1019,7 +1019,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布PyTorch性能分析系列文章第三部分，聚焦注意力机制（Attention）的性能剖析与优化技巧。"
+      "summary": "Hugging Face发布PyTorch性能分析系列第三篇，聚焦注意力机制 profiling 技术。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1288,10 +1288,10 @@
       "url": "https://huggingface.co/papers/2607.07708",
       "excerpt": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through sc",
       "publishedAt": "2026-07-08T00:00:00.000Z",
-      "meta": "👍 80",
+      "meta": "👍 83",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Deep Native Structural Reasoning 方法，通过深层结构推理实现跨学科的物性理解。该方法结合空间、化学及周期性组织证据，旨在机制性地解释结构-属性关系，提升生物、化学和材料科学中的可解释性与准确性。"
+      "summary": "针对生物化学等材料科学中的结构-属性关系解释难题，提出深度原生结构推理方法。通过解析空间、化学及周期性组织证据，实现跨学科的结构属性理解，旨在提供机制性解释与透明化推理，填补现有模型在结构化因果解释方面的空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1302,7 +1302,7 @@
       "meta": "👍 51",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Dual Latent Memory 机制以增强 VLA 模型的机器人操作能力。通过分离短期视觉记忆与长期语义记忆，克服传统马尔可夫假设限制，显著提升长视距及时间依赖任务的执行稳定性与成功率。"
+      "summary": "为解决视觉-语言-动作模型在长时程任务中的记忆局限，提出双重潜在记忆架构。该模型结合短期观察窗口扩展与长期历史检索，突破马尔可夫假设限制，显著提升机器人操作在时间依赖任务中的表现，增强了对复杂动态环境的适应能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1313,7 +1313,7 @@
       "meta": "👍 47",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Video-Oasis 框架，重新评估视频理解基准。通过解耦视觉感知、语言推理与知识先验，建立统一评估标准，精准衡量 Video-LLM 在高层推理中的真实表现，解决现有基准评估维度单一的问题。"
+      "summary": "重构视频理解评估体系，提出Video-Oasis基准以解耦视觉感知、语言推理与知识先验的影响。针对现有标准缺失问题，建立共享评估准则，精准衡量Video-LLM在高阶推理任务中的真实能力，消除因数据偏差导致的性能虚高现象。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1324,7 +1324,18 @@
       "meta": "👍 28",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布 LingBot-World 2.0，实现无限交互视野的虚拟世界模拟。通过因果预训练策略，模型在保持输出质量一致性的同时，支持无界长的交互历史，显著提升了复杂动态环境下的建模能力。"
+      "summary": "发布LingBot-World 2.0，实现无限交互视界下的通用世界模型。通过精心设计的因果预训练策略，模型在保持输出质量一致性的同时，支持无界长的交互序列，显著提升了智能体在开放环境中的长期规划与持续交互能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "url": "https://huggingface.co/papers/2607.08758",
+      "excerpt": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Be",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "meta": "👍 26",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "提出IdeaGene-Bench基准，模拟生物学基因组机制评估科学思想的继承与重组能力。通过追踪技术谱系推理，量化AI系统复现科学演进逻辑的水平，弥补现有基准在科学创新 lineage 理解方面的不足，推动可解释科学AI发展。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1335,7 +1346,7 @@
       "meta": "👍 26",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 LLM-as-a-Tutor 框架，针对不可验证指令遵循进行策略感知提示适配。通过动态调整训练提示而非静态提示库，优化 LLM 裁判的奖励信号，显著提升非可验证任务中的对齐效果与生成质量。"
+      "summary": "针对非可验证指令遵循的强化学习，提出策略感知的提示自适应方法。通过动态调整LLM裁判的提示词而非固定语料库，使奖励信号更贴合当前训练策略，有效解决了静态提示导致的评估偏差，提升了指令跟随的优化效率与准确性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1346,18 +1357,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "推出 UniClawBench，首个面向现实世界任务的主动代理通用基准。涵盖日常工具操作与用户协助场景，弥补现有基准在评估主动代理真实性与泛化能力上的不足，提供全面的性能度量。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "url": "https://huggingface.co/papers/2607.08758",
-      "excerpt": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Be",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "meta": "👍 25",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出 IdeaGene-Bench，基准测试科学继承推理与基于谱系的想法生成。借鉴生物学基因组概念，评估 AI 系统对科学思想传承、局限修复及重组的能力，填补了科学创新过程自动评估的空白。"
+      "summary": "发布UniClawBench，构建面向现实世界任务的主动代理通用基准。克服现有基准评估能力覆盖不足的缺陷，全面测试多模态大模型在日常工具操作与环境辅助中的主动性，为评估智能体在真实复杂场景下的落地能力提供标准化度量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1365,10 +1365,10 @@
       "url": "https://huggingface.co/papers/2607.08770",
       "excerpt": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-ba",
       "publishedAt": "2026-07-09T00:00:00.000Z",
-      "meta": "👍 22",
+      "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 LongE2V 方法，利用视频扩散模型先验进行长视距事件视频重建与预测。联合处理事件基础视频重建、预测及帧插值，解决回归方法纹理模糊及生成模型长期不稳定问题，显著提升视频质量。"
+      "summary": "提出LongE2V框架，利用预训练视频扩散模型先验，联合处理基于事件相机的长视距视频重建、预测与插帧。该方法克服了回归方法的纹理模糊及生成模型的长期不稳定问题，实现了高质量、高稳定性的稀疏事件流视频恢复。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1379,7 +1379,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Canvas360 框架，通过几何感知预训练增强上下文全景生成。采用两阶段策略结合几何预训练与下游微调，解决高质量训练数据稀缺问题，实现高保真度的全景图像上下文生成。"
+      "summary": "提出Canvas360两阶段框架，通过几何感知预训练增强上下文全景生成。针对缺乏大规模高质量训练数据的问题，结合下游任务微调，显著提升了全景图像生成的几何一致性与视觉质量，解决了传统方法在全景上下文理解上的瓶颈。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1390,7 +1390,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "介绍 JD Oxygen AIIC V1，工业级 LLM/VLM 商品理解与管理解决方案。针对京东海量 SKU，构建结构化商品知识体系，优化消费者体验并降低管理成本，展示大规模电商场景下多模态模型的应用潜力。"
+      "summary": "介绍京东Oxygen AIIC V1工业级解决方案，面向数十亿SKU的大规模商品管理。基于LLM/VLM构建结构化商品知识图谱，优化消费者体验并降低运营成本，展示了超大规模电商场景下多模态大模型在商品理解与管理中的实际应用价值。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1401,7 +1401,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Single-Rollout Asynchronous Optimization，用于代理式强化学习。采用异步优化策略替代传统同步批处理，显著提升长视距代理任务中的训练效率，解决 LLM 后训练中的计算瓶颈问题。"
+      "summary": "提出单 rollout 异步优化方法，解决大语言模型强化学习中同步批处理的低效问题。针对长时程代理任务，采用异步更新策略提升训练吞吐量与资源利用率，显著加速了后训练阶段的收敛过程，为高效RLHF提供了新的工程范式。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1412,7 +1412,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布 RoboDojo，统一仿真与现实机器人操作基准。全面评估通用机器人策略，覆盖长视距与多技能任务，弥补现有基准在仿真与真实场景评估上的局限性，推动具身智能标准化评测。"
+      "summary": "发布RoboDojo统一仿真-现实基准，全面评估通用机器人操作策略。涵盖长时程、多技能任务，弥补了现有基准在模拟或现实单一场景及能力覆盖上的不足，为验证机器人智能体的泛化性能与实际操作能力提供了系统化测试平台。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1423,7 +1423,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 CineMobile，移动端图像到视频扩散模型，生成电影级相机运动。针对移动设备优化 DiT 架构，实现子弹时间等复杂运动效果，在保持生成质量的同时大幅降低计算开销，适配端侧部署。"
+      "summary": "提出CineMobile，实现移动端设备上的电影级图像到视频扩散生成。针对Diffusion Transformers参数量大、迭代慢的问题进行优化，支持子弹时间、推轨变焦等特效，在移动设备上实现了高质量、低延迟的电影感视频创作。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1434,7 +1434,18 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Jet-Long 方法，通过动态双焦点 RoPE 实现高效长上下文扩展。解决 LLM 在超出预训练窗口场景下的零样本泛化难题，显著提升检索增强生成及代理工作流中的长文本处理能力。"
+      "summary": "提出Jet-Long方法，通过动态双焦点RoPE实现高效长上下文扩展。解决LLM在超出预训练窗口的检索增强或代理任务中的零样本上下文失效问题，显著提升了长文档处理与代码仓库理解的性能，降低了长序列部署的计算开销。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
+      "url": "https://huggingface.co/papers/2607.07386",
+      "excerpt": "Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared to softmax-attention-based transformer architectures. Increasing the state size of linear attention ",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "meta": "👍 10",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "引入稀疏Delta记忆机制，扩展线性RNN的状态容量。通过稀疏化策略弥补线性注意力模型在长上下文回忆上不及Softmax Transformer的短板，在保持固定状态大小与计算量的同时，显著提升了长序列建模能力与推理性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1445,18 +1456,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 OpenCoF，通过视频生成学习推理能力。利用时间连贯帧作为推理路径，区别于传统 CoT，探索视频模型在逻辑后果理解中的独特优势，为多模态推理提供新范式。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
-      "url": "https://huggingface.co/papers/2607.07386",
-      "excerpt": "Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared to softmax-attention-based transformer architectures. Increasing the state size of linear attention ",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "meta": "👍 9",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出 Sparse Delta Memory，通过稀疏性扩展线性 RNN 状态。解决线性注意力模型在长上下文回忆中性能受限问题，利用稀疏更新机制提升状态容量，缩小与 Transformer 架构的性能差距。"
+      "summary": "提出OpenCoF，利用视频生成进行推理学习。区别于传统的思维链，该方法让推理过程在时间相连的视频帧中展开，通过视觉时序逻辑增强大模型对因果关系的理解，为多模态推理提供了新的路径，提升了复杂决策的可靠性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1464,10 +1464,10 @@
       "url": "https://huggingface.co/papers/2606.30111",
       "excerpt": "Embodied agents are typically built as hand-designed compositions of perception, memory, planning, and action modules. This modularity exposes a large architectural design space, but current systems still rely on researcher intuition to choose where information is stored, how observations are proces",
       "publishedAt": "2026-07-03T00:00:00.000Z",
-      "meta": "👍 8",
+      "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出自动化具身代理架构设计方法。通过搜索算法替代人工直觉，优化感知、记忆、规划模块的信息存储与处理流程，探索大规模架构设计空间，提升具身智能系统的整体性能与适应性。"
+      "summary": "自动化具身智能体架构设计，替代人工直觉选择感知、记忆与规划模块组合。通过探索庞大的架构设计空间，自动优化信息存储与处理流程，提升了具身系统在复杂任务中的适应性与性能，推动了智能体架构设计的标准化与智能化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1478,7 +1478,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布 WildCity，真实世界城市级渲染、模拟与空间智能测试床。支持平方公里级空间地图构建，评估 AI 在大规模复杂环境中的导航与空间表征能力，推动具身智能向真实场景扩展。"
+      "summary": "发布WildCity，构建真实世界城市规模的渲染、仿真与空间智能测试场。挑战AI在十平方公里尺度上构建连贯空间心智地图的能力，验证基础模型在城市级场景重建与具身导航中的扩展性，填补了宏观空间智能评估的空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1489,7 +1489,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出逐令牌多模态生成分析方法，聚焦 MLLM 生成过程中的令牌级动态。突破以往仅关注层级的局限，深入解析视觉与语言信息在自回归生成中的交互机制，提升多模态计算的可解释性。"
+      "summary": "提出逐令牌多模态生成分析方法，深入探究MLLM中视觉与语言信息的融合动力学。超越以往仅关注层或电路的研究，揭示自回归生成过程中令牌级的计算动态，为理解多模态大模型的内部运作机制提供了细粒度的可解释性视角。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1500,7 +1500,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 AgentLens，生产级代码代理轨迹评估基准。超越传统二元成功指标，全面审查代理的任务执行轨迹、工具使用及验证过程，提供更贴近实际应用场景的代码代理性能评估。"
+      "summary": "推出AgentLens，基于生产环境轨迹审查评估编码代理。摒弃单一的通过/失败指标，全面分析代理遵循指令、使用工具及验证结果的全过程，为交互式代码代理提供更贴近真实用户经验的精细化评估基准。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1508,7 +1508,7 @@
       "url": "https://huggingface.co/papers/2607.06065",
       "excerpt": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revision. We introduce SWE-Review, a framework for closing this loop with agentic code review. Given an is",
       "publishedAt": "2026-07-07T00:00:00.000Z",
-      "meta": "👍 6",
+      "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1518,7 +1518,7 @@
       "url": "https://huggingface.co/papers/2607.08716",
       "excerpt": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed bey",
       "publishedAt": "2026-07-09T00:00:00.000Z",
-      "meta": "👍 5",
+      "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1528,6 +1528,16 @@
       "url": "https://huggingface.co/papers/2607.01232",
       "excerpt": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every lay",
       "publishedAt": "2026-07-02T00:00:00.000Z",
+      "meta": "👍 6",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo",
+      "url": "https://huggingface.co/papers/2607.04939",
+      "excerpt": "Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource languages where training data is scarce. As a result, these languag",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
@@ -1544,21 +1554,11 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo",
-      "url": "https://huggingface.co/papers/2607.04939",
-      "excerpt": "Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource languages where training data is scarce. As a result, these languag",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "meta": "👍 4",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures",
       "url": "https://huggingface.co/papers/2607.06018",
       "excerpt": "Pretrained video generative models are promising backbones for visuomotor control, but their imagined futures often drift from task intent and are not reliably action-conditional. As a result, these models can be difficult to use for planning or policy extraction. To address these limitations, we pr",
       "publishedAt": "2026-07-07T00:00:00.000Z",
-      "meta": "👍 3",
+      "meta": "👍 4",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1610,7 +1610,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "今日AI重点包括OpenAI发布GPT-5.6、Muse推出Spark 1.1版本，以及ChatGPT Work功能的更新动态。"
+      "summary": "本期TLDR AI报道GPT-5.6发布、Muse Spark 1.1更新及ChatGPT Work新功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1620,7 +1620,7 @@
       "publishedAt": "2026-07-09T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "AI资讯简报：涵盖xAI发布Grok 4.5、OpenAI推出GPT-Live语音功能以及SWE-1.7软件工程师代理的最新动态。"
+      "summary": "本期TLDR AI聚焦Grok 4.5发布、GPT-Live功能及SWE-1.7更新。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1792,7 +1792,7 @@
       "publishedAt": "2026-07-10T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI发布GPT-5.6，引入Luna/Terra/Sol分层及Max/Ultra等配置选项。因ChatGPT Work与Codex拆分导致体验挑战，引发关注。"
+      "summary": "OpenAI发布GPT-5.6，引入Luna/Terra/Sol层级及Max/Ultra选项，但ChatGPT Work与Codex的拆分带来体验挑战。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1802,7 +1802,7 @@
       "publishedAt": "2026-07-09T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI发布GPT-5.6家族（Sol/Terra/Luna），集成于ChatGPT、Codex及API。定价分层1至5美元/百万Token，提供缓存读写优惠。"
+      "summary": "OpenAI发布GPT-5.6家族（Sol/Terra/Luna），集成于ChatGPT及API，定价$1-$5/百万Token，缓存读取享9折优惠。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2064,7 +2064,7 @@
       "publishedAt": "2026-07-11T02:53:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI资讯日报：在经历了一周密集发布后，今日市场趋于平静，主要模型无重大更新动态。"
+      "summary": "在经历了一周密集发布后，今日AI领域趋于平静，无重大新动态。"
     },
     {
       "sourceId": "latent-space",
@@ -2074,7 +2074,7 @@
       "publishedAt": "2026-07-10T06:19:40.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI正式发布GPT-5.6模型，并推出包含Luna、Terra、Sol三个层级的新架构，同时整合Codex成为ChatGPT超级应用。"
+      "summary": "OpenAI推出GPT-5.6模型及分层策略，ChatGPT整合Codex成为超级应用，引发广泛关注。"
     },
     {
       "sourceId": "latent-space",
@@ -2084,7 +2084,7 @@
       "publishedAt": "2026-07-09T06:05:41.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "SpaceX旗下xAI发布Grok 4.5，这是Cursor收购后的首款Opus级模型，显示其研发速度超越其他前沿实验室。"
+      "summary": "SpaceXAI发布Grok 4.5，成为Cursor收购后首款Opus级模型，展现强劲研发速度。"
     },
     {
       "sourceId": "latent-space",
@@ -2094,7 +2094,7 @@
       "publishedAt": "2026-07-08T22:55:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Modal联合创始人Akshat Bubna探讨为何AI基础设施需演进以支持Agent Experience，分享构建新一代代理云的经验与洞察。"
+      "summary": "Modal联合创始人探讨AI基础设施演进，分析Agent Experience为何当下可行及云端构建经验。"
     },
     {
       "sourceId": "latent-space",
@@ -2247,8 +2247,7 @@
       "excerpt": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
       "publishedAt": "2026-07-09T20:22:28.000Z",
       "category": "tech",
-      "source": "MIT Tech Review AI",
-      "summary": "Anthropic研究人员开发新技术，首次清晰揭示大语言模型内部处理概念的过程。研究发现 ranging from mundane to unnerving，展示了模型思考的隐藏空间。"
+      "source": "MIT Tech Review AI"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2340,7 +2339,7 @@
       "category": "tech",
       "meta": "@TheAIColony · 225.1K 粉丝 · 1.2M 阅 · 603 赞 · 140 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "7月12日后Claude Fable 5将转为按量付费，本文提供操作指南，教你如何将Fable 5的思维链能力迁移至更便宜的模型，以降低成本并保留其推理优势。"
+      "summary": "Claude Fable 5 免费版将于 7 月 12 日结束，后续转为按量付费。本文提供具体操作指南，教用户如何在限期内将 Fable 5 的推理能力迁移至更便宜的模型，以低成本延续高级智能体验，避免功能丢失。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2351,7 +2350,7 @@
       "category": "tech",
       "meta": "@addyosmani · 405.4K 粉丝 · 396.4K 阅 · 547 赞 · 69 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "针对Agentic Engineering热潮，作者提出工程师应主导「外环」（Outer Loop），即对系统最终结果负责。强调在Harness和Agent工厂之外，人工问责与架构掌控才是关键。"
+      "summary": "针对当前热门的 Agent 工程与 Harness 技术，作者提出工程师应掌握“外循环”（Outer Loop），即对系统最终结果负全责。强调在自动化流程中，人类开发者需保持对整体架构和决策 accountable，而非仅关注局部优化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2362,7 +2361,7 @@
       "category": "tech",
       "meta": "@JayaGup10 · 34.4K 粉丝 · 306.1K 阅 · 504 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨AI的价值捕获难题。尽管AI是强大的价值创造技术，但Alex Karp指出企业使用AI可能面临IP泄露给Anthropic和OpenAI的风险，引发关于数据主权与商业壁垒的讨论。"
+      "summary": "探讨 AI 的价值捕获难题。引用 Alex Karp 观点，指出企业采购 AI 可能面临核心知识产权泄露给 Anthropic 或 OpenAI 的风险。分析显示，尽管 AI 是强大的价值创造技术，但商业闭环中的利益分配与数据安全仍是关键痛点。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2373,7 +2372,7 @@
       "category": "tech",
       "meta": "@RLanceMartin · 36.7K 粉丝 · 119.8K 阅 · 510 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享利用Fable 5构建高性价比Agent Harness的实验数据。通过测试不同场景下的模型调用策略，旨在优化前沿智能的使用频率，从而在保持效果的同时显著降低API成本。"
+      "summary": "分享关于 Fable 5 成本优化的实测数据。随着 Agent Harness 技术演进，系统能更精准判断何时调用前沿智能。作者通过实验验证了不同配置下的效率与成本平衡，为开发者提供降低 Fable 5 使用费用的实用参考方案。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2384,7 +2383,7 @@
       "category": "tech",
       "meta": "@Oracle_Globall · 4.1K 粉丝 · 109.7K 阅 · 1.9K 赞 · 527 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "预测2026年自主AI代理将成为Polymarket等预测市场的主要交易力量。目前算法和AI钱包已占据超30%的交易活动，展示AI在金融自动化与预测领域的实际应用潜力。"
+      "summary": "预测到 2026 年，自主 AI Agent 将成为 Polymarket 预测市场的核心策略。目前超过 30% 的交易活动由算法和 AI 钱包驱动。文章展示了 AI 在金融预测领域的实际应用趋势，以及自动化交易对传统市场参与者的冲击。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2395,7 +2394,7 @@
       "category": "tech",
       "meta": "@Oracle__Promo · 4.1K 粉丝 · 106.5K 阅 · 1.8K 赞 · 543 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "重申AI代理在预测市场的统治力趋势。数据显示算法及AI钱包贡献了Polymarket超过30%的活动量，表明自主交易Agent正逐步重塑去中心化预测市场的流动性结构。"
+      "summary": "同上一条，阐述 AI Agent 在 Polymarket 的主导地位。指出超三成流量来自算法钱包，预测未来自主 AI 将成为市场主要参与者。该内容旨在推广相关 AI 交易工具或概念，反映去中心化金融中智能化交易的快速渗透。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2406,7 +2405,7 @@
       "category": "tech",
       "meta": "@Oracle__Trade · 4.0K 粉丝 · 105.3K 阅 · 1.9K 赞 · 557 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分析AI代理在交易策略中的崛起。随着自主Agent成为主流，Polymarket上超30%的交易由AI驱动，揭示了算法交易在预测市场中日益重要的地位及其对传统用户的影响。"
+      "summary": "再次强调 AI Agent 在预测市场的统治力。数据显示 Polymarket 上 30% 以上活动由 AI 驱动，预示 2026 年自主代理将成为主流交易策略。此类内容通常用于吸引关注 AI 金融应用的受众，展示技术落地的具体场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2417,7 +2416,7 @@
       "category": "tech",
       "meta": "@ClaudeDevs · 564.6K 粉丝 · 95.9K 阅 · 1.5K 赞 · 100 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "详解Claude Code中「模型选择」与「努力程度」设置的区别。官方澄清两者对输出的影响机制，指导开发者根据任务复杂度合理调配算力资源，避免盲目使用高配置导致成本浪费。"
+      "summary": "Claude 官方详解 Claude Code 中模型选择与 Effort 设置的区别。厘清“知道更多”与“尝试更努力”对输出的实际影响，帮助开发者根据任务复杂度合理配置参数，避免盲目使用高耗能模式，提升编码效率并控制成本。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2427,7 +2426,8 @@
       "publishedAt": "2026-07-09T21:21:39.000Z",
       "category": "tech",
       "meta": "@tldraw · 73.7K 粉丝 · 68.3K 阅 · 570 赞 · 29 转",
-      "source": "X 推文 (AttentionVC)"
+      "source": "X 推文 (AttentionVC)",
+      "summary": "tldraw 团队反思 OpenAI Codex 模型过度偏向防御性编程的现象。指出这种趋势导致代码冗余且难以维护，认为这是开发者引导不当所致。文章呼吁调整 Prompt 策略，让 AI 生成更简洁、符合直觉的代码而非过度检查。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2437,8 +2437,7 @@
       "publishedAt": "2026-07-10T15:04:18.000Z",
       "category": "tech",
       "meta": "@SebastienBubeck · 78.1K 粉丝 · 47.8K 阅 · 514 赞 · 42 转",
-      "source": "X 推文 (AttentionVC)",
-      "summary": "提出一个用于追踪从o3到gpt-5.6及后续模型进展的单一定量问题：凸函数梯度流在单位欧几里得球内的路径长度。该指标被用作评估模型推理能力持续进步的基准标尺。"
+      "source": "X 推文 (AttentionVC)"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2449,7 +2448,17 @@
       "category": "tech",
       "meta": "@unicity_labs · 127.3K 粉丝 · 4.5K 阅 · 520 赞 · 827 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Unicity Labs与Quant宣布合作，旨在为Agentic Finance构建可验证的执行基础。通过结合Quant的AI智能层与Unicity的安全技术，推动自主代理在金融交易中的可信部署。"
+      "summary": "Unicity Labs 与 Quant 宣布合作，致力于构建安全可信的代理金融基础。通过引入可验证执行技术，解决 AI Agent 在交易中的信任与安全问题。此举旨在为未来的自主化金融服务提供底层支撑，推动 Agentic Finance 落地。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test",
+      "excerpt": "Wall Street is anticipating a near-record earnings season, but for investors a key question remains: Will it be enough to keep stock market bulls running?",
+      "publishedAt": "2026-07-11T13:00:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "华尔街预期本季财报接近历史纪录水平，但投资者关注盈利增长能否支撑美股牛市延续。市场此前定价乐观，现面临业绩验证考验，焦点在于企业盈利能力是否足以维持当前股价高位。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2459,7 +2468,7 @@
       "publishedAt": "2026-07-11T12:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "埃隆·马斯克上月创下历史纪录，成为世界首位万亿富翁。彭博社报道其对公司掌控力及财富积累情况，引发市场关注。"
+      "summary": "埃隆·马斯克上月创造历史，成为全球首位万亿富翁。文章聚焦其财富里程碑及对其掌控企业的执着态度，反映科技巨头领袖在资本市场的独特地位与影响力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2468,8 +2477,7 @@
       "excerpt": "The aviation industry has seen plenty of deals activity in recent years, but the battle between two US funds for EasyJet Plc stands out because the volatile, low-margin airlines business rarely draws financial suitors.",
       "publishedAt": "2026-07-11T11:00:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "两家美国基金争夺易捷航空股权，显示私募股权机构正突破舒适区。尽管航空业低利润且波动大，但近期交易活跃度上升。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2488,7 +2496,7 @@
       "publishedAt": "2026-07-11T09:00:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "受波斯湾罢工威胁石油运输影响，中国指令主要炼厂保持高燃料产量，以保护国内消费者免受供应中断及价格波动冲击。"
+      "summary": "受波斯湾罢工威胁油运影响，中国指令主要炼厂保持高燃油产量，以保护国内消费者免受供应冲击。此举旨在应对地缘政治紧张导致的潜在能源供应链中断风险，确保国内市场稳定。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2498,7 +2506,7 @@
       "publishedAt": "2026-07-11T08:45:56.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "埃尼集团首席执行官克劳迪奥·德斯卡尔齐警告，随着库存下降及供应竞争加剧，全球能源危机短期内可能进一步恶化。"
+      "summary": "意大利埃尼集团首席执行官克劳迪奥·德斯卡尔齐警告，随着石油库存下降及供应竞争加剧，全球能源危机短期内可能恶化。该言论反映了能源市场供需紧平衡状态下的短期悲观预期。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2508,7 +2516,7 @@
       "publishedAt": "2026-07-11T07:29:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "受数据中心及电动汽车需求推动，中国7月10日全国电力负荷达15.18亿千瓦，创年内新高。国家能源局确认了这一记录。"
+      "summary": "中国国家能源局数据显示，7月10日全国电力负荷达15.18亿千瓦，创年内新高。数据中心与电动汽车需求上升是推动用电负荷突破纪录的主要因素，反映新兴产业对能源消耗的显著拉动。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2718,15 +2726,6 @@
       "source": "Bloomberg Markets"
     },
     {
-      "sourceId": "bloomberg-markets",
-      "title": "Hit Memoir \"Strangers\" Spurs Marital Money Rethink",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/hit-memoir-strangers-spurs-marital-money-rethink-video",
-      "excerpt": "Scarlet Fu and Tom Keene discuss their must-read book on this weeks edition of \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, \"Strangers,\" has riveted readers with the tale of her marriage’s sudden implosion and aftermath. It has also spurred some of them to open the books on their marital fi",
-      "publishedAt": "2026-07-10T20:31:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
       "sourceId": "wsj-markets",
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
       "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
@@ -2914,7 +2913,7 @@
       "publishedAt": "2026-07-11T11:00:08.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "特朗普施压美国企业降低物价，以应对持续存在的通胀压力。批评者担忧此举转向‘超级民粹主义’策略，可能带来经济政策风险。"
+      "summary": "特朗普政府加大施压美国企业以降低物价，此举引发批评者担忧可能转向“超级民粹主义”政策框架。在通胀持续存在的背景下，该举措旨在通过行政手段抑制价格，但也带来政策不确定性风险。"
     },
     {
       "sourceId": "ft-companies",
@@ -2924,7 +2923,7 @@
       "publishedAt": "2026-07-11T08:00:08.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "世界杯在美国的电视转播权不再享有折扣，反映体育版权价值提升。此外，国际汽联探索马术投资，英网联拟进军风投领域。"
+      "summary": "世界杯在美国的电视转播权不再享有折扣，显示体育内容价值提升。同期资讯提及F1马术相关动态及英国草地网球协会计划进军风投领域，反映体育与金融跨界融合趋势。"
     },
     {
       "sourceId": "ft-companies",
@@ -2934,7 +2933,7 @@
       "publishedAt": "2026-07-11T04:00:41.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "国际能源署署长法提赫·比罗尔警告，欧洲电气化进程缓慢是‘重大错误’，呼吁欧盟在2022年天然气危机后加速实现能源独立。"
+      "summary": "国际能源署首席法提赫·比罗尔警告，欧洲电气化进程缓慢是“重大错误”，呼吁欧盟加快步伐以实现能源独立。此观点基于2022年天然气危机后的反思，强调加速绿色转型的紧迫性。"
     },
     {
       "sourceId": "ft-companies",
@@ -2952,8 +2951,7 @@
       "excerpt": "Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines",
       "publishedAt": "2026-07-11T04:00:41.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "受温网收入下降影响，英国草地网球协会与Redrice Ventures合作，正式进军风险投资领域，重点投资体育初创企业。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3143,7 +3141,7 @@
       "publishedAt": "2026-07-11T07:41:18.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "白宫推崇“特朗普账户”项目，旨在让美国儿童拥有美国梦份额。然而，该计划也面临批评者的质疑与挑战。"
+      "summary": "白宫推崇“特朗普账户”项目，称其为美国儿童提供美国梦份额，但该计划亦面临批评。争议焦点在于该金融工具的实际效益及对下一代经济参与权的长期影响，公众看法呈现分歧。"
     },
     {
       "sourceId": "bbc-business",
@@ -3681,10 +3679,10 @@
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
       "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "publishedAt": "2026-07-11T11:42:46.000Z",
+      "publishedAt": "2026-07-11T13:14:19.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美方要求伊朗承诺停止攻击霍尔木兹海峡船只。美国副总统万斯等官员将参加周六在阿曼恢复的谈判。"
+      "summary": "美国要求伊朗承诺停止攻击霍尔木兹海峡船只。副总统万斯等美方官员预计将参加周六在阿曼恢复的谈判。"
     },
     {
       "sourceId": "bbc-world",
@@ -3697,12 +3695,13 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "They think democracy has run its course - so they're setting up their own nations instead.",
-      "publishedAt": "2026-07-10T23:03:11.000Z",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
+      "publishedAt": "2026-07-11T13:44:03.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "越南南部富国岛附近海域一艘快艇翻覆，造成15人死亡，其中包括印度游客。当地媒体报道称，共有21人获救，事故发生在风浪较大的海域。"
     },
     {
       "sourceId": "bbc-world",
@@ -3712,26 +3711,45 @@
       "publishedAt": "2026-07-11T12:06:47.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "中国浙江东部数十万人因台风巴维逼近而撤离，温州市处于风暴路径附近，当地已做好全面防灾准备。"
+      "summary": "浙江温州等地面临一周内第二个台风的侵袭，数十万人被紧急疏散。城市正处于台风路径附近，正全力应对风暴威胁。"
     },
     {
       "sourceId": "bbc-world",
-      "title": "Tourist speedboat capsizes in Vietnam, killing 15",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
-      "publishedAt": "2026-07-11T12:05:57.000Z",
+      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "excerpt": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+      "publishedAt": "2026-07-11T13:11:52.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "越南南部岛屿附近海域发生游船翻覆事故，造成15人死亡，另有21人获救。当地媒体报道了此次海难详情。"
+      "summary": "美国政府支付300万美元给“哈瓦那综合症”受害者。该神秘疾病自十年前起开始困扰美国官员、外交人员及其家属。"
     },
     {
       "sourceId": "bbc-world",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "publishedAt": "2026-07-10T22:54:16.000Z",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "publishedAt": "2026-07-10T23:03:11.000Z",
       "category": "politics",
       "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "publishedAt": "2026-07-11T13:29:51.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+      "publishedAt": "2026-07-11T13:35:09.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "美国住房法案正式成为法律，尽管特朗普表示抗议。该法案旨在降低住房成本并增加供应，特朗普此前希望先通过选民身份验证立法。"
     },
     {
       "sourceId": "bbc-world",
@@ -3753,15 +3771,6 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
-      "publishedAt": "2026-07-10T23:02:35.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
       "title": "Meta pulls new AI image feature after days of backlash",
       "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
@@ -3775,6 +3784,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
       "publishedAt": "2026-07-11T04:47:37.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "publishedAt": "2026-07-10T22:54:16.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3843,6 +3861,15 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+      "publishedAt": "2026-07-10T23:02:35.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "Dating can be hard in South Korea - so the monks stepped in",
       "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
@@ -3875,8 +3902,7 @@
       "excerpt": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
       "publishedAt": "2026-07-11T11:45:55.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "西班牙南部发生致命野火，数百名消防员参与扑救。幸存者讲述逃生经历，证实仍有朋友在火灾中丧生。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3918,11 +3944,10 @@
       "sourceId": "guardian-world",
       "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
       "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "excerpt": "Gangs made up of cattle rustlers and jihadists have long terrorised communities in northern and central Nigeria Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official. Nigerian governmen",
+      "excerpt": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official. Government troops targeted th",
       "publishedAt": "2026-07-11T11:59:11.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "尼日利亚军方在西北部扎姆法拉州击毙300多名绑匪和武装团伙成员。该组织长期在该国北部及中部地区制造恐怖活动。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4190,25 +4215,26 @@
       "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
       "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
       "excerpt": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
-      "publishedAt": "2026-07-11T09:00:17.000Z",
+      "publishedAt": "2026-07-11T13:26:24.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "以色列袭击伊朗钢铁厂，声称其向武装力量提供资金和武器制造手段。分析指出，此类打击同时也对伊朗平民经济造成了负面影响。"
     },
     {
       "sourceId": "nyt-world",
       "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
       "url": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
       "excerpt": "The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward.",
-      "publishedAt": "2026-07-11T08:36:56.000Z",
+      "publishedAt": "2026-07-11T13:16:54.000Z",
       "category": "politics",
       "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
-      "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+      "title": "England and Norway Resurrect a Rivalry for the World Cup",
       "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
       "excerpt": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
-      "publishedAt": "2026-07-11T09:02:19.000Z",
+      "publishedAt": "2026-07-11T13:37:16.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4228,8 +4254,7 @@
       "excerpt": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said.",
       "publishedAt": "2026-07-11T11:17:18.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "一名在美国慈善机构 Samaritan's Purse 工作的美国公民刚果民主共和国埃博拉病毒检测呈阳性，美非卫生官员正跟进处理。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4314,13 +4339,23 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Iran’s Top Diplomat Is in Oman for Talks on Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "excerpt": "The visit comes after heavy clashes this week between the U.S. and Iran. On Saturday, the country’s supreme leader vowed revenge for his father’s killing.",
-      "publishedAt": "2026-07-11T12:26:08.000Z",
+      "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+      "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+      "excerpt": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
+      "publishedAt": "2026-07-11T13:10:09.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗最高外交官抵达阿曼进行谈判，旨在缓和美伊近期在霍尔木兹海峡的激烈冲突。此前伊朗最高领袖誓言为其父之死复仇，局势紧张。"
+      "summary": "载有36人的快艇在越南南部富国岛附近翻覆，造成15人死亡，其余人员获救。当地媒体确认了伤亡人数及救援情况。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iran’s Top Diplomat in Oman for Talks on Strait, As Ayatollah Vows Revenge",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "excerpt": "The visit comes after heavy clashes this week between the U.S. and Iran. The country’s supreme leader pledged to avenge his father’s killing, trading threats with President Trump.",
+      "publishedAt": "2026-07-11T13:35:42.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "伊朗最高外交官赴阿曼就霍尔木兹海峡局势进行会谈。此前美伊发生激烈冲突，伊朗最高领袖誓言为父报仇，并与特朗普总统相互发出威胁。"
     },
     {
       "sourceId": "nyt-world",
@@ -4329,8 +4364,7 @@
       "excerpt": "We think and dream and fuss and project entire worlds into existence. Meanwhile, the earth’s orbit continues and the sun goes on shining.",
       "publishedAt": "2026-07-11T10:06:19.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "本期简报探讨人类思维与地球自然运行的对比，指出在人类忙碌投射世界的同时，地球轨道与太阳运行依旧规律持续。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4339,15 +4373,14 @@
       "excerpt": "At the national fire safety facility in Ottawa, scientists and engineers are increasingly focused on the threat from the forest.",
       "publishedAt": "2026-07-11T10:00:04.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "加拿大国家消防安全设施在渥太华通过燃烧建筑测试森林火灾威胁，科学家与工程师正致力于提升防火技术。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
       "title": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
       "url": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
       "excerpt": "In an ever hotter city, the competition for pools is fierce. Some swimmers are turning to ponds and canals, which come with their own problems.",
-      "publishedAt": "2026-07-11T09:01:32.000Z",
+      "publishedAt": "2026-07-11T13:29:27.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4451,23 +4484,22 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
-      "excerpt": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities.",
-      "publishedAt": "2026-07-10T18:59:19.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "Most people who need glasses don't have them. Can the post office change that?",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
       "excerpt": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
       "publishedAt": "2026-07-11T11:49:47.000Z",
       "category": "politics",
-      "source": "NPR World",
-      "summary": "印度部分邮政局试点提供视力检查服务，旨在解决民众缺乏眼镜的问题，利用邮政网络覆盖优势改善基层医疗可及性。"
+      "source": "NPR World"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Spain edges Belgium and will face France in World Cup semifinal",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
+      "excerpt": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year's World Cup.",
+      "publishedAt": "2026-07-11T06:58:56.000Z",
+      "category": "politics",
+      "source": "NPR World"
     },
     {
       "sourceId": "npr-world",
@@ -4542,13 +4574,24 @@
       "source": "NPR World"
     },
     {
-      "sourceId": "npr-world",
-      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-      "excerpt": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
-      "publishedAt": "2026-07-09T20:01:45.000Z",
+      "sourceId": "dw-chinese",
+      "title": "“中国冲击2.0”来袭 德国工业界能招架得住吗？",
+      "url": "https://www.dw.com/zh/中国冲击2-0-来袭-德国工业界能招架得住吗？/a-77917031?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "数十年来，德国从中国崛起过程中获益，如今，中国正日益成为德国在汽车、机械制造、化工等多个行业的竞争对手，而下一轮竞争已经拉开帷幕。",
+      "publishedAt": "2026-07-11T13:20:00.000Z",
       "category": "politics",
-      "source": "NPR World"
+      "source": "DW 中文",
+      "summary": "德国工业界正面临“中国冲击2.0”。中国从过去的受益者转变为汽车、机械和化工等领域的强劲竞争对手，新一轮产业竞争已全面展开。"
+    },
+    {
+      "sourceId": "dw-chinese",
+      "title": "哈梅內伊死後的伊朗：悄然形成的新秩序",
+      "url": "https://www.dw.com/zh/哈梅內伊死後的伊朗：悄然形成的新秩序/a-77916236?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "伊朗新領袖穆傑塔巴‧哈梅內伊接掌了一個由父親哈梅內伊在過去數十年間，按照他個人願景逐步建立起的政治體系。隨著哈梅內伊在美軍空襲中喪命，由其子職掌大權的伊朗似乎也正邁入一個新的政治時代。",
+      "publishedAt": "2026-07-11T12:30:00.000Z",
+      "category": "politics",
+      "source": "DW 中文",
+      "summary": "哈梅内伊在美军空袭中丧生后，其子穆杰塔巴接掌伊朗政权。伊朗正进入由新领袖主导的政治新时代，原有体系正在悄然重塑。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4705,15 +4748,6 @@
     },
     {
       "sourceId": "dw-chinese",
-      "title": "美国官员批评中国在潜射战略导弹试射前通知过晚",
-      "url": "https://www.dw.com/zh/美国官员批评中国在潜射战略导弹试射前通知过晚/a-77889497?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "美国国务院一位官员周三（7月8日）表示，中国在7月6日进行潜射战略导弹试射前仅提前数小时才通知美国，且提供的细节不足。中国军方于周一从一艘核动力潜艇向太平洋发射了一枚导弹，此举引发了美国、日本、澳大利亚、新西兰和台湾的批评。",
-      "publishedAt": "2026-07-09T12:30:00.000Z",
-      "category": "politics",
-      "source": "DW 中文"
-    },
-    {
-      "sourceId": "dw-chinese",
       "title": "因污染环境 中国电池厂在匈牙利被勒令停产",
       "url": "https://www.dw.com/zh/因污染环境-中国电池厂在匈牙利被勒令停产/a-77887151?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "锂电池巨头宁德时代在匈牙利的一家中国供应商，因污染丑闻被当地政府吊销了生产许可。宁德时代本身也面临投资前景不确定的风险。匈牙利新政府上台后，收紧了对外资工业企业的环保监管。",
@@ -4736,15 +4770,6 @@
       "url": "https://www.dw.com/zh/事实核查：印度游客大量涌入中国？/a-77882410?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "“大批印度人来华避暑”、“上海已成小孟买”？近期，关于印度游客大量涌入中国的讨论在社媒平台引发关注。德国之声事实核查发现：相关说法与官方统计数据不符，其中部分图片和视频甚至为AI生成内容。",
       "publishedAt": "2026-07-09T10:29:00.000Z",
-      "category": "politics",
-      "source": "DW 中文"
-    },
-    {
-      "sourceId": "dw-chinese",
-      "title": "美伊衝突升級 伊朗再襲巴林、科威特等美軍基地",
-      "url": "https://www.dw.com/zh/美伊衝突升級-伊朗再襲巴林、科威特等美軍基地/a-77883211?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "美軍再度空襲伊朗，伊朗則連續兩天以飛彈和無人機攻擊設有美軍基地的科威特及巴林，並揚言若華府再次動武，將擴大報復。此前，川普稱他認為美伊停火協議已經結束。",
-      "publishedAt": "2026-07-09T05:29:00.000Z",
       "category": "politics",
       "source": "DW 中文"
     },
@@ -4813,12 +4838,32 @@
     },
     {
       "sourceId": "dw-chinese",
-      "title": "需要外国劳工 日本仍收紧移民政策",
-      "url": "https://www.dw.com/zh/需要外国劳工-日本仍收紧移民政策/a-77774317?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "日本面临劳动力匮乏的难题，对外国劳工的需求增加。但与此同时，日本政府采取措施，收紧签证的相关规定。",
+      "title": "数字欧元：既抵御美国式动荡，又避免中国式监管",
+      "url": "https://www.dw.com/zh/数字欧元：既抵御美国式动荡，又避免中国式监管/a-77787405?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "上周，欧洲议会经济和货币事务委员会批准了数字欧元监管规则草案。即将于2027年试点的数字欧元，如何抵御特朗普政府财经政策的动荡，同时避免中国社会信用体系对公民权利的侵害？",
       "publishedAt": "2026-07-05T07:25:00.000Z",
       "category": "politics",
       "source": "DW 中文"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+      "excerpt": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
+      "publishedAt": "2026-07-11T13:18:29.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "持续的空袭导致加沙陷入能源危机，医院因断电陷入黑暗。医疗设施难以维持正常运行，严重影响了伤患救治工作。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "What is going on in Yemen?",
+      "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+      "excerpt": "Tensions are rising in the battlefield and political sphere. Will the conflict reignite?",
+      "publishedAt": "2026-07-11T12:53:27.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "也战场的紧张局势在军事和政治层面持续升温。各方关注该地区的冲突是否会重新爆发，局势发展备受瞩目。"
     },
     {
       "sourceId": "aljazeera",
@@ -4828,7 +4873,7 @@
       "publishedAt": "2026-07-11T12:17:45.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "台风巴维离开台湾后，中国沿海地区正积极部署防御措施，以应对后续可能带来的风雨影响及次生灾害。"
+      "summary": "台风“贝碧嘉”离开台湾后，中国大陆正积极做好防御准备，以应对台风登陆可能带来的影响。"
     },
     {
       "sourceId": "aljazeera",
@@ -4837,8 +4882,7 @@
       "excerpt": "Zimbabweans return home amid xenophobic violence in South Africa",
       "publishedAt": "2026-07-11T11:47:54.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "受南非排外暴力事件影响，大量津巴布韦侨民被迫返回祖国，安全局势恶化引发国际社会关注及人道主义担忧。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4856,8 +4900,7 @@
       "excerpt": "The Indian embassy says it has set up control rooms to respond to victims' families.",
       "publishedAt": "2026-07-11T11:34:45.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "越南南部快艇事故导致15名印度游客遇难。印度大使馆已设立控制中心，协助处理受害者家属事宜。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4866,8 +4909,7 @@
       "excerpt": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
       "publishedAt": "2026-07-11T10:14:39.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "阿尔巴尼亚检察官调查库什纳支持度假村项目涉及的伪造地契问题。随着抗议活动加剧，土地交易合法性受到质疑。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5028,24 +5070,6 @@
       "url": "https://www.aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329?traffic_source=rss",
       "excerpt": "Conor McGregor, former two-division champion and still one of UFC's most famous fighters, has not fought since 2021.",
       "publishedAt": "2026-07-11T04:34:33.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
-      "excerpt": "Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.",
-      "publishedAt": "2026-07-11T03:54:17.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Yamal does not mind lack of goals if Spain win World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss",
-      "excerpt": "Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.",
-      "publishedAt": "2026-07-11T02:26:40.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5318,6 +5342,518 @@
       "publishedAt": "2026-07-08T14:23:00.000Z",
       "category": "politics",
       "source": "The Diplomat"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Muka Depan: Johor memilih",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=1&article=3ba3c791-97fe-4000-8563-52b9af25c9bc&key=JwwbjcKKV211xDBU6%2f36lA%3d%3d&feed=rss",
+      "excerpt": "Hari ini 2.73 juta pengundi akan menentukan siapa antara Barisan Nasional (BN) atau Pakatan Harapan (PH) yang akan mentadbir Johor. Selama 14 hari kedua-dua parti yang berkawan di Putrajaya, tetapi berlawan di negeri selatan tanah air itu berkempen...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Tingkat ekonomi wilayah sempadan Malaysia-thailand",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=2&article=4e632e24-c0ba-425d-b022-82ccc8ef336c&key=6X7RqUHb2ZsbLxMvkcCafw%3d%3d&feed=rss",
+      "excerpt": "Datuk Seri Anwar Ibrahim yakin pembukaan laluan baharu menghubungkan Bukit Kayu Hitam dan Sadao mampu meningkatkan potensi ekonomi di antara Malaysia-thailand, terutama bagi wilayah sempadan kedua-dua negara. Perdana Menteri berkata, pembukaan laluan...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Hormati mandat rakyat, banyak iktibar di sebalik PRN Johor",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=2&article=3ca87919-eac9-41ae-be53-fae8a1a875f2&key=EEg0EGmzaJaW1a%2bm3iwjfg%3d%3d&feed=rss",
+      "excerpt": "Malam ini, keputusan Pilihan Raya Negeri (PRN) Johor bakal diketahui. Apa yang pasti, pengundi Johor selesai menunaikan tanggungjawab dan hak mereka menentukan parti mana diberi mandat mentadbir negeri bagi tempoh lima tahun akan datang. Keputusan...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: PM galak rakyat kuasai AI, digital",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=3&article=70ac2375-e452-422b-9dfe-b31e7185dfb4&key=YqB9fajRFygEi9H2Am4xHg%3d%3d&feed=rss",
+      "excerpt": "Penguasaan teknologi moden dan disiplin ilmu baharu perlu diseimbangkan penerapan nilai akhlak serta integriti teguh bagi melahirkan generasi yang mampu menyumbang secara bermakna kepada kemajuan negara, kata Datuk Seri Anwar Ibrahim. Perdana Menteri...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Anwar ucap selamat hari lahir ke-101 kepada Dr Mahathir",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=3&article=2805b35c-2b9e-4c18-93e5-efc40322d89c&key=gUubp9fciiCXpiZo%2btU6mQ%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Datuk Seri Anwar Ibrahim semalam mengucapkan selamat ulang tahun ke-101 kepada bekas Perdana Menteri, Tun Dr Mahathir Mohamad. Menerusi entri di media sosial, Perdana Menteri turut mendoakan supaya Dr Mahathir terus dilimpahi rahmat...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: IPR di UNIMAP jana pendapatan usahawan B40, bantu pelajar",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=3&article=cd384a44-6717-4d66-99cc-2d33edd69d05&key=F8g2OBGQq8hj1ogAl5P3Bw%3d%3d&feed=rss",
+      "excerpt": "Pelaksanaan Inisiatif Pendapatan Rakyat (IPR) di bawah kategori Inisiatif Usahawan Makanan (INSAN) di Universiti Malaysia Perlis (UNIMAP), didapati berkesan dan berjaya membantu usahawan golongan B40. Menteri Ekonomi, Akmal Nasrullah Mohd Nasir,...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: 2.73 juta pengundi jadi penentu BN atau PH tadbir Johor",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=4&article=51a92ec2-a01b-4001-9791-b1b399207fe3&key=YNPeKgbjn%2fC%2b8EAMDNJpzQ%3d%3d&feed=rss",
+      "excerpt": "Selepas 14 hari berkempen dengan penuh semangat dan kadang-kadang ‘panas’, hari ini 2.73 juta pengundi di Johor akan menentukan siapa antara Barisan Nasional (BN) atau Pakatan Harapan (PH) yang akan mentadbir Johor. Sebaik tempoh kempen Pilihan Raya...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: SPR jangka 1.8 juta rakyat keluar mengundi",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=5&article=9363d204-c113-4463-877e-d85f0fc9857c&key=gy3Hhktnkqm9yAo8LAh2iA%3d%3d&feed=rss",
+      "excerpt": "Suruhanjaya Pilihan Raya (SPR) menjangkakan 70 peratus atau 1.8 juta pengundi menunaikan tanggungjawab dalam Pilihan Raya Negeri (PRN) Johor Ke-16, hari ini. Pengerusi SPR, Datuk Seri Ramlan Harun, berkata jangkaan peningkatan keluar mengundi...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Kesungguhan anak Johor di perantauan laksana undi pos",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=5&article=38e5110e-1027-4804-a5e0-d210222e92e7&key=uevnZJxOmMYh8OPkLmkfuA%3d%3d&feed=rss",
+      "excerpt": "Johor Bahru: Perjalanan kertas undi pos milik Low Jing Tong bukan sekadar merentasi lautan, malah menjadi simbol kesungguhan seorang anak Johor mempertahankan hak demokrasinya walaupun berada lebih 8,000 kilometer dari kampung halaman. Berada di...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Keputusan PRN Johor isyarat awal parti menjelang PRU16",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=10&article=1d945702-2cfc-4db7-8c83-dad6daf79516&key=svSw0q%2fvF0hB8qYYT1t0Zg%3d%3d&feed=rss",
+      "excerpt": "Keputusan Pilihan Raya Negeri (PRN) Johor diumumkan malam ini dijangka menjadi petunjuk penting terhadap landskap politik negara menjelang Pilihan Raya Umum Ke-16 (PRU16). Keputusan itu bukan sekadar menentukan kerajaan negeri baharu, tetapi menjadi...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Komentar: Sistem kerja hibrid berjaya jika ketua, pekerja saling mempercayai",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=11&article=4b4bb7b8-e40a-461c-a760-0f4e20cabe3c&key=M9JzgJYXG3YYAAS6Q%2bvGXQ%3d%3d&feed=rss",
+      "excerpt": "Keputusan kerajaan memperkenalkan Hari Bekerja Hibrid (HBH) sebagai norma baharu dalam perkhidmatan awam bermula 1 Ogos ini adalah satu titik perubahan signifikan dalam landskap pengurusan sumber manusia sektor awam. Pengumuman ini bukan sekadar...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Rencana: 5 strategi tambah baik inisiatif Kampung Angkat MADANI",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=12&article=b4f6d6e9-f5c9-4aed-bc67-0d0c791c8272&key=ESIEVh9CAZpNF02SLff4tw%3d%3d&feed=rss",
+      "excerpt": "Kampung Angkat MADANI (KAM) adalah antara inisiatif penting kerajaan memberi tumpuan kepada pembangunan komuniti berasaskan keperluan sebenar rakyat di lapangan. Inisiatif ini memberi penekanan kepada penyediaan dan naik taraf kemudahan asas seperti...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Mindapembaca: Segera cegah ketagihan dadah sintetik melalui vape",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=13&article=dfd8fe51-b7a2-477f-a16e-32f03c44cc8a&key=CCB7uiBRor8a1kxKwUGZOQ%3d%3d&feed=rss",
+      "excerpt": "Pendedahan Agensi Antidadah Kebangsaan (AADK) yang 73 peratus daripada kes penyalahgunaan dadah di negara ini kini membabitkan dadah sintetik amat membimbangkan. Apatah lagi, kes penagih mengalami gangguan kesihatan mental akibat penggunaan bahan...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Mindapembaca: Kesihatan rohani kunci penyelamat Generasi Z",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=13&article=adf30842-c21a-49f6-bdc4-50e2d9fe9be9&key=OzBm45bmhqpD9ydHzXbgmg%3d%3d&feed=rss",
+      "excerpt": "Dalam dunia yang serba pantas hari ini, Generasi Z (Gen Z) dilihat sebagai generasi paling celik teknologi, paling terhubung secara digital dan paling terbuka kepada perubahan. Namun, di sebalik segala kelebihan itu, tersembunyi satu realiti...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: 46 daripada 704 lokasi hakisan pantai dikategori kritikal",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=14&article=0baca626-a491-4fcb-8bee-0f9951615f78&key=gDh1KLVRvSMyONQhfkuXGA%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Sebanyak 704 lokasi hakisan pantai dikenal pasti di seluruh negara menerusi pelaksanaan Pelan Pengurusan Pantai Bersepadu (ISMP) membabitkan 10 negeri, dengan 46 daripadanya dikategorikan sebagai Kategori 1 (Kritikal). Kementerian...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Fahmi Fadzil dahului senarai penerima darjah kebesaran",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=14&article=dc7d1568-b92a-4549-ba22-47c95dfd6a61&key=QyAtsAzVOWJJFnxHokwq%2bQ%3d%3d&feed=rss",
+      "excerpt": "Georgetown: Menteri Komunikasi, Datuk Fahmi Fadzil mendahului senarai penerima Istiadat Penganugerahan Darjah Kebesaran, Bintang dan Pingat Kehormatan Negeri Pulau Pinang sempena Ulang Tahun ke-85 Yang Dipertua Negeri Tun Ramli Ngah Talib. Pengerusi...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Prosiding tangguh, abang ipar Muhyiddin meninggal",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=14&article=b7fc0c20-a4ca-4217-b5b9-2b2e762c820b&key=7QDJN0qlqp0AoZAJl5BdzQ%3d%3d&feed=rss",
+      "excerpt": "Perbicaraan kes rasuah dan pengubahan wang haram membabitkan projek Jana Wibawa yang dihadapi bekas Perdana Menteri, Tan Sri Muhyiddin Yassin di Mahkamah Tinggi semalam, ditangguhkan berikutan abang ipar beliau meninggal dunia. Hakim Noor Ruwena Md...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Kadar caruman 0.75 peratus antara terendah di dunia",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=15&article=2f87be08-26a9-4755-a5b8-798532ce9ee5&key=8qK43ETQT26mN83y7hhrCA%3d%3d&feed=rss",
+      "excerpt": "Kadar caruman permulaan 0.75 peratus bagi Skim Kemalangan Bukan Bencana (LINDUNG 24 JAM) di bawah Pertubuhan Keselamatan Sosial (PERKESO) adalah antara yang terendah di dunia. Pada masa sama, ia menawarkan perlindungan sosial menyeluruh kepada...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: 7 indikator utama nilai tahap keselamatan di sekolah, IPG",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=15&article=fd98ba39-4df8-4975-bd3e-fdc05564f516&key=JqCB%2bqIARXu2xnt1LCKDIA%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Ukuran keberkesanan yang berasaskan data, pemantauan, audit serta pematuhan kepada peraturan dan prosedur yang ditetapkan digunakan Kementerian Pendidikan (KPM) dalam menilai tahap keselamatan sebenar di sekolah dan Institut Pendidikan...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: TH hantar SMS, e-mel kepada lebih 60,000 bakal jemaah haji",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=15&article=1a3a1221-b761-40e5-919d-feb1ebe5d8a5&key=tFlB3ktSmPGVww77SrhVKQ%3d%3d&feed=rss",
+      "excerpt": "Lembaga Tabung Haji (TH) sudah menghantar khidmat pesanan ringkas (SMS) dan e-mel kepada lebih 60,000 bakal jemaah haji sebagai persediaan awal bermula 1 Julai lalu. Pengarah Urusan Kumpulan dan Ketua Pegawai Eksekutif TH, Mustakim Mohamad, berkata...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Remaja diarah jalani penilaian psikiatri",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=16&article=60b39f76-4648-46b8-84a7-b24c75e29c7e&key=x1IlmPmVpEBLeGOmGAV5lQ%3d%3d&feed=rss",
+      "excerpt": "Mahkamah Majistret di sini, semalam memerintahkan seorang remaja perempuan Tingkatan Tiga yang terbabit dalam kes tikam di sebuah sekolah di Banting, Kuala Langat, Isnin lalu, dihantar ke Hospital Bahagia untuk penilaian psikiatri. Majistret Maslinda...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Chegubard hilang kelayakan tanding PRN Negeri Sembilan",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=16&article=751b53b7-681a-436e-9ffd-3230feb3a443&key=9d8CoZ7WdyoZiEm%2bir3PoA%3d%3d&feed=rss",
+      "excerpt": "Aktivis politik, Badrul Hisham Shaharin atau dikenali sebagai Chegubard, hilang kelayakan bertanding pada Pilihan Raya Negeri (PRN) Negeri Sembilan akan datang selepas dikenakan denda RM5,000 oleh Mahkamah Sesyen di sini, semalam. Peguamnya, Muhammad...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Aktivis politik didenda RM11,000 hantar komunikasi jelik terhadap Ismail Sabri, UMNO",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=16&article=52f1f873-9e95-45d3-af40-f0d096f55f55&key=Ir%2bjrY%2b7%2br%2bEJut8AB0qow%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Mahkamah Sesyen di sini, semalam memerintahkan aktivis politik, Jufazli Shi Ahmad, didenda RM11,000 selepas didapati bersalah membuat dan memulakan penghantaran komunikasi jelik terhadap bekas Perdana Menteri, Datuk Seri Ismail Sabri...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: PDRM sita pelbagai jenis dadah RM13.2 juta",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=17&article=f0017d98-4d79-4284-8ba3-4eb14ed01fcc&key=ylsCJqJ2UNeEm93e6msB9w%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Polis Diraja Malaysia (PDRM) menyita dadah lebih 90 kilogram (kg) bernilai kira-kira RM13.2 juta dalam lima serbuan di Lembah Klang dan Kuantan. Tujuh ahli sindiket membabitkan enam lelaki tempatan dan seorang wanita warga asing berusia...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Kastam rampas bahan terlarang cuba diseludup melalui kurier",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=17&article=35023fca-2b0a-48db-901a-288b0ce321f2&key=pyBNPHf2UWzx7nhGYtcenA%3d%3d&feed=rss",
+      "excerpt": "Shah Alam: Jabatan Kastam Diraja Malaysia (Kastam) menggagalkan cubaan menyeludup pelbagai jenis dadah melalui kurier dengan rampasan keseluruhan RM513,000 menerusi operasi berasingan pada April dan Jun lalu. Pengarah Kastam Selangor, Mohamad Azhar...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: KJH Segulai Sejalai bakal gegar Kota Samarahan",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=18&article=cf7e37ea-137f-43c3-adc0-0fd31fa64bea&key=cO9VciI6YbGwyUSZgoGQ6w%3d%3d&feed=rss",
+      "excerpt": "Karnival Jom Heboh (KJH) Sarawak Segulai Sejalai 2026 bakal menghangatkan Kota Samarahan selama tiga hari bermula 31 Julai hingga 2 Ogos ini. Karnival bakal berlangsung bersebelahan Majlis Perbandaran Kota Samarahan (MPKS), sekali gus menjadi...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: 2 rakyat Malaysia ditahan kes curi motosikal sewa",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=18&article=981fd25c-eb8d-4002-83be-57b819f45eb3&key=pQwqo6yPuOS1ZfNwByrImw%3d%3d&feed=rss",
+      "excerpt": "Kota Bharu: Dua rakyat Malaysia ditahan polis Thailand kerana disyaki terbabit dalam kes kecurian motosikal sewa di Sungai Golok, 6 Julai lalu. Ketua Polis Sungai Golok, Kolonel Thun Sirikhunt, berkata kedua-dua suspek berusia 26 dan 28 tahun itu...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: SPRM beku 14 akaun bank RM1.1 juta",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=19&article=8484bacf-b26f-4dd3-a353-c251bb82f29b&key=KYF31UiOOYzD9QVxy%2f4sdg%3d%3d&feed=rss",
+      "excerpt": "Kuala Lumpur: Suruhanjaya Pencegahan Rasuah Malaysia (SPRM) membeku 14 akaun bank bernilai kira-kira RM1.1 juta dalam siasatan terhadap kes rasuah dokumen imigresen di empat negeri, sejak Rabu lalu. Pembekuan itu terdiri daripada lima akaun syarikat...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Pelakon mengaku tidak salah ambil 3 jenis dadah",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=19&article=26085108-6a65-420a-9c79-c983b58aa0fe&key=b2UGpkZtaZSrmqdOKADy1Q%3d%3d&feed=rss",
+      "excerpt": "Seorang pelakon wanita yang membintangi drama kepolisan terkenal mengaku tidak bersalah di Mahkamah Majistret, di sini, semalam atas tuduhan memberi tiga jenis dadah kepada diri sendiri, Selasa lalu. Shanorbiah Shamsir Alam, 40, atau dikenali sebagai...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "berita-harian",
+      "title": "7/11/2026: Nasional: Pekerja cuci kenderaan kena dakwa pukul lelaki warga emas",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026071100000000001001&page=19&article=81910f93-46eb-4cf4-9796-5ab7dcd0e52e&key=OeSQ6%2fq%2bn5nQnAziFtD0WQ%3d%3d&feed=rss",
+      "excerpt": "Seorang pekerja cuci kenderaan mengaku tidak bersalah di Mahkamah Sesyen Ayer Keroh, di sini, semalam, atas pertuduhan memukul lelaki warga emas dengan pengunci tayar motosikal hingga parah awal bulan ini. M Withvanathan, 35, membuat pengakuan itu...",
+      "category": "politics",
+      "source": "Berita Harian (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Communications minister to receive Datuk Seri title",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=2&article=ef701c45-2008-4a4e-ae6a-2ca14fc24b5d&key=tlX7lngUNlnQMQ9oC2UUHA%3d%3d&feed=rss",
+      "excerpt": "GEORGE TOWN: Communications Minister Datuk Fahmi Fadzil will head the list of 1,221 recipients of state honours, awards and medals in conjunction with the 85th birthday of Penang Governor Tun Ramli Ngah Talib today. Fahmi, who is also Unity government...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: New Bukit Kayu Hitam-Sadao road launched",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=2&article=87df182b-3f0c-48e9-a7e5-9e78fc33cbd3&key=vDdig0HWtTqDaM51G9Zs3g%3d%3d&feed=rss",
+      "excerpt": "HITAM: Prime Minister Datuk Seri Anwar Ibrahim and his Thai counterpart Anutin Charnvirakul officiated at the launch of the new road linking the Bukit Kayu Hitam Immigration, Customs, Quarantine and Security Complex with Thailand’s Sadao Customs,...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Election Commission expects voter turnout to reach 70%",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=2&article=0aa90337-a090-4cbf-ae33-d9e31fe83b6f&key=Ba6mcmNW38YqbGp49e3nbQ%3d%3d&feed=rss",
+      "excerpt": "The Election Commission (EC) expects voter turnout for today’s Johor state election to reach around 70%, driven by strong public interest in participating in the democratic process. Its chairman Datuk Seri Ramlan Harun said the projection is based on...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: ‘Act against PH campaign workers who rode bikes without helmets’",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=2&article=4031e9c1-c1cb-45da-9aff-92453d985df0&key=dWFRamnLdvhcFDqSR26Wbg%3d%3d&feed=rss",
+      "excerpt": "The Transport Ministry is treating seriously an incident involving a group of Pakatan Harapan (PH) campaign workers, including from DAP, who were seen riding motorcycles without helmets during the Johor state election campaign, said Transport Minister...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Anwar wishes Tun M on 101st birthday",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=2&article=a5d83b80-0ff5-41c9-8226-1710108a30e7&key=hj8Lrs%2fB7gexwe9zUNFMbQ%3d%3d&feed=rss",
+      "excerpt": "Prime Minister Datuk Seri Anwar Ibrahim extended birthday greetings to former Prime Minister Tun Dr Mahathir Mohamad, who turned 101 yesterday. “May Tun continue to be blessed with grace, good health and be under His blessings, Insya-Allah,” he said...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Almost RM20b withdrawn by 5.5m EPF members",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=3&article=098d3f56-779d-4e70-ab1a-a563ef21fe64&key=Jk1Ss8ErJOf%2bQX2fpT8oBw%3d%3d&feed=rss",
+      "excerpt": "PETALING JAYA: The Employees Provident Fund Flexible Account recorded RM19.87 billion in withdrawals involving 5.5 million members as of May 31, with RM14.36 billion remaining in the account, the Finance Ministry (MOF) said. In a written parliamentary...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Fuel subsidy bill set to hit RM40 billion in 2026",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=3&article=e71b243f-04ec-4e20-a406-50c135c3c033&key=V7h%2fnT%2fdCHOEyXtx6tkU8g%3d%3d&feed=rss",
+      "excerpt": "The government is expected to spend close to RM40 billion on petroleum product subsidies in 2026 if current market prices remain unchanged, said the Finance Ministry. In a written parliamentary reply, it said subsidy spending had moderated to about...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Ministry records rise in complaints on prices of goods",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=3&article=a68dabda-695f-43b1-b3b7-fa0bca8e60d5&key=RGXSzPQWO6Qnhs1YeRnjaw%3d%3d&feed=rss",
+      "excerpt": "The Domestic Trade and Cost of Living Ministry recorded 12,683 complaints on goods prices in 2025, up from 12,474 in 2024, as the government continues efforts to curb price manipulation and unreasonable increases. Its minister Datuk Armizan Mohd Ali...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Competition Bills passed in third week of meeting",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=3&article=16015693-0fb9-46fb-b50b-23f37a4faebc&key=%2bpG1F5SIYg6DgxvRqFqEvw%3d%3d&feed=rss",
+      "excerpt": "The third week of the meeting saw the tabling and passing of two Bills, alongside debates on a wide range of issues concerning public wellbeing, healthcare, food security, energy, national security and governance. The Bills were the Competition...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Call for Lindung scheme to be fully employer-funded",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=4&article=2e94c0cc-c3bd-4b3c-93c0-3374cc748d83&key=0tLuqwQ8QSEwjCgO84mRkg%3d%3d&feed=rss",
+      "excerpt": "PETALING JAYA: A trade unionist has proposed that funding for the Lindung 24 Jam scheme should be borne by employers instead of workers. Former workers’ representative on the Social Security Organisation (Socso) Appellate Board K. Veeriah said...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Rising costs reshaping family planning choices",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=4&article=c5cd8237-668d-415e-8767-1c1ba77daea2&key=LNRKI4fx6x62doAOTr1qCw%3d%3d&feed=rss",
+      "excerpt": "PETALING JAYA: Having children remains a dream for many Malaysians, but a growing number now weigh it as a financial decision they are unsure they can afford, with rising living costs increasingly shaping choices around marriage and family...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Delayed parenthood leading to declining birth rate: Expert",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=4&article=3ff01b0b-38c2-4704-9731-87238a8cce79&key=mrVqejmsn%2buLSlEeWz3DxA%3d%3d&feed=rss",
+      "excerpt": "Malaysia’s declining birth rate is not simply a matter of couples choosing to have fewer children, but reflects broader social and economic changes that are reshaping how young people approach marriage and family life, a family studies expert said. In...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: CRIME CRUSHING ...",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=6&article=caaf4578-4317-4c91-b197-ab121a292d93&key=xy4tb%2fHQRxkLcXUwZLItFQ%3d%3d&feed=rss",
+      "excerpt": "Penang police chief Datuk Dennis K.K. Lim driving a steamroller over seized items during an event at the Northest district police headquarters to destroy exhibits from cases that have been disposed by the courts. –",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Teen charged with attempted murder",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=6&article=a02ba3f5-e756-4c06-846b-2dc587466220&key=geRfOXzB%2bBOkvuTmObYQ3Q%3d%3d&feed=rss",
+      "excerpt": "BANTING: A teenage girl has been charged in the Telok Datok Magistrate’s Court with attempting to murder a Form Three student at a secondary school here last Monday. DPP Muhammad Amirul Syafiq Yazid said no plea was recorded from the 15-year-old girl...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Drug smuggling via courier services foiled",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=6&article=ad1bd43a-739d-4e54-8f7d-5c6a5b7b89be&key=4EGWkF15z6fHcjVq1kOPBw%3d%3d&feed=rss",
+      "excerpt": "The Selangor Customs Department has foiled four attempts to smuggle drugs worth more than RM513,000 through courier services in operations conducted in Sepang and Subang Jaya. Its director Mohamad Azhar Ahmad Paharazi said the seizures, valued at...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Student chases schoolmates with utility blade",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=6&article=8997300b-3857-4635-ab87-396058d841fc&key=XjuN6l5BbSbwLfY%2fixWOOA%3d%3d&feed=rss",
+      "excerpt": "ALOR GAJAH: A secondary school student chased two schoolmates while wielding a rectractable cutter after becoming enraged at being repeatedly pelted with ice in an incident at a secondary school in the district. Alor Gajah police chief Supt Ahmad Abu...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: FRONT PAGE: Frozen goods, assets worth RM24m seized",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=6&article=67b4bb06-d584-473f-8dc1-d628c4a57603&key=xy1eAIubgvmVTOtTFd1UHA%3d%3d&feed=rss",
+      "excerpt": "KUALA LUMPUR: Police arrested 21 people and seized frozen products and assets worth over RM24 million during Op Chiller in 11 districts in Sabah. Bukit Aman Internal Security and Public Order Department director Datuk Seri Mohd Yusri Hassan Basri said...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Ingenious ‘barrel train’ draws folks to explore village",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=7&article=03b97db0-be2b-4387-9c02-1088f8fb49cf&key=zthIwDcTcypFVUkmfB%2fUNg%3d%3d&feed=rss",
+      "excerpt": "KULAI: A unique train made from repurposed oil drums, hands-on rubber tapping and coconut tree climbing are among the attractions drawing visitors to Kampung Sri Paya in Bukit Batu, where an experiential tourism initiative is offering an authentic...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Grants for KL heritage sites",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=7&article=8b1e103b-e903-4de6-bf94-4f78a90e666d&key=3bCAnTHpu3fnAuGGiR6X7Q%3d%3d&feed=rss",
+      "excerpt": "KUALA LUMPUR: The Downtown Kuala Lumpur Grants Programme has opened applications for its 2026 cycle, inviting people and organisations with ideas to make Kuala Lumpur’s historic core more liveable, inclusive and vibrant. Launched recently at the Odeon...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Hundreds evacuate in Taiwan ahead of typhoon",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=8&article=234910aa-7fdb-41a4-b9df-e3bf6c791229&key=E8mTBKJoPiEzSwi%2f2YFXjg%3d%3d&feed=rss",
+      "excerpt": "KEELUNG: Hundreds of people in Taiwan have been evacuated from their homes and many schools and offices closed as the biggest typhoon in decades swept towards the region yesterday. Typhoon Bavi is expected to pound Taiwan’s north and east, as well as...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Asean to discuss engagement with Myanmar",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=8&article=cf8f2a76-b77f-4e0c-839e-5cfee8dc17a8&key=VvZaSDW8%2bzZ5h1JPbQ823Q%3d%3d&feed=rss",
+      "excerpt": "An upcoming meeting between Foreign ministers of the Southeast Asian grouping Asean and their counterpart from Myanmar will address the country’s civil war and its engagement with the bloc after five years in the cold, the Philippines said...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: H5 bird flu detected in Australian seabird",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=8&article=638bf3ae-4ced-4124-80c8-5d1d2ec3914f&key=QNxEyigIDElCP1ownTEgmw%3d%3d&feed=rss",
+      "excerpt": "Scientists have detected the highly contagious H5 bird flu in an Australian seabird for the first time, the government said yesterday. Australia was for years the only continental landmass to be free of the H5 strain, which has caused severe disease...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Cameroon launches long-term HIV prevention drug",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=8&article=0ad40b62-8265-480e-b973-d3b5ed008b41&key=3YRr6ha%2bVORIYi9x5C8sLg%3d%3d&feed=rss",
+      "excerpt": "Cameroon has kicked off a pilot programme for Cabotegravir, a long-acting injectable drug for HIV prevention, officials announced on Thursday, reported Xinhua. The launch took place in Douala, the country’s economic capital. Public Health Minister...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Washington sues Maryland over ICE interference",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=9&article=70952cc1-3b15-4841-b5be-dc42f40307bf&key=cDhw6BQY87Pbrt6WI%2fHdhA%3d%3d&feed=rss",
+      "excerpt": "The US Justice Department sued Maryland on Thursday over what President Donald Trump’s administration cast as the state’s so-called sanctuary policies that it alleges are interfering with the federal government’s immigration crackdown. Acting US...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: PETS WELCOME ...",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=9&article=4d6ca5e6-6513-4895-acf6-4be70915e6e3&key=ykWg4P3IuPCYo8ITfnq1bQ%3d%3d&feed=rss",
+      "excerpt": "Dog owners ordering food with their corgis at a dog-friendly restaurant in the North Point district of Hong Kong on Thursday after authorities began allowing diners to bring dogs to restaurants in a bid to drum up business for the city’s struggling...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Colombian president vows ‘peaceful transition’",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=9&article=eaf393bc-b407-4cbb-91b9-e9e94af90852&key=VuIiqbsCgFpHW4U2VPfM2g%3d%3d&feed=rss",
+      "excerpt": "Colombia’s outgoing President Gustavo Petro on Thursday promised a “peaceful transition” to his elected successor Abelardo de la Espriella after calling for protests before the right-winger takes power. Petro, a combative leftist who was barred...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Mexican politician denies being in hiding",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=9&article=eee31eca-ebce-459b-9ed8-fe5abbfe2065&key=lBWP8gsatZmn%2fqCnb8RHXw%3d%3d&feed=rss",
+      "excerpt": "Embattled Mexican politician Ruben Rocha Moya, who until May served as governor of violence-plagued Sinaloa state, denied on Thursday that he is in hiding after his recent US indictment on drugs charges. The US Justice Department announced charges...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Forest fire kills 12 in Spain",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=9&article=e6bc6747-7d51-441f-a340-ff9c972b83a7&key=TXFm%2bhZj4Vh9bO402cgGSQ%3d%3d&feed=rss",
+      "excerpt": "At least 12 people were killed in a forest fire that broke out on Thursday in Los Gallardos municipality in Almeria province in Spain’s Andalusia region, Anadolu Ajansi reported, citing broadcaster RTVE. Andalusia’s emergency services said the victims...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Israel shares intel on new Iran plot to kill Trump",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=10&article=29f00c3a-e600-4279-90e1-c6cc16d3db29&key=8yUdCOL%2fcy3HIKzs6P19tA%3d%3d&feed=rss",
+      "excerpt": "Israel has shared intelligence with the United States this week about a new and “specific” plan by Iran to assassinate President Donald Trump, US media reported on Thursday. The reports come as renewed US and Iranian attacks raised fears of a return...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "the-sun",
+      "title": "7/11/2026: COMMUNITY: Syria captures IS-linked cell behind bombings",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=9g802026071100000000001001&page=10&article=bbf36b1c-5abf-4708-a8ee-a34bd3568586&key=oFuwqJPOz8rVWrHSapM3AQ%3d%3d&feed=rss",
+      "excerpt": "DAMASCUS: Syrian officials said on Thursday the country has captured an Islamic State (IS)-linked cell responsible for two bomb blasts during French President Emmanuel Macron’s visit to Damascus earlier this week. The attacks cast a shadow over the...",
+      "category": "politics",
+      "source": "The Sun (MY)"
+    },
+    {
+      "sourceId": "sin-chew-daily",
+      "title": "7/11/2026: 退出24小時保障須申請",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=57782026071100000000001001&page=1&article=31b53e93-215d-4c2c-b552-141822c741f2&key=JNqXN%2bwLfIQr3lDbzlaPYQ%3d%3d&feed=rss",
+      "excerpt": "（吉隆坡10日讯）社会保险机构宣布，有意退出“24小时保障计划”（LINDUNG...",
+      "category": "politics",
+      "source": "Sin Chew Daily - East Coast Edition (MY)"
+    },
+    {
+      "sourceId": "sin-chew-daily",
+      "title": "7/11/2026: 馬航亞航取消飛台航班",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=57782026071100000000001001&page=1&article=60d28acb-8875-4b63-9087-a18ee7a73073&key=w%2biTOE%2f%2beucSjTDqgqBYnw%3d%3d&feed=rss",
+      "excerpt": "（基隆、吉隆坡10日综合电）数十年来最强台风“巴威”逼近台湾，全台严阵以待，包括台北、桃园、台中等12个县市宣布周五全日或半日停班停课，花莲部分地区考虑堰塞湖威胁，已启动预警性撤离。 菲至少15人死6失踪 在“巴威”带来的强降雨加剧下，菲律宾南部棉兰老岛周五发生山体滑坡，警方称有至少15人死亡，另有6人失踪。 预计“巴威”将在周五至周六吹袭台湾北部和东部以及日本偏远的西南部岛屿，随后登陆中国。 马航今日也在脸书发文宣布，由于受到台风及恶劣天气影响，取消明日往返吉隆坡与台北的两趟航班。取消的航...",
+      "category": "politics",
+      "source": "Sin Chew Daily - East Coast Edition (MY)"
+    },
+    {
+      "sourceId": "sin-chew-daily",
+      "title": "7/11/2026: 馬泰邊境新通道啓用",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=57782026071100000000001001&page=1&article=4172b98d-b701-4fec-bfc7-3852cc2e8107&key=n5vZHo%2bMhxQH%2b3v5jkKohw%3d%3d&feed=rss",
+      "excerpt": "衔接吉打黑木山移民、关税、检疫及安全大厦至泰国昔罗移民、关税、检疫及安全大厦的边境新通道将于周六（11日）清晨6时正式启用。原有黑木山往返泰国丹诺的旧通道，则会于11日凌晨12时全面关闭。 首相拿督斯里安华和泰国首相阿努廷于10日共同主持新通道启用仪式，象征马泰两国跨境合作迈入新阶段。 新通道的运作将进一步改善马泰边境交通流量，提升两国通关效率，为跨境物流、贸易及旅游往来提供更便利的交通网络，也可减缓当地面对的交通阻塞情况。（图由首相办事处提供）",
+      "category": "politics",
+      "source": "Sin Chew Daily - East Coast Edition (MY)"
+    },
+    {
+      "sourceId": "sin-chew-daily",
+      "title": "7/11/2026: “職業賦權計劃2.0”舞弊案交反貪會跟進",
+      "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=57782026071100000000001001&page=1&article=41bed1ff-e2a6-45ab-b6ae-f0666ce0f5e2&key=zgHFFSaBIhWuQmCdmuT28Q%3d%3d&feed=rss",
+      "excerpt": "另一方面，莫哈末阿兹曼表示，针对“职业赋权计划2.0”舞弊案，该机构的反欺诈部门早在2024年12月，在人工智能系统识别异常后随即展开调查，随后主动把相关资料交由反贪污委员会跟进。 “我们成功阻止支付约533万令吉的虚假索赔款项，同时追回约126万令吉已支付的款项。” 他指出，社险机构欢迎反贪会提供协助，包括派遣治理团队协助检视及改善现有的索赔程序。 他补充，社险机构内部的官员并未涉及有关舞弊案，并强调该机构对内部人员涉及虚假索赔的申请，采取零容忍的态度。",
+      "category": "politics",
+      "source": "Sin Chew Daily - East Coast Edition (MY)"
     }
   ]
 }
