@@ -669,21 +669,17 @@
     "url": "https://www.rfa.org/mandarin/RSS",
     "category": "politics",
     "enabled": false,
-    "locales": [
-      "zh"
-    ]
-  }，
+    "locales": ["zh"]
+  },
   {
     "id": "China Press",
     "name": "China Press (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5601&type=full",
     "category": "politics",
-    "subcategory": "world", 
+    "subcategory": "malaysia-local",
     "enabled": true,
-    "locales": [
-      "zh"  
-    ]
+    "locales": ["zh", "en"]
   },
   {
     "id": "Berita Harian",
@@ -691,23 +687,19 @@
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5831&type=full",
     "category": "politics",
-    "subcategory": "world",
+    "subcategory": "malaysia-local",
     "enabled": true,
-    "locales": [
-      "zh"
-    ]
-  }，
+    "locales": ["zh"]
+  },
   {
-    "id": "The Sun ",
+    "id": "The Sun",
     "name": "The Sun (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=9g80&type=full",
     "category": "politics",
-    "subcategory": "world", 
+    "subcategory": "malaysia-local",
     "enabled": true,
-    "locales": [
-      "zh"
-    ]
+    "locales": ["zh", "en"]
   },
   {
     "id": "Sin Chew Daily - East Coast Edition",
@@ -715,10 +707,8 @@
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5778",
     "category": "politics",
-    "subcategory": "world",
+    "subcategory": "malaysia-local",
     "enabled": true,
-    "locales": [
-      "zh"
-    ]
+    "locales": ["zh"]
   }
 ]
