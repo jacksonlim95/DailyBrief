@@ -672,7 +672,7 @@
     "locales": ["zh"]
   },
   {
-    "id": "China Press",
+    "id": "china-press",
     "name": "China Press (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5601&type=full",
@@ -682,7 +682,7 @@
     "locales": ["zh", "en"]
   },
   {
-    "id": "Berita Harian",
+    "id": "berita-harian",
     "name": "Berita Harian (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5831&type=full",
@@ -692,7 +692,7 @@
     "locales": ["zh"]
   },
   {
-    "id": "The Sun",
+    "id": "the-sun",
     "name": "The Sun (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=9g80&type=full",
@@ -702,7 +702,7 @@
     "locales": ["zh", "en"]
   },
   {
-    "id": "Sin Chew Daily - East Coast Edition",
+    "id": "sin-chew-daily",
     "name": "Sin Chew Daily - East Coast Edition (MY)",
     "type": "rss",
     "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=5778",
