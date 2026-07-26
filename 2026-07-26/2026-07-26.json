@@ -1,128 +1,127 @@
 {
-  "hero_headline": "印度部长因抗议辞职，柏林恐袭致1死",
-  "daily_overview": "科技领域迎来重大突破与争议：Anthropic发布Claude Opus 5引发评测争议，OpenAI推出ChatGPT Health服务并宣布Georgia算力新中心建设，Google DeepMind则发布Gemini 3.6 Flash系列模型及4000万美元科研基金。财经方面，美国通胀预期升温导致“特朗普交易”逆转，美欧科技巨头关税摩擦加剧，科技债发行激增影响信贷市场。时政领域焦点集中于国际冲突与抗议：印度爆发起因严苛校规的“蟑螂运动”，迫使教育部长辞职；柏林骄傲游行发生汽车冲撞事件致1死15伤；此外，美国扩大对华科研审查并将复旦、交大列入清单，地缘政治紧张态势持续。",
+  "hero_headline": "Anthropic发布Opus 5，全球地缘冲突加剧与科技巨头加速落子",
+  "daily_overview": "科技领域迎来重磅突破，Anthropic正式推出Claude Opus 5模型，其逻辑推理能力被视作具备Fable级表现但定价更具亲和力；同时OpenAI宣布将ChatGPT接入医疗健康服务，Google DeepMind发布Gemini 3.6 Flash系列以强化多模态能力。财经方面，随着特朗普第二任期政策落地，“特朗普交易”在股市转为失利，美国国债市场面临科技巨头巨额发债冲击；美中经贸摩擦升级，美国扩大科研审查并限制芯片出口。地缘政治层面，印度爆发大规模学生抗议导致内阁部长辞职，美伊军事摩擦虽暂时降温但风险犹存，欧洲则面临严重火灾危机。",
   "tech_briefs": [
     {
-      "title": "Anthropic发布Claude Opus 5引争议",
+      "title": "Anthropic发布Claude Opus 5，展现Fable级推理能力",
       "url": "https://news.smol.ai/issues/26-07-24-opus-5/",
       "source": "Smol AI News",
-      "summary": "Anthropic推出Claude Opus 5模型，在编程能力上获认可，但基准测试表现复杂。该模型被视为Fable级别的 distilled 版本，引发业界对性能真实性的讨论。（多家报道）",
+      "summary": "Anthropic推出新一代Claude Opus 5模型，基准测试显示其代码与逻辑推理能力达到极高水准。尽管初期遭遇部分评测争议，但其高效能被视为对当前大模型格局的重要补充。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "OpenAI ChatGPT上线健康功能，整合Apple Health数据",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI宣布在ChatGPT中新增健康模块，允许美国合格用户安全连接医疗记录与Apple Health数据。此举旨在利用AI提供更个性化的健康洞察，是AI深入垂直专业服务领域的关键一步。",
       "importance": 9
     },
     {
-      "title": "OpenAI上线ChatGPT Health服务",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "允许美国合规用户安全连接医疗记录及Apple Health数据，提供个性化健康洞察。同时宣布在乔治亚州埃芬汉姆县建设AI基础设施，承诺社区投资。",
-      "importance": 8
-    },
-    {
-      "title": "DeepMind发布Gemini 3.6 Flash等模型",
+      "title": "DeepMind发布Gemini 3.6 Flash系列及Cyber专用模型",
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
       "source": "DeepMind Blog",
-      "summary": "推出Gemini 3.6 Flash、3.5 Flash-Lite及Cyber版本，旨在提升推理速度与安全防御能力。同期宣布向Genesis Mission提供4000万美元AI资源支持基础科研。",
+      "summary": "Google DeepMind推出Gemini 3.6 Flash、Lite及Cyber三个新模型版本，显著提升推理速度与安全性。新架构在保持低延迟的同时优化了对抗性攻击防御，强化企业级应用落地能力。",
       "importance": 8
     },
     {
-      "title": "GitHub开源代码审查工具Alibaba Open Code Review",
-      "url": "https://github.com/alibaba/open-code-review",
+      "title": "GitHub热门项目：Block推出Hive Mind通信平台",
+      "url": "https://github.com/block/buzz",
       "source": "GitHub Trending",
-      "summary": "阿里开源Hybrid架构代码审查工具，融合确定性管线与LLM Agent，实现精准行级注释及内置规则微调，已在阿里内部大规模验证，显著提升工程效率。",
+      "summary": "金融科技公司Block开源Buz项目（Buzz），定位为蜂巢思维通信平台。该项目利用分布式架构实现多智能体协同沟通，为去中心化团队协作提供底层技术支持，引发开发者广泛关注。",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普交易逆转，市场信心受挫",
+      "title": "美股‘特朗普交易’反噬，市场转向失望情绪",
       "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
       "source": "Bloomberg Markets",
-      "summary": "随着第二任期经济政策落地，投资者发现预期的利好并未兑现，反而面临通胀与贸易壁垒风险。美股中受益板块表现不及预期，“特朗普交易”正转为亏损资产。",
+      "summary": "随着特朗普政府激进经济政策效应显现，此前押注其政策的投资者遭遇亏损。通胀预期升温与政策不确定性导致市场回调，表明单一政治交易策略在当前波动环境中失效。",
+      "importance": 9
+    },
+    {
+      "title": "美股‘特朗普交易’反噬，市场转向失望情绪",
+      "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f",
+      "source": "Financial Times",
+      "summary": "美国民主党高层指责政府政策加剧了半导体短缺，迫使苹果等巨头寻求绕过限制的采购渠道。中美科技博弈持续，芯片供应链紧张局势进一步影响全球科技产业发展。",
       "importance": 8
     },
     {
-      "title": "科技巨头债务激增冲击信贷市场",
+      "title": "科技巨头巨量发债扰乱美债市场风险偏好",
       "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
       "source": "Bloomberg Markets",
-      "summary": "为满足AI算力投资需求，大型科技公司大量发行债券。这股债务洪流正占据企业信用市场的大量份额，推高融资成本，潜在风险超出市场预期。",
-      "importance": 7
-    },
-    {
-      "title": "美英科技关税摩擦升级",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "美国总统特朗普誓言调查欧盟对美国科技公司的罚款，要求撤销针对谷歌、苹果等的制裁。与此同时，英国在对美贸易谈判中的优势地位正逐渐减弱。",
-      "importance": 7
+      "summary": "为满足AI数据中心建设的狂热资金需求，美国大型科技公司密集发行债券。这股巨大的融资潮正占据企业债市场风险敞口，推高收益率并对固定收益投资回报构成潜在挤压。",
+      "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "印度爆发“蟑螂运动”致部长辞职",
-      "url": "https://www.dw.com/zh/蟑螂运动-重大胜利：印度教育部长辞职/a-78113808?maca=chi-rss-chi-all-1127-rdf",
+      "title": "印度爆发大规模青年抗议，教育部长被迫辞职",
+      "url": "https://www.dw.com/zh/蟑螂运动-重大胜利：印度教育部长辞职/a-78113808",
       "source": "DW 中文",
-      "summary": "印度学生因不满校园着装新规发起“蟑螂运动”大规模抗议。在持续施压下，教育部长普拉丹被迫辞职。这是莫迪政府近年来面对的最大规模民意反弹。",
+      "summary": "由Z世代主导的“蟑螂运动”在印度多地演变为大规模抗议活动，对莫迪政府施压巨大。在持续数周的社会压力下，印度教育部长按下辞职按钮，标志着近年来民众运动取得罕见突破。",
       "importance": 9
     },
     {
-      "title": "柏林骄傲游行遭车辆冲撞致1死",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "source": "The Guardian",
-      "summary": "柏林年度LGBTQ+骄傲游行期间，一辆面包车冲入人群，造成至少1人死亡、15人受伤。警方已封锁现场并展开嫌疑人搜寻，原定后续活动被迫取消。",
-      "importance": 9
-    },
-    {
-      "title": "美国扩大对华科研合作限制",
-      "url": "https://www.dw.com/zh/复旦、上海交大上-黑名单-？美国扩大对华科研审查/a-78113419?maca=chi-rss-chi-all-1127-rdf",
+      "title": "美国扩大科研审查，复旦上交被列入限制名单",
+      "url": "https://www.dw.com/zh/复旦、上海交大上-黑名单-？美国扩大对华科研审查/a-78113419",
       "source": "DW 中文",
-      "summary": "美国国防部更新“第1286条”名单，将复旦大学和上海交通大学列入。此举禁止美国政府资金用于涉及这些机构的合作或基础研究项目，进一步收紧双边科研交流。",
+      "summary": "美国国防部更新第1286条名单，将复旦大学和上海交大列为“问题活动”机构。此举严厉限制相关合作及资金支持，进一步收紧中美学术交流通道，加剧科技脱钩趋势。",
       "importance": 8
+    },
+    {
+      "title": "美伊战事暂时降温，但中东局势仍极度紧绷",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "source": "NYT World",
+      "summary": "尽管美伊直接军事打击有所收缓，但胡塞武装与美国支持的多国联军仍在交火，乌克兰亦袭击涉俄物资船只。特朗普政府内部对扩大冲突持谨慎态度，警惕军备库存耗尽风险。",
+      "importance": 7
     }
   ],
-  "editor_note": "全球局势处于多线震荡期：国内抗议与街头意外频发，显示社会情绪紧绷；科技与地缘政治深度绑定，科研封锁成为新常态。建议持续关注美国宏观政策对实体经济的滞后冲击。",
+  "editor_note": "Opus 5发布标志大模型从参数竞赛转向能力深化，科技与地缘的双重撕裂正在重塑全球经济秩序，短期波动难改长期重构趋势。",
   "keywords": [
     "Claude Opus 5",
-    "印度抗议",
-    "柏林车祸",
-    "特朗普交易",
-    "美对华科研审查",
     "OpenAI Health",
+    "特朗普交易失败",
+    "印度抗议潮",
+    "美国科研制裁",
     "Gemini 3.6",
-    "科技债"
+    "美伊冲突"
   ],
   "trading": {
-    "market_overview": "美股板块呈显著分化态势：纳指 ETF (QQQ) RSI 降至 39.3，呈现弱势整理；而苹果 (AAPL) 与 WTI 原油 (CL=F) 则维持多头排列与上升趋势。加密市场处于深度恐慌，恐慌贪婪指数仅 27 分，BTC 与 ETH 的 52 周跌幅均超六成，但价格目前围绕 SMA20 窄幅震荡，MACD 柱状图转正显示短期卖压衰竭中概股整体受空头排列压制，腾讯 (0700.HK) MACD 死叉加剧下行风险。宏观面美元指数 DXY 虽多头排列但 RSI 62.5，10Y 美债收益率突破 4.68% 且 RSI 64.5 接近超买区间，对风险资产形成潜在流动性压制。商品端黄金 (GC=F) 与美元/人民币均表现疲软，整体市场呈现高波动与防御性特征并存的格局。",
+    "market_overview": "美股层面呈现分化格局，SPY 与 QQQ 受制于均线空头排列及 MACD 死叉下行压力，其中 QQQ 的 RSI14 降至 39.3，显示科技板块动量显著减弱；但 AAPL 以多头排列和 3.53% 的单日涨幅脱离均线压制，形成局部亮点。加密市场方面，总市值 2.28T 美元波动平缓，BTC 主导率稳定在 56.5%，恐惧贪婪指数 26 处于极度恐慌区间，尽管 BTC 与 ETH 均位于 SMA20 附近且 RSI 接近中性，但整体缺乏明确趋势动能。中概股技术面普遍偏弱，腾讯控股与阿里巴巴均触发空头排列，JD 虽站稳均线但涨幅有限。宏观与商品端，美元指数 DXY 维持多头排列且逼近 52 周高，10Y 美债收益率同步上行，支撑美元强势；WTI 原油表现最强，突破多头排列，而黄金与美元指数出现背离。",
     "watchlist": [
       {
+        "symbol": "AAPL",
+        "display_name": "Apple (AAPL)",
+        "stance": "偏上行",
+        "rationale": "当前呈现明显的偏上行技术形态。价格 333.02 大幅站上 SMA20/50/200 多条均线之上，形成标准的多头排列结构。单日涨幅达 3.53%，RSI14 回升至 65.2 正常区间，MACD 柱状图正向扩大至 0.91（MACD 8.45 高于信号 7.54），显示多头动能强劲，短期趋势向上。"
+      },
+      {
         "symbol": "TSLA",
-        "display_name": "特斯拉 (TSLA)",
+        "display_name": "Tesla (TSLA)",
         "stance": "偏下行",
-        "rationale": "技术形态极为弱势，RSI 已跌至 28，处于严重超卖区域。均线系统呈现典型的空头排列，SMA20 (388.72)、SMA50 (402.56) 及 SMA200 (414.71) 依次向下压制。MACD 绿柱持续扩大至 -16.1025，且低于信号线 -7.7373，动量指标显示强烈的下行趋势。近 5 日跌幅高达 -17.81%，短期内缺乏有效支撑，惯性下探概率较大。"
+        "rationale": "技术面处于极弱势偏下行状态。价格持续低于 SMA20(388)/50(402)/200(414)，呈深度空头排列。近五日跌幅高达 -17.81%，RSI14 仅为 28，已进入超卖区域。MACD 柱状图大幅为负（-8.37），空头动能释放充分，尽管存在超卖反弹需求，但当前主趋势依然向下。"
       },
       {
         "symbol": "QQQ",
-        "display_name": "纳斯达克 100 ETF (QQQ)",
+        "display_name": "Nasdaq 100 ETF (QQQ)",
         "stance": "偏下行",
-        "rationale": "作为科技成长风向标，其技术面已转弱。当前价格 684.23 跌破 SMA20 (711.71) 与 SMA50 (718.29)，MA200 (643.17) 尚远未触及。RSI 滑落至 39.3，接近超卖边缘。MACD 大幅转为负值 (-6.0366)，动能显著衰退。近 5 日累计下跌 -1.6%，市场情绪谨慎，短期仍有向 SMA200 寻找支撑的可能。"
+        "rationale": "呈现技术性偏下行特征。价格 684.23 低于 SMA20(711) 及 SMA50(718)，均线系统呈下行压制态势。RSI14 降至 39.3，MACD 处于零轴下方深谷（-6.04），虽然尚未进入极端超卖，但近五日回调 1.6% 且无明确止跌信号，空头占据主导。"
       },
       {
-        "symbol": "CL=F",
-        "display_name": "WTI 原油期货 (CL=F)",
-        "stance": "偏上行",
-        "rationale": "原油品种呈现相对强势的多头结构。价格走势在 SMA20 (76.89)、SMA50 (84.4) 与 SMA200 (75.24) 之上（注：数据隐含强劲买盘），均线呈多头排列。MACD 柱状图为正 (1.9934) 且高于信号线，表明上涨动能仍在延续。尽管 RSI 14 为 64.3 略近超买区，但近 5 日涨幅达 8.27%，技术面看多意愿强烈。"
-      },
-      {
-        "symbol": "AAPL",
-        "display_name": "苹果 (AAPL)",
-        "stance": "偏上行",
-        "rationale": "个股技术面表现亮眼，形成标准的多头排列，价格站在 SMA20 (314.39)、SMA50 (306.23) 及 SMA200 (275.98) 之上。MACD 红柱明显放大至 8.4465，远超信号线 7.5385，显示资金流入积极。RSI 录得 65.2，处于健康上行通道。价格逼近 52 周高点，日内涨幅达 +3.53%，短期上涨趋势确立。"
+        "symbol": "GC=F",
+        "display_name": "黄金期货 (GC=F)",
+        "stance": "中性",
+        "rationale": "当前处于多空胶着的偏中性状态。价格 4070.8 略高于 SMA20(4067)，但整体运行于 SMA50(4254) 之下，均线呈空头排列趋势。RSI14 为 45.9 处于中性偏弱区间，MACD 柱状图虽为负但收敛中，单日微涨 0.6% 显示下方有支撑，暂无方向性突破。"
       },
       {
         "symbol": "DX-Y.NYB",
-        "display_name": "美元指数 DXY",
-        "stance": "中性",
-        "rationale": "美元指数虽维持多头排列，价格位于 SMA200 (99.1) 上方，且近期 RSI 达 62.5 表明买盘尚可。然而，MACD 柱状图仅为微弱的正值 0.2549，且信号线几乎粘合，暗示上行动能边际减弱。近 5 日涨幅仅 0.71%，缺乏突破性动能。在 crypto 极度恐慌及美债收益率高企的背景下，其走势大概率呈现高位震荡整理的中性格局。"
+        "display_name": "美元指数 DXY (DX-Y.NYB)",
+        "stance": "偏上行",
+        "rationale": "技术指标偏向于上行。美元指数维持多头排列，SMA20/50/200 依次向上发散（101.06/100.25/99.1）。RSI14 升至 62.5，MACD 柱状图转正（0.25），表明美元在当前宏观环境下动能较强，趋势向上。"
       }
     ],
-    "risk_caveat": "技术指标仅反映历史统计规律，过去走势不代表未来表现。本内容仅供技术指标解读参考，不构成任何投资建议或买卖依据。",
+    "risk_caveat": "本报告仅基于输入数据计算的技术指标进行客观形态描述，旨在解读当前的市场技术状态。所有读数、交叉或背离现象仅反映历史数据特征，过去走势不代表未来表现。本内容仅供技术指标解读参考，不构成任何投资建议或买卖依据。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -344,18 +343,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64338.75,
-        "pct1Day": 0.3748198801709893,
-        "pct5Day": -1.366360524506813,
-        "pct52WeekHigh": -49.0176434552446,
-        "pct52WeekLow": 11.413400823159108,
-        "sma20": 64241.6142578125,
-        "sma50": 63175.488984375,
-        "sma200": 72259.7009375,
-        "rsi14": 50.68385965926163,
-        "macd": 420.76316895704076,
-        "macdSignal": 339.94274623068753,
-        "macdHistogram": 80.82042272635323,
+        "currentPrice": 64366.16,
+        "pct1Day": 0.4175821939075141,
+        "pct5Day": -1.3243399994263039,
+        "pct52WeekHigh": -48.995923630210825,
+        "pct52WeekLow": 11.46086586275909,
+        "sma20": 64242.984765625,
+        "sma50": 63176.0371875,
+        "sma200": 72259.83798828124,
+        "rsi14": 50.80521142635344,
+        "macd": 422.9497341276583,
+        "macdSignal": 340.380059264397,
+        "macdHistogram": 82.5696748632613,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -366,18 +365,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1872.85,
-        "pct1Day": 0.6812923629044361,
-        "pct5Day": -1.6235727618693356,
-        "pct52WeekHigh": -62.193158169808505,
-        "pct52WeekLow": 24.317485157872287,
-        "sma20": 1841.7797302246095,
-        "sma50": 1741.5872534179687,
-        "sma200": 2145.9538232421874,
-        "rsi14": 55.97200806021142,
-        "macd": 39.28215178018513,
-        "macdSignal": 38.50053800714126,
-        "macdHistogram": 0.7816137730438726,
+        "currentPrice": 1875.89,
+        "pct1Day": 0.8447176926335915,
+        "pct5Day": -1.4638886767563066,
+        "pct52WeekHigh": -62.13179030844012,
+        "pct52WeekLow": 24.519276628027374,
+        "sma20": 1841.9317321777344,
+        "sma50": 1741.6480541992187,
+        "sma200": 2145.9690234375,
+        "rsi14": 56.290782783524286,
+        "macd": 39.52466201879429,
+        "macdSignal": 38.54904005486974,
+        "macdHistogram": 0.9756219639245458,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -388,18 +387,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 74.41,
-        "pct1Day": 0.7174976878404942,
-        "pct5Day": -4.347387327729891,
-        "pct52WeekHigh": -70.61331330252095,
-        "pct52WeekLow": 23.165347782791997,
-        "sma20": 77.00525665283203,
-        "sma50": 73.67827613830566,
-        "sma200": 88.34398654937745,
-        "rsi14": 44.627466950065624,
-        "macd": -0.05936221530647856,
-        "macdSignal": 0.3637653807604447,
-        "macdHistogram": -0.42312759606692324,
+        "currentPrice": 74.58,
+        "pct1Day": 0.9476008272966567,
+        "pct5Day": -4.128855622928303,
+        "pct52WeekHigh": -70.54617532726802,
+        "pct52WeekLow": 23.44673615966439,
+        "sma20": 77.0137565612793,
+        "sma50": 73.68167610168457,
+        "sma200": 88.34483654022216,
+        "rsi14": 45.15951994230815,
+        "macd": -0.04580110780955238,
+        "macdSignal": 0.36647760226327586,
+        "macdHistogram": -0.41227871007282824,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -683,19 +682,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 27,
+      "value": 26,
       "classification": "Fear",
       "classificationCn": "恐慌",
-      "timestamp": "2026-07-25T00:00:00.000Z"
+      "timestamp": "2026-07-26T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2283519679981.5854,
-      "total24hVolumeUsd": 38806102950.84906,
-      "marketCapChangePct24h": 0.41793013174797045,
-      "btcDominance": 56.52441264842531,
-      "ethDominance": 9.895198095994825,
+      "totalMarketCapUsd": 2284972613046.9,
+      "total24hVolumeUsd": 38727629133.53063,
+      "marketCapChangePct24h": 0.5478808192002033,
+      "btcDominance": 56.51806840186728,
+      "ethDominance": 9.905375530069449,
       "activeCryptocurrencies": 17825
     },
-    "generated_at": "2026-07-25T23:40:36.891Z"
+    "generated_at": "2026-07-26T00:12:13.050Z"
   }
 }
