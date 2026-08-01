@@ -710,5 +710,35 @@
     "subcategory": "malaysia",
     "enabled": true,
     "locales": ["zh"]
+  },
+  {
+    "id": "new-straits-times",
+    "name": "New Straits Times (MY)",
+    "type": "rss",
+    "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=9gqu&type=full",
+    "category": "politics",
+    "subcategory": "malaysia",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "Prestige",
+    "name": "Prestige (MY)",
+    "type": "rss",
+    "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=9kgf&type=full",
+    "category": "politics",
+    "subcategory": "malaysia",
+    "enabled": true,
+    "locales": ["zh", "en"]
+  },
+  {
+    "id": "the-star",
+    "name": "The Star (MY)",
+    "type": "rss",
+    "url": "https://www.pressdisplay.com/pressdisplay/services/rss.ashx?cid=1342&type=full",
+    "category": "politics",
+    "subcategory": "malaysia",
+    "enabled": true,
+    "locales": ["zh", "en"]
   }
 ]
