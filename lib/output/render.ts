@@ -173,7 +173,7 @@ const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
   // overseas-community (Hacker News / r/stocks).
   tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community"],
   finance: ["news"],
-  politics: ["world"],
+  politics: ["world"，"malaysia"],
 };
 
 const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
@@ -189,6 +189,7 @@ const SUBCATEGORY_LABELS: Record<string, string> = {
   "blog-weekly": STR.subBlogWeekly,
   news: STR.subFinanceNews,
   world: STR.subWorld,
+  "malaysia": "大马新闻",
 };
 
 /**
