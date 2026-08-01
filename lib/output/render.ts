@@ -243,6 +243,7 @@ export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
   "tech:ai-news": 15,
   "finance:news": 30,
   "politics:world": 30,
+  "politics:malaysia": 30,
 };
 
 /**
