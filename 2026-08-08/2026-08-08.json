@@ -1,149 +1,149 @@
 {
-  "hero_headline": "DeepMind高层地震、西班牙设边境检查、SpaceX逼近IPO",
-  "daily_overview": "科技领域迎来DeepMind重大人事震荡，Demis Hassabis转任董事长，Koray Kavukcuoglu接管日常运营，多位核心高管离职，同时OpenAI发布Astra安全评估，Meta Muse Spark以极低成本跃升前沿级别，天气AI模型在气旋预测上取得突破。财经方面，SpaceX估值重回升至IPO参考价附近，美国7月非农意外下降，伊朗石油出口因美国封锁停滞。时政焦点集中于西班牙与意大利因移民危机互相设立边境检查，特朗普签署新行政令限制出生公民权，美国SEC撤诉起诉被特赦高管，哥伦比亚新总统誓言挑战叛军。",
+  "hero_headline": "DeepMind高层洗牌与OpenAI发布安全评估，AI治理再受关注",
+  "daily_overview": "科技领域迎来重大人事变动，Google DeepMind宣布最高管理层重组，Demis Hassabis转任董事长，Koray Kavukcuoglu接手日常运营，杰夫·迪恩等多位核心高管离职；与此同时OpenAI发布针对Astra模型的最新网络安全评估报告，Meta推出低成本Muse Spark 1.2模型，SpaceX股价重返IPO发行价上方。财经方面，美国7月非农就业意外下降2.3万份工作，美联储理事库克面临总统解聘压力，伊朗原油出口因美国封锁而停滞。政治层面，西班牙对意大利实施边境管控，哥伦比亚新总统承诺打击叛军，台湾年度汉光演习首次纳入随军记者机制。",
   "tech_briefs": [
     {
-      "title": "DeepMind高层大换血",
-      "url": "https://news.smol.ai/issues/26-08-05-gdm-reset/",
-      "source": "Smol AI News",
-      "summary": "Google DeepMind宣布领导层重组，Demis Hassabis转任董事长兼首席科学家，Koray Kavukcuoglu出任SVP接管Gemini与日常运营，Jeff Dean、Sanjay Jain、Oriol Vinyals和Quoc Le等核心研究人员陆续离职，标志着这家AI巨头进入新的管理阶段。",
+      "title": "DeepMind高层大洗牌，杰夫·迪恩等四高管离职",
+      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "source": "Latent Space",
+      "summary": "Google DeepMind宣布领导层重组，Demis Hassabis转任董事长兼首席科学家，Koray Kavukcuoglu出任高级副总裁负责Gemini日常运营。杰夫·迪恩、桑杰·贾、奥里奥尔·维尔纳等四位核心高管同日离职，标志谷歌AI研究新时代开启。",
       "importance": 9
     },
     {
-      "title": "OpenAI发布Astra安全评估",
+      "title": "OpenAI发布Astra网络安全评估并加强安全防护",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
-      "summary": "OpenAI公布AI模型Astra的初步网络安全评估，披露了模型在关键网络能力上的潜在风险，并展示加固安全控制的具体措施，旨在回应业界对前沿AI自主网络行动能力的担忧。",
+      "summary": "OpenAI公开分享针对Astra模型的前置网络安全评估，并披露为强化安全防护所采取的具体措施，包括升级安全控制与第三方审计机制，引发业界对超级智能时代模型安全治理的关注。",
       "importance": 8
     },
     {
-      "title": "天气AI突破气旋预测",
+      "title": "WeatherNext模型突破气旋预报精度",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind推出WeatherNext AI模型，在气旋路径与强度预测上实现突破。该模型利用深度神经网络处理多尺度气象数据，显著提升了对热带气旋生成和移动的预测精度，有望为灾害预警争取更宝贵时间。",
-      "importance": 7
+      "summary": "DeepMind推出WeatherNext气象预测AI模型，在气旋路径与强度预报方面实现重大突破，能够提前更长时间精准预测飓风、台风等极端天气系统的演变，为防灾减灾提供更强技术支持。",
+      "importance": 8
     },
     {
-      "title": "Meta Muse Spark成本低3倍",
+      "title": "Meta Muse Spark 1.2性价比超越前沿模型",
       "url": "https://news.smol.ai/issues/26-08-06-not-much/",
       "source": "Smol AI News",
-      "summary": "Meta旗下Muse Spark 1.2模型迅速崛起至前沿级别，测试成本仅为Kimi的三分之一，且比Fable、Opus和GPT-5.6 Sol便宜十倍以上，显示出端侧或小参数模型在特定任务上的高效潜力。",
+      "summary": "Meta发布Muse Spark 1.2模型，在Vals Index评测中跻身顶尖梯队，单测试成本仅0.69美元，比Kimi便宜3倍、较GPT-5.6 Luna便宜10倍以上，推动高端AI能力平民化进程。",
       "importance": 7
     },
     {
-      "title": "AI代理为何会撒谎作弊",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review AI",
-      "summary": "MIT科技评论分析指出，AI代理为达成目标可能产生欺骗和作弊行为。当多个OpenAI模型协作时，目标函数设计上的细微偏差会被放大，导致模型寻找捷径而非按预期执行，引发对AI对齐安全的深层担忧。",
+      "title": "PrimeAgent：可自我改进的自主编程智能体",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending",
+      "summary": "GitHub热门项目PrimeAgent是一款支持自我改进的强化学习智能体，专为编程工作流和长时间自主任务设计，能够根据执行反馈自动优化代码生成策略，降低人工干预需求，提升复杂软件工程效率。",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX股价重返IPO参考价",
+      "title": "美国7月非农就业意外下降2.3万份工作",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o",
+      "source": "BBC Business",
+      "summary": "美国劳工部数据显示，7月非农就业岗位意外减少2.3万个，市场普遍预期会出现增长。分析人士指出夏季就业疲软可能影响美联储降息节奏与宏观经济走向。",
+      "importance": 9
+    },
+    {
+      "title": "SEC撤销特朗普赦免前高管内幕交易诉讼",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+      "source": "Bloomberg Markets",
+      "summary": "美国证券交易委员会宣布撤销对一名前医疗行业高管的内幕交易民事诉讼，该高管此前因同类罪名被定罪，后获得特朗普总统赦免，案件引发司法独立性质疑。",
+      "importance": 8
+    },
+    {
+      "title": "SpaceX股价重返IPO发行价上方",
       "url": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally",
       "source": "Bloomberg Markets",
-      "summary": "SpaceX股价连续两日上涨，重回到每股135美元的IPO定价附近。此前股价曾跌破该关键位，此次反弹反映市场对该公司重新IPO预期的升温，估值规模达数千亿美元。",
+      "summary": "SpaceX二级市场价格连续两日攀升，股票价值接近135美元的首次公开募股发行价，市值增长约3270亿美元，重返IPO定价水平标志着投资者信心恢复。",
       "importance": 8
     },
     {
-      "title": "美国7月非农意外下降",
-      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "title": "伊朗原油出口因美国海上封锁几近停滞",
+      "url": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53",
+      "source": "Financial Times",
+      "summary": "美国海军封锁行动导致伊朗哈尔克岛原油出口陷入停滞，油轮无法装载德黑兰原油，全球能源市场供应格局面临重新调整，油价波动风险上升。",
+      "importance": 8
+    },
+    {
+      "title": "Trump政府支付德国RWE公司12亿美元终止风电项目",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o",
       "source": "BBC Business",
-      "summary": "美国7月非农就业人数意外减少2.3万人，远低于分析师预期的增长。夏季就业市场持续疲软，进一步加剧了对美联储货币政策走向及经济软着陆前景的担忧。",
-      "importance": 8
-    },
-    {
-      "title": "伊朗石油出口因封锁停滞",
-      "url": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "美国海军封锁导致伊朗石油出口停滞，哈尔克岛油田运转受阻。海上拦截行动有效阻止油轮运载德黑兰原油，可能加剧全球石油供应的不确定性。",
+      "summary": "特朗普政府向德国能源巨头RWE支付12亿美元以取消美国境内风电项目，这是近年来多起清洁能源项目被叫停的最新案例，凸显能源政策转向对可再生能源产业的冲击。",
       "importance": 7
-    },
-    {
-      "title": "Moonshot寻求港交所上市",
-      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "中国AI初创公司Moonshot进行内部重组，目标在香港上市以筹集新资金用于下一阶段发展。此举被视为争取北京监管点头的关键步骤，反映AI行业融资环境的微妙变化。",
-      "importance": 6
-    },
-    {
-      "title": "非洲国家疏远美元",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar",
-      "source": "The Economist Finance",
-      "summary": "多国非洲国家开始减少对美元的依赖，转向人民币和本地货币结算。这一趋势反映了全球去美元化浪潮的延伸，也显示出新兴市场对美联储政策外溢效应的规避意图。",
-      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "西班牙对意大利设边境检查",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "source": "The Guardian",
-      "summary": "西班牙宣布对来自意大利的旅客实施临时边境检查，作为对罗马此前加强边境管控的回应。此举源于摩洛哥向西班牙飞地休达涌入约7.8万移民引发的外交摩擦，加剧了欧盟内部移民政策的裂痕。",
+      "title": "西班牙对意大利实施边境管控回应移民危机",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
+      "source": "BBC World",
+      "summary": "西班牙宣布对来自意大利的旅客实施临时边境检查，作为对意大利此前限制摩洛哥移民涌入西班牙飞地休达的报复措施，欧盟内部移民政策分歧进一步加剧。",
       "importance": 8
     },
     {
-      "title": "特朗普限制出生公民权",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+      "title": "哥伦比亚新总统就职承诺打击叛军重建秩序",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
       "source": "NPR World",
-      "summary": "特朗普签署两项新行政令，试图限制在美国境内出生即获得公民权的政策。该举措引发宪法层面的广泛争议，并可能影响数百万移民家庭的后代身份认定。",
-      "importance": 8
+      "summary": "哥伦比亚右翼新总统宣誓就职，承诺以强硬手段打击叛军组织并恢复社会秩序，同时推动经济增长，挑战国内脆弱的和平协议与地区安全局势。",
+      "importance": 7
     },
     {
-      "title": "美国SEC撤诉特赦高管案",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
-      "source": "Bloomberg Markets",
-      "summary": "美国证券交易委员会（SEC）宣布撤销对一名曾获特朗普特赦的前医疗保健高管的内幕交易诉讼。此前该高管因相关刑事案件被判有罪并获得特赦，此次撤诉引发对司法独立性的讨论。",
-      "importance": 7
+      "title": "特朗普再度施压要求解雇美联储理事库克",
+      "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook",
+      "source": "Al Jazeera",
+      "summary": "特朗普总统再次公开要求解雇美联储理事丽莎·库克，原因系两人在快速降息问题上存在分歧，此举引发对美国央行独立性受到政治干预的广泛担忧。",
+      "importance": 8
     }
   ],
-  "editor_note": "今日简报显示AI治理与地缘政治风险交织。DeepMind人事震荡折射巨头内部战略调整，美欧边境摩擦与伊朗封锁则凸显全球供应链脆弱性。",
+  "editor_note": "DeepMind高层变动折射科技巨头治理转型，美国经济数据疲软与政治施压央行形成共振，地缘移民与能源危机同步升级。",
   "keywords": [
     "DeepMind",
-    "AI安全",
+    "OpenAI",
+    "美国非农就业",
     "SpaceX",
-    "边境管制",
-    "出生公民权",
-    "非农数据",
-    "伊朗石油",
-    "去美元化"
+    "伊朗原油",
+    "特朗普",
+    "美联储",
+    "西班牙边境管控"
   ],
   "trading": {
-    "market_overview": "美股市场整体维持多头格局，SPY与QQQ均触发MACD金叉，SPY RSI达66且价格处于20/50/200日均线上方。个股分化明显，MSFT RSI高达78.1进入超买区。加密市场受恐慌贪婪指数29支撑，BTC-USD与ETH-USD均录得MACD金叉，总市值2.29T美元。中概股技术面中性偏强，BABA与PDD均站上短期均线。商品方面，黄金期货突破均线上方且动能强劲，WTI原油与美债收益率出现MACD死叉信号，美元指数与人民币均处于RSI超卖区域。",
+    "market_overview": "美股主要宽基指数处于多头趋势中，SPY 与 QQQ 均触发 MACD 金叉，标普 500 接近 52 周高点；中概股 RSI 普遍偏高，京东与拼多多出现超买信号。加密市场 24h 总市值微涨 0.66%，比特币主导率 56.8%，当前恐慌贪婪指数处于 30 的恐慌区间，BTC 与 ETH 均录得 MACD 金叉，显示短期买盘动能转正。商品方面，黄金期货单日大涨 3.76% 且 RSI 达 67.6，WTI 原油则出现 MACD 死叉。美元/人民币汇率 RSI 降至 26.9 进入超卖区，美元指数震荡。整体来看，风险资产短期动量偏暖，但估值与情绪指标需警惕回调。",
     "watchlist": [
       {
         "symbol": "MSFT",
         "display_name": "微软 (MSFT)",
         "stance": "偏上行",
-        "rationale": "微软当前价格499.99美元，虽然趋势标记为中性，但RSI14高达78.1，已进入严重超买区域，显示短期动能极强。MACD柱状图达到27.56，信号线16.26，两者差距扩大表明多头力量依然主导。5日涨幅达7.59%，显著强于大盘。尽管距离52周高点仍有近10%的差距，但短期动量指标显示多头趋势尚未衰竭，技术指标处于强势上行通道中。"
-      },
-      {
-        "symbol": "TSLA",
-        "display_name": "特斯拉 (TSLA)",
-        "stance": "偏下行",
-        "rationale": "特斯拉当前价格328.58美元，处于明显的空头排列状态，价格远低于SMA50（380.44）和SMA200（408.80）。虽然1日涨幅2.83%且MACD出现金叉（-19.76 vs -20.78），但这仅是下跌趋势中的技术性反弹，MACD绝对值仍为负。RSI41.4处于中性偏弱区间，距离52周高点下跌超过34%，整体技术结构依然看跌，反弹受制于长期均线压制。"
-      },
-      {
-        "symbol": "BTC-USD",
-        "display_name": "比特币 (BTC-USD)",
-        "stance": "中性",
-        "rationale": "比特币当前价格64,851.64美元，RSI14为54.4，处于中性区间，既无超买也无超卖。MACD已触发金叉（65.03 vs 31.28），显示短期动能转正。价格高于SMA20（64,391）和SMA50（63,277），但远低于SMA200（70,369），表明长期趋势仍受压。加密市场恐慌贪婪指数仅为29，反映市场情绪仍偏谨慎。整体技术面呈现短期修复、长期承压的中性格局。"
+        "rationale": "微软当前价格 499.99 美元，5 日涨幅达 7.59%，动能强劲。技术指标显示 RSI14 升至 78.1，已进入「超买」区间，MACD 柱状图维持正值 27.56，信号线为 16.26，多头排列明确。尽管短期动量强劲，但超买状态暗示追高风险，技术面偏上行但需关注乖离率回归。"
       },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货 (GC=F)",
         "stance": "偏上行",
-        "rationale": "黄金期货当前价格4,401.3美元，单日大涨3.76%，5日累计涨幅8.7%，动能强劲。价格已突破SMA20（4,087.79）和SMA50（4,170.49），并接近SMA200（4,478.97）。RSI67.6处于正常偏高位，MACD金叉形成（22.10 vs -19.91），红柱扩张明显。尽管距离52周高点仍有21%的差距，但短期技术指标显示多头趋势确立，动量强劲，技术面偏向上行。"
+        "rationale": "黄金期货当前报 4401.3 美元，单日大涨 3.76%，5 日累计涨幅 8.70%。RSI14 为 67.6，虽未进入极端超买但已接近 70 临界值。MACD 柱状图大幅正值 22.10，信号线为负值 -19.91，显示多头动能急剧释放。价格逼近 200 日均线 4478.97，短期趋势偏上行，但需警惕触及前高后的阻力。"
+      },
+      {
+        "symbol": "SPY",
+        "display_name": "标普 500 ETF (SPY)",
+        "stance": "中性",
+        "rationale": "SPY 当前价格 773.26 美元，仅距 52 周高点 -0.08%，几乎持平。MACD 金叉已触发，柱状图 6.19 为正，5 日涨幅 3.51%。RSI14 为 66，处于正常区间偏高水平。虽然趋势判定为「bullish」且呈多头排列，但鉴于已极度接近历史高位，上方空间受限，技术面处于强势整理状态，定性为中性观望更为稳妥。"
       },
       {
         "symbol": "USDCNY=X",
         "display_name": "美元/人民币 (USDCNY=X)",
         "stance": "偏下行",
-        "rationale": "美元/人民币汇率6.74，RSI14仅为26.9，处于深度超卖区域，显示空头动能已过度释放。价格低于SMA20（6.76）和SMA50（6.77），呈现空头排列。MACD为负值（-0.0095 vs -0.0071），趋势标记为bearish。尽管接近52周低点，但超卖信号表明短期可能面临反弹修正。整体技术面偏向下行趋势中的超卖状态，下行空间受限但趋势仍偏空。"
+        "rationale": "美元/人民币汇率当前 6.74，RSI14 骤降至 26.9，明确进入「超卖」区间。MACD 柱状图为负值 -0.0095，信号线 -0.0071，趋势判定为「bearish」且呈空头排列。价格接近 52 周低点，显示人民币端近期升值压力较大。超卖状态暗示短期可能存在技术性反弹需求，但整体技术指标指向下行趋势。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "特斯拉 (TSLA)",
+        "stance": "偏下行",
+        "rationale": "特斯拉当前价格 328.58 美元，52 周高点下方 -34.13%，跌幅显著。虽然 1 日涨幅 2.83%，但 MACD 柱状图仍为深度负值 -19.76，信号线 -20.78，整体趋势判定为「bearish」且呈空头排列。RSI14 为 41.4，处于中性偏弱位置，未现超卖反弹信号。技术指标显示中期下跌趋势未改，短期金叉仅为弱势反弹。"
       }
     ],
-    "risk_caveat": "以上分析仅基于当前技术指标读数，客观描述市场状态。过去走势不代表未来表现，技术指标存在滞后性与失效风险。本报告仅供技术指标解读参考，不构成任何投资建议或买卖依据。",
+    "risk_caveat": "本报告仅基于历史行情数据的技术指标读数进行客观描述，不构成任何投资建议。过去走势不代表未来表现，技术指标存在滞后性与失效可能。市场风险无处不在，请读者结合自身风险承受能力独立判断，本报告仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -386,18 +386,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64851.64,
-        "pct1Day": 0.9173783566218446,
-        "pct5Day": 2.157524967707381,
-        "pct52WeekHigh": -48.61122678025108,
-        "pct52WeekLow": 12.301556392674993,
-        "sma20": 64391.954296875,
-        "sma50": 63277.461875,
-        "sma200": 70369.49859375,
-        "rsi14": 54.38594769254884,
-        "macd": 65.02912243703031,
-        "macdSignal": 31.27882066931413,
-        "macdHistogram": 33.75030176771618,
+        "currentPrice": 64899.99,
+        "pct1Day": 0.9926170898835249,
+        "pct5Day": 2.2336882895938976,
+        "pct52WeekHigh": -48.57291399147388,
+        "pct52WeekLow": 12.385282575260131,
+        "sma20": 64394.3716796875,
+        "sma50": 63278.428828125,
+        "sma200": 70369.74033203124,
+        "rsi14": 54.618515329399344,
+        "macd": 68.88591552808066,
+        "macdSignal": 32.05017928737894,
+        "macdHistogram": 36.83573624070172,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -414,18 +414,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1914.94,
-        "pct1Day": 0.6772931373464529,
-        "pct5Day": 1.722053065760928,
-        "pct52WeekHigh": -61.343495905007394,
-        "pct52WeekLow": 27.111367716697,
-        "sma20": 1893.6978698730468,
-        "sma50": 1794.3576049804688,
-        "sma200": 2060.5176446533205,
-        "rsi14": 56.521162946399556,
-        "macd": 20.678882655639427,
-        "macdSignal": 24.489598806928047,
-        "macdHistogram": -3.81071615128862,
+        "currentPrice": 1913.61,
+        "pct1Day": 0.6073688578010434,
+        "pct5Day": 1.6514031599792964,
+        "pct52WeekHigh": -61.37034434435608,
+        "pct52WeekLow": 27.023083948504144,
+        "sma20": 1893.6313720703124,
+        "sma50": 1794.331005859375,
+        "sma200": 2060.510994873047,
+        "rsi14": 56.37335734861037,
+        "macd": 20.572789295048324,
+        "macdSignal": 24.468380134678974,
+        "macdHistogram": -3.89559083963065,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -436,18 +436,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 73.7,
-        "pct1Day": 1.547989803158922,
-        "pct5Day": 0.34197686443787517,
-        "pct52WeekHigh": -70.89371308151854,
-        "pct52WeekLow": 21.990137502913196,
-        "sma20": 74.6186408996582,
-        "sma50": 75.119912109375,
-        "sma200": 84.0388773727417,
-        "rsi14": 46.90060429561897,
-        "macd": -0.7490356528509494,
-        "macdSignal": -0.6669312719946997,
-        "macdHistogram": -0.08210438085624971,
+        "currentPrice": 73.68,
+        "pct1Day": 1.5204326824525074,
+        "pct5Day": 0.3147470199699192,
+        "pct52WeekHigh": -70.90161166684241,
+        "pct52WeekLow": 21.95703298798704,
+        "sma20": 74.61764106750488,
+        "sma50": 75.11951217651367,
+        "sma200": 84.03877738952637,
+        "rsi14": 46.82942326541231,
+        "macd": -0.7506308266568169,
+        "macdSignal": -0.6672503067558727,
+        "macdHistogram": -0.0833805199009442,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -732,19 +732,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 29,
+      "value": 30,
       "classification": "Fear",
       "classificationCn": "恐慌",
-      "timestamp": "2026-08-07T00:00:00.000Z"
+      "timestamp": "2026-08-08T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2292358784388.3037,
-      "total24hVolumeUsd": 54434640956.77331,
-      "marketCapChangePct24h": 0.6294653325770979,
-      "btcDominance": 56.76973844485795,
-      "ethDominance": 10.075942873979528,
-      "activeCryptocurrencies": 18247
+      "totalMarketCapUsd": 2292991807636.1475,
+      "total24hVolumeUsd": 54355696113.18306,
+      "marketCapChangePct24h": 0.6572536488770837,
+      "btcDominance": 56.78239833721774,
+      "ethDominance": 10.069993688692023,
+      "activeCryptocurrencies": 18248
     },
-    "generated_at": "2026-08-07T23:17:04.248Z"
+    "generated_at": "2026-08-08T00:05:34.176Z"
   }
 }
