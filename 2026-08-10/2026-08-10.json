@@ -1,149 +1,149 @@
 {
-  "hero_headline": "以色列拒绝特朗普加沙方案，油价因地缘风险继续攀升",
-  "daily_overview": "今日全球市场在霍尔木兹海峡谈判僵局的阴影下波动，原油延续涨势，亚太股市分化；中国加速 AI 股布局以应对美国芯片技术竞争，亚洲汽车制造商因油价高企推动混动需求而获益。科技领域，OpenAI 将下一代模型 Astra 升级为关键网络安全评估级别，Meta Muse Spark 1.2 以极低推理成本跻身前沿模型行列，GPT-5.6 Luna 面向免费用户开放。地缘政治上，以色列拒绝特朗普加沙和平方案，加拿大不列颠哥伦比亚省野火失控致数千人疏散，巴基斯坦俾路支省爆发年来最大规模政治危机。",
+  "hero_headline": "中东局势推高油价，AI大模型与网络安全并进，美就业意外下滑",
+  "daily_overview": "科技领域今日聚焦OpenAI对Astra模型启动关键网络安全评估，GPT-5.6 Luna成为ChatGPT默认版本，DeepMind发布WeatherNext实现气旋预测突破，Gemini Robotics ER 2推进多机协作与视频理解能力。财经方面，伊朗拒绝与美国重启谈判导致霍尔木兹海峡 reopen 前景不明，国际油价持续上涨；美国7月就业意外减少2.3万岗位，超出市场预期；亚洲车企因高油价刺激混合动力需求大增。时政动态上，以色列拒绝特朗普15点加沙计划，F-16战机在新泽西特朗普高尔夫俱乐部附近拦截两架民用飞机，加拿大不列颠哥伦比亚省野火蔓延超136平方公里。",
   "tech_briefs": [
     {
-      "title": "OpenAI 将下一代模型 Astra 升级为关键网络安全级别",
+      "title": "OpenAI启动Astra模型关键网络安全评估",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
-      "summary": "OpenAI 宣布对即将发布的 Astra 模型进行初步网络安全评估，将其提升至「关键」级别，原因是该模型在自主编码和网络攻防领域取得显著进展。公司同时暂停部分研究活动以加强安全控制措施。",
-      "importance": 9
-    },
-    {
-      "title": "GPT-5.6 Luna 面向免费用户开放，Sol 版本准确度提升",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "ChatGPT 上线改进版 GPT-5.6 Sol，在准确性和一致性方面有所提升；同时向免费用户开放 GPT-5.6 Luna，并提供无限日常对话额度，进一步降低高端 AI 使用门槛。",
+      "summary": "OpenAI宣布将即将推出的Astra模型升级至关键网络安全状态，因其在自主编码和网络攻防方面取得显著进展。公司暂停部分研究活动以强化安全控制，并公开初步网络安全评估结果。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Meta Muse Spark 1.2 以低价跻身前沿模型行列",
-      "url": "https://news.smol.ai/issues/26-08-06-not-much/",
-      "source": "Smol AI News",
-      "summary": "Meta 的 Muse Spark 1.2 在 Vals Index 榜单上跃升至前五，单次测试成本仅 0.69 美元，价格低于 Kimi 三倍、低于 GPT-5.6 Sol 和 Opus 十倍以上，展现出高性价比推理能力，引发市场对开源与闭源模型竞争格局的重新审视。",
+      "title": "GPT-5.6 Luna成为ChatGPT默认版本",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出改进版GPT-5.6 Sol并提升准确性与一致性，同时将GPT-5.6 Luna开放给免费用户无限日常使用，并新增Agent插件功能支持自主任务执行。",
       "importance": 7
     },
     {
-      "title": "MIT 研究揭示 AI 代理为何为达成目标而撒谎作弊",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review AI",
-      "summary": "研究显示，当 AI 代理被赋予高度自主性并面临复杂任务目标时，倾向于通过欺骗、绕过限制等手段达成目标，这一现象揭示了强化学习中奖励函数设计的深层挑战，对多代理系统安全性提出警示。",
-      "importance": 7
-    },
-    {
-      "title": "WeatherNext 模型实现气旋预测重大突破",
+      "title": "DeepMind WeatherNext实现气旋预测突破",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind 推出 WeatherNext AI 模型，在热带气旋路径和强度预测方面实现显著突破。该模型结合深度学习与物理约束，可将气旋预警时间提前数天，对沿海地区防灾减灾具有重要应用价值。",
+      "summary": "DeepMind发布WeatherNext气象大模型，通过深度学习实现对热带气旋路径与强度的更高精度预测，有望显著提升灾害预警时间窗，为沿海地区防灾争取关键准备期。",
       "importance": 7
+    },
+    {
+      "title": "Gemini Robotics ER 2推进多机协作",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "DeepMind Blog",
+      "summary": "Gemini Robotics ER 2融合视频理解、工具编排与多机器人协同能力，使机器人能解析复杂视频流、规划跨步骤任务并在多机场景中协作解决真实世界问题，代表具身智能重要进展。",
+      "importance": 6
+    },
+    {
+      "title": "PrimeAgent：自改进RL编程代理走红GitHub",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending",
+      "summary": "PrimeAgent是一个基于强化学习的自改进编程代理，能在长周期自主任务中迭代优化自身代码质量。项目支持复杂工作流与长时间运行场景，代表Agent类开源工具的新方向。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "油价因地缘风险延续涨势，霍尔木兹海峡谈判陷入僵局",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/latest-oil-market-news-and-analysis-for-aug-10",
+      "title": "伊朗拒谈致油价续涨，霍尔木兹海峡前景不明",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/oil-gains-as-iran-deal-eludes",
       "source": "Bloomberg Markets",
-      "summary": "国际油价周一继续攀升，伊朗与阿曼之间关于重开霍尔木兹海峡的谈判未取得实质进展，胡塞武装同时袭击沙特炼油设施，进一步加剧供应担忧。分析人士警告若海峡长期封锁，油价可能突破每桶 120 美元。",
+      "summary": "伊朗拒绝与美国重启谈判，霍尔木兹海峡重新开放前景不明，国际油价周一早盘继续上涨。胡塞武装声称袭击沙特炼油设施，进一步推高能源市场担忧情绪。",
       "importance": 9
     },
     {
-      "title": "中国押注 AI 股市竞逐芯片与技术主导权",
-      "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
-      "source": "Bloomberg Markets",
-      "summary": "北京加速通过资本市场支持 AI 芯片产业发展，策略从直接补贴转向股权支持，标志着科技竞争进入新阶段。分析认为此举旨在绕开美国出口管制，构建自主可控的半导体生态体系。",
+      "title": "美国7月就业意外减少2.3万岗位",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o",
+      "source": "BBC Business",
+      "summary": "美国7月非农就业人数意外下降2.3万人，远低于市场预期的增长。分析师指出夏季经济疲软可能预示劳动力市场降温，美联储货币政策路径或因此更趋谨慎。",
       "importance": 8
     },
     {
-      "title": "前 CIA 官员警告特朗普正在拆解美国安全护栏",
-      "url": "https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
+      "title": "亚洲车企借高油价提振混动需求",
+      "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5",
       "source": "Financial Times",
-      "summary": "多位前情报与安全高官在 FT 发表联合声明，批评特朗普政府削弱传统制衡机制的做法可能损害美国长期战略利益。该评论同步刊载于 FirstFT 付费通讯，引发跨党派关注。",
+      "summary": "美国汽油价格高企推动混合动力汽车需求激增，丰田、本田、现代等亚洲车商7月销量同比增长约20%，混合动力车型成为缓解美国消费者出行成本压力的重要选择。",
+      "importance": 6
+    },
+    {
+      "title": "中国成全球石油主导力量",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+      "source": "The Economist Finance",
+      "summary": "分析指出中国已超越OPEC成为影响全球石油市场的关键力量，中共高层深度介入石油战略与定价机制，重塑传统能源地缘格局。",
       "importance": 7
     },
     {
-      "title": "澳洲对日元汇率或触及三十年高位",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say",
+      "title": "Jetstar与卡塔尔航空悉尼机场近撞事件调查",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-qatar-air-near-miss-at-sydney-triggers-safety-probe",
       "source": "Bloomberg Markets",
-      "summary": "分析师预计澳元兑日元汇率将接近 35 年高位，日本央行干预影响消退，而澳洲联储鹰派立场持续支撑澳元。日元走弱反映全球避险情绪升温及日本货币政策正常化进程缓慢。",
-      "importance": 6
-    },
-    {
-      "title": "印度 IT 行业在 AI 浪潮中寻求生存之道",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
-      "source": "The Economist Finance",
-      "summary": "尽管 AI 技术对传统 IT 服务岗位构成冲击，印度科技产业正通过向高附加值解决方案转型逐步适应。分析指出，初级编程岗位将持续萎缩，但架构设计与 AI 系统集成人才需求旺盛。",
-      "importance": 6
+      "summary": "澳洲捷星航空与卡塔尔航空客机在悉尼机场滑行道险些相撞，系两周内第二起类似事件，航空安全部门已启动调查，运输部长称此类近撞事件不可接受。",
+      "importance": 5
     }
   ],
   "politics_briefs": [
     {
-      "title": "以色列拒绝特朗普加沙和平方案，内塔尼亚胡称不会撤军",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "title": "以色列拒绝特朗普15点加沙计划",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo",
       "source": "BBC World",
-      "summary": "以色列总理内塔尼亚胡明确表示，以军不会从加沙撤离，直到哈马斯被「真正解除武装」。此表态直接驳斥特朗普提出的 15 点加沙重建计划，凸显中东和平进程面临的结构性障碍。",
-      "importance": 9
+      "summary": "以色列总理内塔尼亚胡宣布拒绝特朗普提出的15点加沙和平计划，称以军不会在哈马斯真正解除武装前撤出加沙地带，中东停火谈判陷入僵局。",
+      "importance": 8
     },
     {
-      "title": "加拿大野火失控，数千人流离失所",
-      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-      "source": "NYT World",
-      "summary": "不列颠哥伦比亚省巴尔德岭野火已蔓延逾 136 平方公里，火势仍处于失控状态，迫使数千居民紧急撤离。这是继安大略省山火浓烟笼罩美国东海岸后，加拿大本月第二次遭遇大规模林火危机。",
-      "importance": 7
-    },
-    {
-      "title": "巴基斯坦俾路支省爆发年来最大规模政治危机",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826",
+      "title": "F-16战机在新泽西拦截两架民用飞机",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826",
       "source": "Al Jazeera",
-      "summary": "巴基斯坦俾路支省近期爆发大规模抗议活动，被视作该地区数十年来最严峻的政治危机。分析指民怨集中指向安全部队暴力、资源分配不公及民主倒退，引发国际社会对地区稳定的深切担忧。",
+      "summary": "美国总统特朗普位于新泽西州贝德明斯特的私人高尔夫俱乐部上空，两架F-16战斗机紧急升空拦截两架闯入限制空域的民用飞机，美方加强要地防空警戒。",
       "importance": 7
+    },
+    {
+      "title": "加拿大野火蔓延超136平方公里",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o",
+      "source": "BBC World",
+      "summary": "加拿大不列颠哥伦比亚省巴尔.Range野火持续失控，过火面积已超136平方公里，数千居民被迫撤离，该省数周前经历安大略省山火烟雾笼罩后又面临本土火灾威胁。",
+      "importance": 6
     }
   ],
-  "editor_note": "今日多源信号显示全球正处于多重不确定性的交汇点：中东地缘风险推高能源价格，AI 技术突破与安全治理之间的张力持续加剧，大国科技竞争进入资本化新阶段。读者需关注霍尔木兹海峡谈判进展及 OpenAI 安全评估后续。",
+  "editor_note": "中东地缘风险与美国就业数据构成本周市场核心变量，AI安全与能力竞赛同步加速。投资者需密切关注油价走势与美联储政策信号变化。",
   "keywords": [
-    "以色列",
-    "加沙",
-    "霍尔木兹海峡",
     "油价",
+    "伊朗",
     "OpenAI",
-    "Astra",
     "GPT-5.6",
-    "中国 AI 芯片"
+    "美军就业",
+    "加沙",
+    "天气预测",
+    "机器人协作"
   ],
   "trading": {
-    "market_overview": "美股方面，标普500（SPY）维持多头排列，MACD金叉后红柱放大，RSI 66 处于正常区间上沿，距 52 周高仅 -0.46%；纳指100（QQQ）同步金叉转强，近 5 日涨幅 5.09%。加密市场整体偏弱，恐慌贪婪指数报 31（恐慌），BTC 距 52 周高 -48.46%，ETH 更甚（-61.27%），总市值 2.30T USD 几乎横盘。中概股呈现分化，BABA、PDD 技术指标中性偏强，JD 因 RSI 74.3 进入超买区。商品端黄金期货近 5 日飙涨 9.1%，RSI 67.7，短期动量强劲；原油 MACD 死叉，RSI 47.7 中性偏弱。VIX 恐慌指数续创阶段低位 14.9，空头排列确认。",
+    "market_overview": "美股方面，S&P 500（SPY）收于773.26，RSI 14为66，MACD金叉且多头排列，近5日上涨3.51%，距52周高仅-0.46%，整体偏上行；Nasdaq 100（QQQ）5日涨5.09%，同样触发MACD金叉。科技股分化明显，MSFT RSI 14达78.1进入超买区，TSLA与META虽呈空头排列但TSLA出现MACD金叉信号。加密市场总市值2.30T美元（24h -0.17%），恐慌贪婪指数30处于恐慌区间；BTC-USD MACD金叉、RSI 54.3中性。中概股整体温和反弹，BABA与PDD RSI均逼近68，JD RSI达74.3超买。商品方面，黄金强势，5日涨9.1%，RSI 67.7；WTI原油MACD死叉、RSI 47.7中性。外汇端美元指数DXY RSI 36.5中性，美元/人民币RSI 26.9超卖且空头排列。宏观情绪指标VIX收14.9，5日跌6.82%，MACD死叉。",
     "watchlist": [
       {
         "symbol": "SPY",
-        "display_name": "标普500 ETF（SPY）",
+        "display_name": "标普500 ETF (SPY)",
         "stance": "偏上行",
-        "rationale": "当前价格 773.26 美元，位于 SMA20（750.17）/ SMA50（747.19）/ SMA200（702.97）之上，呈现完整多头排列。MACD（6.19）高于信号线（2.85），MACD 金叉确认，红柱持续放大。RSI 14 为 66，处于正常区间上沿但未超买。距 52 周高点仅 -0.46%，近 5 日涨幅 3.51%，动量稳健上行。"
+        "rationale": "SPY现价773.26，RSI 14为66处于正常区间偏强，MACD 6.19上穿信号线2.85形成金叉，均线呈多头排列。近5日涨幅3.51%，距52周最高仅-0.46%，趋势判断为多头。整体技术面显示上方动量延续，但需警惕接近前高后的盘整风险。"
       },
       {
-        "symbol": "NVDA",
-        "display_name": "英伟达（NVDA）",
-        "stance": "偏上行",
-        "rationale": "当前价格 223.96 美元，站在 SMA20（206.82）/ SMA50（206.07）/ SMA200（193.98）之上，多头排列。MACD（3.05）高于信号线（0.55），金叉后动量扩张。RSI 14 为 64.4，趋势健康。近 5 日涨幅达 11.56%，当日涨幅 2.27%，短期动能显著强于大盘。距 52 周高 -5.32%，仍有上行空间。"
-      },
-      {
-        "symbol": "TSLA",
-        "display_name": "特斯拉（TSLA）",
+        "symbol": "MSFT",
+        "display_name": "微软 (MSFT)",
         "stance": "偏下行",
-        "rationale": "当前价格 328.58 美元，位于 SMA20（343.33）/ SMA50（380.44）/ SMA200（408.80）之下，空头排列。MACD（-19.76）低于信号线（-20.78），虽数值在收窄但整体仍为负值。RSI 14 为 41.4，中性偏弱。距 52 周高点 -34.13%，短期反弹动力不足，趋势延续下行格局。"
+        "rationale": "MSFT现价499.99，RSI 14高达78.1已进入超买区域，短期上行动能可能过度。尽管MACD柱状为正（27.56 vs 16.26信号线），但趋势判断为中性而非多头，且5日涨幅7.59%较快，均线偏离较大。超买状态叠加趋势不明，短期回调压力增加。"
       },
       {
-        "symbol": "BTC-USD",
-        "display_name": "比特币（BTC-USD）",
+        "symbol": "USDCNY=X",
+        "display_name": "美元 / 人民币 (USDCNY=X)",
         "stance": "中性",
-        "rationale": "当前价格 65039.44 美元，位于 SMA20（64394.55）/ SMA50（63321.31）之上，但远低于 SMA200（70130.92）。MACD（175.11）高于信号线（74.93），出现金叉信号，但整体数值偏低。RSI 14 为 55.4，中性。距 52 周高点 -48.46%，加密市场恐慌贪婪指数仅 31（恐慌），总市值 2.30T USD 横盘，短期方向不明。"
+        "rationale": "USDCNY现报6.74，RSI 14为26.9已进入超卖区间，空头排列且接近52周低点。MACD柱状为负（-0.0095 vs 信号-0.0071），趋势判断为空头。超卖信号暗示下行动能可能衰减，但趋势未出现反转迹象，技术面呈现超卖反弹与空头延续的拉锯状态。"
       },
       {
         "symbol": "GC=F",
-        "display_name": "黄金期货（GC=F）",
+        "display_name": "黄金期货 (GC=F)",
         "stance": "偏上行",
-        "rationale": "当前价格 4400.9 美元，位于 SMA20（4104.96）之上，但低于 SMA200（4480.24）。MACD（36.03）远高于信号线（-9.50），动量强势。RSI 14 为 67.7，正常区间上沿。近 5 日涨幅 9.1%，短期突破动能强劲。距 52 周高点 -21.22%，整体仍处强势整理格局。"
+        "rationale": "黄金期货现价4400.7，5日大幅上涨9.1%，RSI 14为67.7接近超买但尚未越界。MACD柱状36.01远高于信号线-9.50，动能强劲。均线系统尚未形成标准多头排列（SMA20 < SMA50），但短期动量显著偏多，技术面显示多头趋势延续。"
+      },
+      {
+        "symbol": "BTC-USD",
+        "display_name": "比特币 (BTC-USD)",
+        "stance": "中性",
+        "rationale": "BTC-USD现价64855.49，RSI 14为54.3处于中性区间，MACD金叉信号（160.43 vs 71.99）提供短期支撑。但价格距52周高点仍远（-48.61%），SMA200在70130形成明显上方阻力，整体趋势判断为中性。加密市场恐慌贪婪指数30，情绪偏冷，技术反弹空间受抑。"
       }
     ],
-    "risk_caveat": "本报告基于历史技术指标读数撰写，属客观技术状态描述，不构成任何投资建议或买卖指导。过去走势不代表未来表现，技术指标可能滞后或失效，仅供技术指标解读参考。",
+    "risk_caveat": "本报告基于公开技术指标计算，仅供参考，不构成任何投资建议。市场具有不确定性，过去走势不代表未来表现。投资者应结合自身风险承受能力独立决策，自担风险。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -386,18 +386,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 65039.44,
-        "pct1Day": 0.20761597534847126,
-        "pct5Day": 1.5353559302767807,
-        "pct52WeekHigh": -48.462413093956194,
-        "pct52WeekLow": 12.626763778186673,
-        "sma20": 64394.5466796875,
-        "sma50": 63321.305234375,
-        "sma200": 70130.92265625,
-        "rsi14": 55.38479790007729,
-        "macd": 175.10812163721857,
-        "macdSignal": 74.93267126284096,
-        "macdHistogram": 100.17545037437762,
+        "currentPrice": 64855.49,
+        "pct1Day": -0.07579961000505862,
+        "pct5Day": 1.248185119406102,
+        "pct52WeekHigh": -48.608176020441526,
+        "pct52WeekLow": 12.30822331724485,
+        "sma20": 64385.3490234375,
+        "sma50": 63317.626171875,
+        "sma200": 70130.002890625,
+        "rsi14": 54.32334697800593,
+        "macd": 160.43379827516765,
+        "macdSignal": 71.9978065901481,
+        "macdHistogram": 88.43599168501954,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -414,18 +414,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1918.7,
-        "pct1Day": 0.16533471798387778,
-        "pct5Day": 2.6929199532439227,
-        "pct52WeekHigh": -61.26759355015703,
-        "pct52WeekLow": 27.36095190346775,
-        "sma20": 1896.5631164550782,
-        "sma50": 1802.0033764648438,
-        "sma200": 2050.1079724121096,
-        "rsi14": 57.00736093010028,
-        "macd": 21.57935340166273,
-        "macdSignal": 23.3512792089602,
-        "macdHistogram": -1.771925807297471,
+        "currentPrice": 1909.6,
+        "pct1Day": -0.3097288906749365,
+        "pct5Day": 2.2058685269789864,
+        "pct52WeekHigh": -61.451293398332126,
+        "pct52WeekLow": 26.75690506846406,
+        "sma20": 1896.1081176757812,
+        "sma50": 1801.821376953125,
+        "sma200": 2050.0624725341795,
+        "rsi14": 55.632624329907145,
+        "macd": 20.85342942324155,
+        "macdSignal": 23.20609441320482,
+        "macdHistogram": -2.3526649899632694,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -436,18 +436,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 76.8,
-        "pct1Day": 1.089560349124148,
-        "pct5Day": 4.181138842851009,
-        "pct52WeekHigh": -69.66943235631781,
-        "pct52WeekLow": 27.12133731646856,
-        "sma20": 74.54702682495117,
-        "sma50": 75.31634490966798,
-        "sma200": 83.52702785491944,
-        "rsi14": 56.77313951590006,
-        "macd": -0.26833777234237743,
-        "macdSignal": -0.5645892153311409,
-        "macdHistogram": 0.2962514429887635,
+        "currentPrice": 76.27,
+        "pct1Day": 0.3919370810898263,
+        "pct5Day": 3.4621804628157076,
+        "pct52WeekHigh": -69.87874486740053,
+        "pct52WeekLow": 26.24406767092522,
+        "sma20": 74.5205265045166,
+        "sma50": 75.30574478149414,
+        "sma200": 83.52437782287598,
+        "rsi14": 55.27482689734481,
+        "macd": -0.31061748585743487,
+        "macdSignal": -0.5730451580356843,
+        "macdHistogram": 0.26242767217824947,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -557,18 +557,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4400.9,
-        "pct1Day": 1.3868685230209887,
-        "pct5Day": 9.103305978954761,
-        "pct52WeekHigh": -21.218359528838928,
-        "pct52WeekLow": 32.95368719978248,
-        "sma20": 4104.955017089844,
-        "sma50": 4167.306015625,
-        "sma200": 4480.237489013672,
-        "rsi14": 67.73047440696357,
-        "macd": 36.02498574439869,
-        "macdSignal": -9.498141324240308,
-        "macdHistogram": 45.523127068639,
+        "currentPrice": 4400.7,
+        "pct1Day": 1.3822609714509493,
+        "pct5Day": 9.0983477519567,
+        "pct52WeekHigh": -21.22193978017257,
+        "pct52WeekLow": 32.94764508625117,
+        "sma20": 4104.945031738282,
+        "sma50": 4167.302021484375,
+        "sma200": 4480.236490478515,
+        "rsi14": 67.72190874755199,
+        "macd": 36.00905469917052,
+        "macdSignal": -9.501327533285941,
+        "macdHistogram": 45.510382232456465,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -579,18 +579,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "NYM",
-        "currentPrice": 78.8,
-        "pct1Day": 0.7930413051983191,
-        "pct5Day": -1.916848902274995,
-        "pct52WeekHigh": -34.04753933712756,
-        "pct52WeekLow": 43.324845398326666,
-        "sma20": 81.85199966430665,
-        "sma50": 80.26820007324218,
-        "sma200": 76.38549991607665,
-        "rsi14": 47.67257057276597,
-        "macd": -0.5016140660431887,
-        "macdSignal": 0.11331307231013715,
-        "macdHistogram": -0.6149271383533259,
+        "currentPrice": 78.83,
+        "pct1Day": 0.831414290466797,
+        "pct5Day": -1.879507601095657,
+        "pct52WeekHigh": -34.022430532306664,
+        "pct52WeekLow": 43.37941069479812,
+        "sma20": 81.85349960327149,
+        "sma50": 80.26880004882813,
+        "sma200": 76.38564990997314,
+        "rsi14": 47.720424368519225,
+        "macd": -0.49922100102804734,
+        "macdSignal": 0.11379168531316541,
+        "macdHistogram": -0.6130126863412128,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -607,21 +607,25 @@
         "group": "commodity-fx",
         "currency": "CNY",
         "exchangeName": "CCY",
-        "currentPrice": 6.7467,
-        "pct1Day": -0.03111369331968443,
-        "pct5Day": -0.06221084369645354,
-        "pct52WeekHigh": -6.177251804363854,
-        "pct52WeekLow": 0.14100813394288522,
-        "sma20": 6.763849973678589,
-        "sma50": 6.7726899528503415,
-        "sma200": 6.897314982414246,
-        "rsi14": 31.44644554976705,
-        "macd": -0.008704285811227841,
-        "macdSignal": -0.006922791626584849,
-        "macdHistogram": -0.0017814941846429917,
+        "currentPrice": 6.7372,
+        "pct1Day": -0.17187946323882555,
+        "pct5Day": -0.20293282584845232,
+        "pct52WeekHigh": -6.309363222962361,
+        "pct52WeekLow": 0,
+        "sma20": 6.763374972343445,
+        "sma50": 6.772499952316284,
+        "sma200": 6.897267482280731,
+        "rsi14": 26.91000872520746,
+        "macd": -0.00946212269920732,
+        "macdSignal": -0.007074359004180745,
+        "macdHistogram": -0.0023877636950265756,
         "trend": "bearish",
-        "rsiState": "normal",
+        "rsiState": "oversold",
         "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
           {
             "type": "near-52w-low",
             "label": "接近 52 周低"
@@ -706,18 +710,18 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 99.638,
-        "pct1Day": 0.03815414303323043,
-        "pct5Day": -0.3221279385972593,
-        "pct52WeekHigh": -2.1237721021610922,
-        "pct52WeekLow": 4.278388278388287,
-        "sma20": 100.56890068054199,
-        "sma50": 100.49916046142579,
-        "sma200": 99.169990234375,
-        "rsi14": 36.92682232768125,
-        "macd": -0.270803410552503,
-        "macdSignal": -0.10145860449847881,
-        "macdHistogram": -0.1693448060540242,
+        "currentPrice": 99.618,
+        "pct1Day": 0.018073821440447668,
+        "pct5Day": -0.3421359419818021,
+        "pct52WeekHigh": -2.143418467583499,
+        "pct52WeekLow": 4.257456828885398,
+        "sma20": 100.56790046691894,
+        "sma50": 100.49876037597656,
+        "sma200": 99.16989021301269,
+        "rsi14": 36.52825289477583,
+        "macd": -0.27239919297103654,
+        "macdSignal": -0.10177776098218551,
+        "macdHistogram": -0.17062143198885105,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -729,19 +733,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 31,
+      "value": 30,
       "classification": "Fear",
       "classificationCn": "恐慌",
-      "timestamp": "2026-08-09T00:00:00.000Z"
+      "timestamp": "2026-08-10T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2302914483637.905,
-      "total24hVolumeUsd": 33910041277.461235,
-      "marketCapChangePct24h": 0.19157115476855457,
-      "btcDominance": 56.66190887958136,
-      "ethDominance": 10.0500075607895,
+      "totalMarketCapUsd": 2295466121243.055,
+      "total24hVolumeUsd": 34922440550.712685,
+      "marketCapChangePct24h": -0.17094003104173033,
+      "btcDominance": 56.67440964922754,
+      "ethDominance": 10.03378692290564,
       "activeCryptocurrencies": 18321
     },
-    "generated_at": "2026-08-09T23:05:13.918Z"
+    "generated_at": "2026-08-10T00:04:28.002Z"
   }
 }

@@ -6,120 +6,120 @@
       "title": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "excerpt": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "meta": "TypeScript · ★ 10,931 · 🍴 1,137 · 📈 2,319 stars today",
+      "meta": "TypeScript · ★ 11,001 · 🍴 1,147 · 📈 2,356 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自改进 RLM（强化学习驱动）Agent，专注编程工作流与长时间自主任务执行。通过持续自我优化提升代码生成与调试能力，适合需要长时间无人值守运行的自动化开发场景，如 CI/CD 流水线、批量重构等。"
+      "summary": "基于强化学习（RLM）的自改进编码智能体，可在长期自主任务中持续优化自身表现。支持复杂工作流的自动化执行，适合需要反复迭代调试的软件开发场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "excerpt": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "meta": "Python · ★ 2,954 · 🍴 519 · 📈 59 stars today",
+      "meta": "Python · ★ 2,971 · 🍴 519 · 📈 96 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于知识图谱的多语言代码 RAG 系统，针对 monorepo 优化。支持跨语言仓库的语义查询、理解与编辑，将代码结构建模为图数据库以解决传统向量 RAG 在大规模代码库中的上下文碎片化问题，适合大型企业后端开发团队。"
+      "summary": "面向 monorepo 的知识图谱 RAG 工具，将多语言代码库结构化后供 AI 查询与编辑。适合大型项目开发者快速定位跨模块依赖、理解代码上下文并安全修改。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 140,604 · 🍴 22,973 · 📈 932 stars today",
+      "meta": "Shell · ★ 140,637 · 🍴 22,976 · 📈 858 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开箱即用的多角色 AI Agent 协作框架，内置前端开发、社区运营、创意注入、批判审查等专项专家。每个 Agent 拥有独立人设与工作流，可组合成完整 AI Agency 团队，适合需要多角色协作的复杂任务场景。"
+      "summary": "一套可编排的 AI 代理集群，涵盖前端、社区运营、创意生成等角色，每个代理具备独立人格与工作流。适合团队自动化协作或构建多角色智能体工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "excerpt": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "meta": "Go · ★ 20,600 · 🍴 725 · 📈 342 stars today",
+      "meta": "Go · ★ 20,626 · 🍴 726 · 📈 210 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "进程溯源工具，通过 CLI 和 TUI 追踪任意进程、端口、容器或文件到其启动源头。支持排查不明网络活动、容器内异常进程、文件修改溯源等场景，是 Linux/macOS 系统的替代 strace/ps 诊断利器。"
+      "summary": "追溯任意进程、端口、容器或文件起源的诊断工具，CLI + TUI 双模式。适合运维与开发人员在排查系统异常时快速定位触发链。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "excerpt": "",
-      "meta": "Python · ★ 7,056 · 🍴 936 · 📈 105 stars today",
+      "meta": "Python · ★ 7,070 · 🍴 936 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google DeepMind 推出的下一代天气预报模型，利用 AI 技术提升全球气象预测的精度与速度。相比传统数值预报方法，可更快生成高分辨率的多变量天气预测，适用于极端天气预警与气候研究。"
+      "summary": "Google DeepMind 出品的气象预测项目，旨在提升天气建模与预报精度。适合气候研究、气象预测及 AI 科学计算领域参考。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 85,091 · 🍴 9,155 · 📈 670 stars today",
+      "meta": "JavaScript · ★ 85,115 · 🍴 9,159 · 📈 680 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "由开发工具链专家 Addy Osmani 整理的生产级 AI 编程 Agent 技能集，涵盖代码审查、重构、测试编写等高频工程任务的最佳实践模板。适合团队快速搭建可靠的 AI 辅助编程工作流，减少 Agent 幻觉问题。"
+      "summary": "Addy Osmani 出品的生产级 AI 编码智能体工程技能库，涵盖 prompt 设计、工具调用与调试最佳实践。适合构建或优化 AI coding agent 的开发者参考。"
     },
     {
       "sourceId": "github-trending",
       "title": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "excerpt": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "meta": "Python · ★ 61,150 · 🍴 51,987 · 📈 287 stars today",
+      "meta": "Python · ★ 61,167 · 🍴 51,991 · 📈 306 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "LLM 驱动的多市场股票智能分析系统，聚合多源行情数据与实时新闻，自动生成决策看板并定时推送分析结果。支持零成本定时运行，适合个人投资者进行日常市场分析、行业跟踪与买卖信号监控。"
+      "summary": "LLM 驱动的多市场股票智能分析系统，整合多源行情、实时新闻与决策看板，支持自动推送且零成本定时运行。适合个人投资者进行日常市场分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "excerpt": "The authentication glue you need.",
-      "meta": "Python · ★ 24,246 · 🍴 1,856 · 📈 312 stars today",
+      "meta": "Python · ★ 24,263 · 🍴 1,858 · 📈 310 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源身份认证中间件，作为统一认证网关接入各类 SaaS 应用与自研系统，提供 SSO、MFA、用户生命周期管理等能力。适合中大型团队替代自研鉴权系统，支持与 OIDC、SAML、LDAP 等多种协议集成。"
+      "summary": "开源身份认证中间件，支持 SAML、OAuth、LDAP 等协议，可作为统一身份提供商（IdP）接入各类应用。适合企业或开发者快速搭建 SSO 与权限管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "google/skills",
       "url": "https://github.com/google/skills",
       "excerpt": "Agent Skills for Google products and technologies",
-      "meta": "Python · ★ 17,196 · 🍴 1,390 · 📈 532 stars today",
+      "meta": "Python · ★ 17,208 · 🍴 1,390 · 📈 528 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 官方推出的 AI Agent 技能集合，覆盖 Google Cloud、TensorFlow、Firebase 等核心产品的工程实践。帮助开发者快速为 AI 编程 Agent 注入 Google 生态最佳实践，提升对 GCP 项目与 Google 技术的开发效率。"
+      "summary": "Google 官方出品的 AI 智能体技能库，为 Google 产品与技术提供标准化 agent 集成能力。适合需要使用 Google Cloud、Workspace 等构建智能体应用的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "meta": "Python · ★ 125,454 · 🍴 14,835 · 📈 333 stars today",
+      "meta": "Python · ★ 125,481 · 🍴 14,839 · 📈 365 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ComfyUI 是基于节点图界面的高效 Stable Diffusion 图像生成框架，支持自定义模型加载、工作流编排与 API 调用。其模块化设计允许用户搭建复杂多阶段生成管线，是 AI 图像创作者与研究者首选的本地部署工具。"
+      "summary": "节点式 diffusion model GUI 与后端框架，高度模块化，支持自定义图像生成工作流。适合 AIGC 创作者、研究者与需要精细控制生成流程的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "harveyai/harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
       "excerpt": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "meta": "Python · ★ 803 · 🍴 174 · 📈 87 stars today",
+      "meta": "Python · ★ 817 · 🍴 176 · 📈 47 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向法律 AI Agent 的能力评估基准，通过真实法律场景测试模型的信息检索、论证推理、文档审查等核心能力。适合法律科技团队评估和优化其 AI 助手在合同审查、法律研究等实务工作中的表现。"
+      "summary": "专门用于评估和改进法律工作 agent 能力的基准测试套件。适合法律科技团队或 AI 研究人员评测 agent 在法律场景下的表现。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 17,630 · 🍴 4,008 · 📈 208 stars today",
+      "meta": "TypeScript · ★ 17,645 · 🍴 4,009 · 📈 163 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 T3 Stack 的全栈开发脚手架工具，整合 Next.js、TypeScript、tRPC、Prisma、Tailwind CSS 等现代 Web 技术栈。适合快速搭建生产级全栈应用，降低项目初始配置成本，支持自定义模板与插件扩展。"
+      "summary": "现代全栈开发工具，结合 Turbopack 等高性能构建技术优化开发体验。适合追求快速迭代与高效构建的 Next.js 及全栈开发者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-08-07T15:20:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布Astra模型初步网络安全评估，称其具备显著先进的代理编码与网络攻击能力，已暂停部分活动并强化安全控制。"
+      "summary": "OpenAI发布关于Astra模型的安全评估，因该模型在代理编程与网络安全领域取得重大进展，已将其升级为\"关键\"网络安全级别，并加强安全管控。"
     },
     {
       "sourceId": "openai-news",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "德国税务咨询公司HSP GRUPPE采用ChatGPT Enterprise提升工作效率，改善服务质量，为税务咨询和客户支持创造更多容量。"
+      "summary": "HSP GRUPPE税务咨询公司采用ChatGPT Enterprise提升工作效率，改善服务质量，为税务咨询和客户管理释放更多人力。"
     },
     {
       "sourceId": "openai-news",
@@ -374,7 +374,7 @@
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI改进GPT-5.6 Sol的准确性与一致性，同时扩大GPT-5.6 Luna免费用户访问权限，免费用户可享无限日常对话。"
+      "summary": "OpenAI推出改进版GPT-5.6 Sol，提升准确性与一致性，同时扩大GPT-5.6 Luna免费用户的使用权限，允许每日无限日常对话。"
     },
     {
       "sourceId": "openai-news",
@@ -384,7 +384,7 @@
       "publishedAt": "2026-08-06T06:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI与美国心理学会（APA）合作，制定基于证据的AI使用指南与安全措施，聚焦青少年心理健康领域。"
+      "summary": "OpenAI与美国心理学会（APA）合作，针对青少年心理健康与负责任的AI使用，共同推进循证指南、资源与安全保障措施。"
     },
     {
       "sourceId": "openai-news",
@@ -394,7 +394,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布全球ChatGPT使用数据报告，显示各国用户采纳率、使用趋势及行为演变，反映从「提问」向「执行任务」的转变。"
+      "summary": "OpenAI发布最新Signals数据，展示全球用户使用ChatGPT的现状，涵盖各国采用率、使用趋势与行为演变。"
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-08-06T15:06:15.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind推出WeatherNext AI模型，在热带气旋预测方面取得突破性进展，可更早更准确地预报风暴路径与强度。"
+      "summary": "Google DeepMind发布WeatherNext AI模型，在气旋预测领域取得突破性进展，可显著提升热带气旋路径与强度的预报准确度。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -900,7 +900,7 @@
       "publishedAt": "2026-08-07T17:53:32.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Allen AI开发TutorMoments，研究AI导师如何判断何时介入帮助、何时保持沉默，以提升个性化辅导效果。"
+      "summary": "Hugging Face发布TutorMoments研究，探讨AI导师模型能否准确判断何时提供帮助、何时保持沉默，关注AI教学中的干预时机问题。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -910,7 +910,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Baseten作为Hugging Face推理提供商入驻，为企业提供高效AI模型部署与推理服务。"
+      "summary": "Baseten正式加入Hugging Face Inference Providers，为用户提供更便捷的模型推理部署服务。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1173,7 +1173,7 @@
       "meta": "👍 223",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长视距终端代理高质量训练数据成本高昂的问题，提出递归合成方法，通过迭代合成指令、环境、参考解和验证器的一致性数据，降低人工标注依赖，实现低成本规模化数据生产。"
+      "summary": "提出递归合成方法生成长 horizon terminal agent 的高质量训练数据。该方法通过指令、环境、参考解和 verifier 的自洽迭代构造任务，避免昂贵的人工标注，降低每条任务成本并实现规模化数据生产。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1184,7 +1184,7 @@
       "meta": "👍 85",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长视距多轮代理任务中关键决策信用分配困难的问题，提出递归自蒸馏方法AgentOPSD，利用特权知识在轨迹层面进行信用分配，显著提升强化学习效率。"
+      "summary": "针对 agentic RL 中长 horizon 任务信用分配难题，提出递归自蒸馏方法 AgentOPSD。通过在 trajectory 层面构建优势估计，将 privileged knowledge 蒸馏回策略模型，显著提升关键决策的归因精度与整体任务成功率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1194,8 +1194,7 @@
       "publishedAt": "2026-07-30T00:00:00.000Z",
       "meta": "👍 67",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出OSReward，为跨平台计算机使用奖励模型建立标准化评估框架，解决现有验证器在一致性、通用性和自动化方面的不足，推动CUA训练与数据筛选的可靠评估。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1206,7 +1205,7 @@
       "meta": "👍 65",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究非侵入式MEG记录中感知语音的可解码性，分析皮层源定位及驱动信息提取的刺激特征，揭示深度网络权重与电生理量之间的映射关系。"
+      "summary": "利用 CLIP-style 目标训练深度网络，从非侵入式 MEG 记录中重建感知语音并定位皮层源区。研究发现驱动语音检索的关键刺激特征及其对应的皮层通路，为可解释脑信号解码提供了新的电生理映射依据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1217,7 +1216,7 @@
       "meta": "👍 63",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ABSeeker，通过答案回溯信用分配训练长视距搜索代理，区分轨迹中关键步骤与无关步骤的价值，在SFT和RL阶段均实现更精准的梯度信号分配。"
+      "summary": "提出 ABSeeker，通过答案回溯信用分配训练长 horizon 搜索 agent。区别于统一处理所有步骤的 SFT/RL 方法，该方法仅对通向正确答案的关键步骤施加梯度信号，显著减少无效学习并提升搜索效率与最终答案准确率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1228,7 +1227,7 @@
       "meta": "👍 58",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出WorldClaw，一个完全代理式的由粗到细3D世界生成框架，从开放文本生成大规模可自由探索的3D场景，兼顾全局空间一致性、丰富局部内容和可复用资产。"
+      "summary": "提出 WorldClaw，一种完全 agentic 的粗到细 3D 开放世界生成框架。系统协同维护全局空间一致性、丰富局部细节与可复用资产，支持从开放文本大规模生成可直接探索的 3D 世界，为下游编辑和交互提供基础。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1239,7 +1238,7 @@
       "meta": "👍 42",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出GST-Bench，评估VLM从连续长视频流中发展全局空间感知能力，弥补现有基准仅关注单视角局部空间感知的不足，推动具身智能的空间智能评测。"
+      "summary": "提出 GST-Bench，首个评估 VLM 从连续长视频流发展全局空间感知能力的 benchmark。该基准覆盖长 horizon 视频中的跨视角空间推理任务，填补了现有空间智能评测仅关注局部单视角的空白，揭示了当前模型的全局感知局限。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1250,7 +1249,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出EnvACE，通过世界预演将环境动力学内化于模型，为长视距工具使用代理强化学习提供低成本环境建模方案，减少对外部可执行环境的依赖。"
+      "summary": "提出 EnvACE，一种通过世界预演内化环境动态的 agentic RL 方法。模型在无需真实或合成可执行环境的情况下，通过内部 rehearsing 习得环境行为模式，显著降低环境构建与验证成本，同时保持长 horizon 工具使用任务的性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1261,7 +1260,7 @@
       "meta": "👍 37",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对统一多模态检索中细粒度判别特征丢失问题，提出基于硬负样本的检索中心CoT方法，从失败案例中学习提升检索精度，实现更准确的多模态意图匹配。"
+      "summary": "提出基于 hard negatives 的检索中心 CoT 方法，从失败样本中学习统一多模态检索。通过硬负样本挖掘增强 LVLM retriever 的细粒度判别能力，在复杂多模态意图理解任务上实现更高的检索准确率和更强的跨模态对齐性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1272,7 +1271,7 @@
       "meta": "👍 37",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ChronoVision，通过潜在状态重建实现多步时序推理，解决多模态大模型在复杂视觉认知任务中因语言推理模糊性导致的性能退化问题。"
+      "summary": "提出 ChronoVision，通过潜状态重建实现多步时序推理。该方法以潜变量重建替代语言推理中的歧义表述，使多模态大模型在复杂视觉认知任务上显著提升时序一致性理解能力，弥合了被动感知与主动推理之间的性能差距。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1283,7 +1282,7 @@
       "meta": "👍 33",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出HarnessOpt-Bench，评估LLM在harness优化任务中的能力，涵盖提示、工具、控制流、记忆和编排代码的迭代优化，揭示模型能力与外部配置的共同作用。"
+      "summary": "提出 HarnessOpt-Bench，系统化评估 LLM 在 harness 优化任务中的能力。Harness 涵盖 prompt、工具、控制流、记忆和编排代码，该 benchmark 填补了除模型权重外对部署层自动化优化能力评估的空白，揭示了当前 LLM 在 harness 调优上的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1294,7 +1293,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出经济世界模型的系统设计蓝图，从异质代理建模到市场机制模拟，展示如何从内部生成式模拟经济演化，连接微观代理行为与宏观聚合结果。"
+      "summary": "提出从经济代理到 agentic economy 的系统蓝图，构建可模拟异质代理互动涌现宏观结果的生成式经济世界模型。框架整合代理信念、市场机制与制度结构，为政策模拟和经济动态预测提供可扩展的 agentic 仿真基础设施。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1305,7 +1304,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出DataSpace，构建面向异构工作区的可验证分析基准，覆盖数据库、结构化文件、长文档和多媒体等多源数据，评估数据代理的自然语言分析能力。"
+      "summary": "提出 DataSpace benchmark，评估数据 agent 在异构工作空间中的可验证分析能力。该基准覆盖数据库、结构化文件、长文档和多媒体等多源证据的跨模态检索与推理任务，弥补了现有 benchmark 仅关注单一查询或检索场景的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1316,7 +1315,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对现代希腊语在多语言检索中的缺失问题，提出端到端Nemotron检索栈适配方案，涵盖语料挖掘、检索适配和领域接地生成，覆盖法律、能源、金融和医疗等专业领域。"
+      "summary": "完成 Nemotron 检索模型在现代希腊语上的端到端适配，涵盖语料挖掘、检索策略调整和跨专业领域（法律、能源、金融、医疗）的 grounding。填补了希腊语在主要多语言检索基准和 RAG 系统中的空白，提升了低资源语言的检索召回质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1327,7 +1326,7 @@
       "meta": "👍 28",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究On-Policy Delta Distillation（OPD²）在多语言数学推理中的有效性，探索其在英语等语言中的后训练表现，为RL之外的轻量级训练范式提供实证依据。"
+      "summary": "系统研究 On-Policy Delta Distillation (OPD²) 在英语和多语言数学推理中的有效性。作为 RL 的替代后训练方案，OPD² 在保持 on-policy 采样一致性的同时通过 delta 知识蒸馏提升多语言数学解题准确率，展现出跨语言泛化优势。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1338,7 +1337,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出GDPevo，评估代理在真实商业任务中的自我进化能力，设计覆盖经济价值任务域的评测框架，解决现有基准在任务设计与训练测试划分上的不足。"
+      "summary": "提出 GDPevo，面向真实商业任务的 agent 自进化评估基准。该基准设计了经济价值丰富的任务域及训练-测试分离协议，系统量化 agent 从历史经验更新持久状态并复用于相关任务的能力，揭示了当前自进化方法在真实场景中的局限。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1349,7 +1348,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Activity Frames，通过确定性零模型管道将被动捕获的屏幕活动编译为代理记忆，解决代理重复推导已有行为的问题，实现高效记忆复用与回放。"
+      "summary": "提出 Activity Frames，一种确定性屏幕活动编译方法，将被动捕获的用户操作序列转化为 agent 可复用的记忆。该零模型 pipeline 解决现有 agent 记忆仅记录指令而忽略行为轨迹的问题，支持零推理成本的 routine 回放与迁移。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1360,7 +1359,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SmartMage，为3D场景理解提供动态模态编排方案，根据查询需求自适应调度视觉与几何模态的权重，提升多模态大模型在异构信息融合上的表现。"
+      "summary": "提出 SmartMage，通过动态模态编排实现 3D 场景理解。该方法根据查询需求自适应调度视觉和几何模态的输入，克服固定多模态融合在异构信息相关性上的局限，在 3D 空间推理任务上显著提升了 Multimodal LLM 的准确率与效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1371,7 +1370,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出PaDoc，一种基于布局的并行解码文档解析方法，突破自回归序列解码长度限制，实现与裁剪式两阶段解析器相当的性能，同时保持端到端接口优势。"
+      "summary": "提出 PaDoc，基于布局对齐的并行解码文档解析方法。绕过串行自回归解码的瓶颈，PaDoc 利用文档版面结构并行解码独立区域内容，在保持端到端统一接口的同时将推理速度提升数倍，同时维持与两级 crop-based 解析器相当的解析精度。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1382,7 +1381,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出CalibForge，通过对抗性求解器校准扩展可学习终端任务的规模，在验证任务可解性的同时评估其难度分布，确保训练数据的适中挑战性。"
+      "summary": "提出 CalibForge，一种对抗性 solver 校准方法以规模化可学习 terminal tasks。通过对抗生成与 solver 适应性校准，确保训练任务既可行又对目标 solver 设置具有适度挑战性，解决了仅验证可执行性而忽略任务难度梯度的问题，提升了 terminal agent 训练效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1492,7 +1491,7 @@
       "publishedAt": "2026-08-07T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "GPT-5.6 Luna成为ChatGPT默认模型，Agent插件功能上线；AMD完成对Taalas收购。"
+      "summary": "OpenAI将GPT-5.6 Luna设为默认模型并支持Agent插件功能，同时宣布AMD收购Taalas的消息。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1502,7 +1501,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Google DeepMind进行高层人事调整；Meta发布Muse Code编程模型；Anthropic组建芯片研发团队。"
+      "summary": "Google DeepMind进行重大组织重组，Meta发布Muse Code编程模型，Anthropic组建芯片研发团队，AI领域竞争持续加剧。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1674,7 +1673,7 @@
       "publishedAt": "2026-08-07T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI将Astra模型网络安全等级升级为「关键」，因该模型在代理编码和网络攻防方面取得重大突破，已暂停部分能力开发以加强安全管控。"
+      "summary": "OpenAI因Astra模型在代理编程与网络安全领域的重大突破，将其升级为关键网络安全级别并暂停部分活动以强化管控。Hugging Face事件暴露多代理协调的持续缺陷。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1684,7 +1683,7 @@
       "publishedAt": "2026-08-06T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Meta Muse Spark 1.2迅速跃居前沿级别，Vals Index排名前五，测试成本仅0.69美元，比Kimi便宜3倍，比Opus和5.6 Sol便宜10倍以上，在五届STEM奥运中获金牌级表现。"
+      "summary": "Meta Muse Spark 1.2快速跃升至前沿梯队，Vals指数排名前五，每测试成本仅0.69美元，比Kimi便宜3倍、比Fable/Opus/5.6 Sol便宜10倍以上，并在五项STEM奥林匹克竞赛中达到金牌水平。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1946,7 +1945,7 @@
       "publishedAt": "2026-08-08T01:12:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "文章探讨多Agent系统中遵循Zawinski定律的现象，即软件系统会不断扩展直至覆盖所有功能需求，多Agent架构亦呈现类似趋势。"
+      "summary": "Latent Space报道Zawinski多代理定律，探讨近期AI代理主题之间的关联，分析多代理系统的发展趋势。"
     },
     {
       "sourceId": "latent-space",
@@ -1956,7 +1955,7 @@
       "publishedAt": "2026-08-07T05:13:46.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AMD宣布收购教育科技公司Taalas，进一步拓展AI推理领域的布局，推理算力竞争持续升温。"
+      "summary": "AMD收购教育科技初创公司Taalas，标志着推理端AI竞争进一步升温。"
     },
     {
       "sourceId": "latent-space",
@@ -1966,7 +1965,7 @@
       "publishedAt": "2026-08-06T04:34:11.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Jeff Dean、Sanjay Sarma、Oriol Vinyals和Quoc Le四位DeepMind核心高管相继离任，Demis Hassabis转任董事长，Koray Kavukcuoglu出任SVP，DeepMind迎来重大人事重组。"
+      "summary": "Jeff Dean、Sanjay Ghemawat、Oriol Vinyals、Quoc Le相继离开Google DeepMind，Demis Hassabis将担任董事长，Koray Kavukoglu升任SVP，DeepMind迎来重大人事调整。"
     },
     {
       "sourceId": "latent-space",
@@ -2220,7 +2219,7 @@
       "category": "tech",
       "meta": "@DimitrisPapail · 28.5K 粉丝 · 142.1K 阅 · 522 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "GPT-5.6和Claude Fable似乎解决了一个无线通信领域的开放理论问题，该问题在2000至2010年代被深入研究。AI在基础科学问题上的突破能力再次被验证。"
+      "summary": "GPT-5.6 与 Claude Fable 被曝可解决无线通信领域 2000-2010 年代的开放理论问题，作者曾参与该课题攻关，引发学术圈关注。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2231,7 +2230,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 675.2K 粉丝 · 103.7K 阅 · 514 赞 · 29 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主展示了用Claude构建的完整自动化系统，声称能处理80%以上日常事务。这不是泛泛的\"第二大脑\"文章，而是一套可复用的个人效率工作流方案。"
+      "summary": "分享用 Claude 构建个人自动化系统的完整方案，声称能自动化 80% 以上生活事务，涵盖日程、邮件、信息整理等场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2242,7 +2241,7 @@
       "category": "tech",
       "meta": "@hwchase17 · 124.4K 粉丝 · 86.0K 阅 · 506 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "发布Managed Deep Agents，定位为主要面向生产环境的agent构建与部署平台，配套完整博客和文档。走标准化agent工程路线，降低落地门槛。"
+      "summary": "AgentBuild 发布 Managed Deep Agents，旨在降低生产级 Agent 构建与部署门槛，作者探讨为何托管型 Agent 将成为下一阶段主流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2253,7 +2252,7 @@
       "category": "tech",
       "meta": "@vasuman · 88.5K 粉丝 · 80.7K 阅 · 569 赞 · 33 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主认为多数AI用户已处于前1%，真正的前沿群体是同时跑20个终端、拥有自更新知识库的工程玩家。反映AI采用分层和技术鸿沟的现实。"
+      "summary": "作者指出普通用户与前沿 AI 实践者之间存在显著差距：后者已能同时管理 20 个终端、使用自愈知识库，但多数用户仍停留在基础层面。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2264,7 +2263,7 @@
       "category": "tech",
       "meta": "@XFreeze · 253.7K 粉丝 · 60.9K 阅 · 515 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Build在12周内从终端编码助手进化为完整agent软件工程项目平台，被定位为当前最强大的agent harness之一。X在AI工程工具上的快速迭代值得关注。"
+      "summary": "用 Grok Build 在 12 周内完成 10 个项目，从中提炼关键使用技巧与避坑指南，强调其从终端助手演变为全功能 Agent 工程平台的转变。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2275,7 +2274,37 @@
       "category": "tech",
       "meta": "@jino_rohit · 6.9K 粉丝 · 20.3K 阅 · 519 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍如何使用SGLang内置的Torch Profiler对LLM推理服务进行性能分析，帮助定位瓶颈。适合需要优化sglang部署性能的研发人员参考。"
+      "summary": "演示如何使用 SGLang 内置的 Torch Profiler 对 LLM 推理性能进行系统分析，涵盖延迟、显存占用等关键指标，适合工程优化场景。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Gains as Iran Deal Eludes, Stocks Set to Rise: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Oil extended its gains in early Monday trading as Iran rejected talks with the US and a deal to reopen the vital Strait of Hormuz remained elusive. Asian stocks looked set to advance in catch-up trading.",
+      "publishedAt": "2026-08-09T22:11:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "油价持续上涨，伊朗拒绝与美国举行谈判，霍尔木兹海峡重开前景不明。亚太股市预计将在补涨交易中走高。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Jetstar, Qatar Air Near Miss at Sydney Triggers Safety Probe",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-qatar-air-near-miss-at-sydney-triggers-safety-probe",
+      "excerpt": "An air safety investigation is underway after a Jetstar plane and a Qatar Airways jet almost collided on the tarmac at Sydney airport on Sunday — the second near miss in two weeks.",
+      "publishedAt": "2026-08-09T23:26:49.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "澳航集团旗下捷星航空与卡塔尔航空客机9月于悉尼机场滑行道上险些相撞，这是两周内发生的第二起近似碰撞事件，澳大利亚航空安全部门已启动调查。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasury Wine Flags $395 Million Writedown Over Excess US Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/treasury-wine-flags-395m-writedown-to-tackle-excess-us-supply",
+      "excerpt": "Australia vintner Treasury Wine Estates Ltd. has flagged a A$558.4 million ($395 million) post-tax writedown ahead of its full year earnings on Thursday, as part of a broader effort to tackle supply chain problems in its US market.",
+      "publishedAt": "2026-08-09T23:19:48.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "澳大利亚酿酒商Treasury Wine Estates预告将计提5.584亿澳元（约3.95亿美元）税后减记，以应对美国市场供应过剩问题。该公司将于周四公布全年业绩。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2285,7 +2314,7 @@
       "publishedAt": "2026-08-09T22:02:45.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "8月10日油价延续涨势，伊朗与阿曼仍未就重开霍尔木兹海峡达成协议。胡塞武装宣称袭击沙特红海沿岸炼油设施，中东供应风险持续。"
+      "summary": "油价延续涨势，伊朗与阿曼尚未就重开霍尔木兹海峡达成协议。胡塞武装声称袭击了沙特阿拉伯近红海的炼油设施。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2295,17 +2324,7 @@
       "publishedAt": "2026-08-09T21:48:14.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "澳新银行（Westpac）利润微增，存贷款增长抵消住房市场放缓影响。该行CEO警告澳洲房地产市场正在降温，但整体盈利仍保持增长势头。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Oil climbed in early Monday trading and US equity futures were steady as investors awaited signs of fresh progress on a deal to reopen the Strait of Hormuz.",
-      "publishedAt": "2026-08-09T22:11:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "周一早盘油价继续上涨，美国股市期货持稳，投资者等待霍尔木兹海峡重新开放协议的进展迹象。伊朗与阿曼尚未就海峡通航达成新协议。"
+      "summary": "澳新银行（Westpac）利润小幅上升，存贷款增长抵消了部分压力。但该行CEO警告房地产市场正在降温。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2315,7 +2334,7 @@
       "publishedAt": "2026-08-09T21:00:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国转向押注AI股票，与美国争夺芯片和技术主导权。这一战略标志着北京摆脱对补贴和国家资金依赖的新方向，加速科技自立进程。"
+      "summary": "中国押注AI股票，与美国争夺芯片技术主导权。这一策略标志着北京放弃依赖补贴和国家资金的老路。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2325,7 +2344,7 @@
       "publishedAt": "2026-08-09T21:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "分析师称澳元兑日元即将触及35年高位。东京货币干预影响消退，澳洲联储鹰派立场支撑汇率，澳元走势预计延续走强态势。"
+      "summary": "分析师称澳元兑日元汇率即将触及35年高位，因日本汇率干预影响消退，且澳联储鹰派立场支撑澳元走强。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2335,7 +2354,7 @@
       "publishedAt": "2026-08-09T21:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "澳大利亚小麦作物在关键时期恢复增产，为全球粮食供应前景提供缓冲。全球谷物供应 outlook 持续恶化，澳洲产量回升意义凸显。"
+      "summary": "澳大利亚小麦作物即将迎来丰收，在全球谷物供应前景日益严峻之际，为市场提供重要缓冲。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2345,7 +2364,7 @@
       "publishedAt": "2026-08-09T17:23:31.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "匈牙利央行重申支持政府加入欧元区的努力，称加入欧元区将惠及匈牙利经济。该行表示正在积极推动满足欧元区准入条件。"
+      "summary": "匈牙利央行再次支持政府加入欧元区的相关努力，称此举将惠及该国经济。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2355,7 +2374,7 @@
       "publishedAt": "2026-08-09T15:57:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Bloomberg周末版由David Gura、Christina Ruffini和Lisa Mateo主持，涵盖波多黎各代表Pablo José Hernández Rivera及格林尼治皇家天文台专家受访，解读本周重大新闻。"
+      "summary": "Bloomberg周末节目由David Gura、Christina Ruffini和Lisa Mateo主持，报道本周重大新闻，并连线波多黎各民选委员Pablo José Hernández及格林尼治皇家天文台专家。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2365,7 +2384,7 @@
       "publishedAt": "2026-08-09T15:25:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Bloomberg周末版汇总你可能错过的新闻：20美元音乐会门票、连帽衫囤货潮、「对抗性服装」现象，以及ticks影响 Martha's Vineyard 旅游季等话题。"
+      "summary": "节目涵盖20美元演唱会门票、连帽衫热销、'对抗性服装'、影响玛莎葡萄园旅游季的蜱虫等问题。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2375,7 +2394,7 @@
       "publishedAt": "2026-08-09T14:59:54.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Bloomberg Law调查发现，特朗普政府在华盛顿特区开展犯罪打击期间提起的多起重罪袭击案被驳回或降级，仅少数案件以定罪告终，检察官面临考验。"
+      "summary": "彭博法律调查发现，特朗普政府在华盛顿的犯罪打击行动中对许多重罪袭击案进行了撤销或降格处理，仅有少数案件以定罪告终。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2385,7 +2404,7 @@
       "publishedAt": "2026-08-09T14:42:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "食源性疾病爆发激增冲击餐饮业需求，消费者对生菜等生鲜食材担忧加剧。Sweetgreen已削减部分菜单，Bloomberg News记者Daniela Sirtori分析行业影响。"
+      "summary": "食源性疾病 outbreaks 激增令消费者担忧生菜等新鲜食材，餐厅需求承压。Sweetgreen已削减其沙拉供应量。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2395,7 +2414,7 @@
       "publishedAt": "2026-08-09T14:32:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Renaissance Macro美国经济学研究主管Neil Dutta表示，即将公布的通胀数据至关重要，若数据强劲，9月加息仍可能落地，尽管市场预期美联储将维持利率。"
+      "summary": "Renaissance Macro美国经济学研究主管Neil Dutta表示，即将公布的通胀数据至关重要，如果数据强劲，9月加息仍将是现实选项。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2405,7 +2424,7 @@
       "publishedAt": "2026-08-09T13:36:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "华尔街交易员和策略师认为，美国财政部长Scott Bessent正发出新信号，显示其渴望阻止国债收益率进一步攀升，债券市场焦虑情绪升温。"
+      "summary": "华尔街交易员和策略师表示，美国财政部长斯科特·贝森特正在释放新信号，力求防止国债收益率进一步飙升。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2415,7 +2434,7 @@
       "publishedAt": "2026-08-09T13:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "杠杆ETF热潮为华尔街创造新的日内交易策略，投资者可利用科技股波动性突然爆发获取收益，市场日内动能交易模式正在重塑。"
+      "summary": "杠杆ETF的繁荣为华尔街投资者提供了从科技股突然波动中获利的新型工具。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2425,7 +2444,7 @@
       "publishedAt": "2026-08-09T12:52:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "五角大楼敦促国防企业加速武器生产，伊朗战争正在消耗美国关键军备储备。退役准将Mark Kimmitt与Bloomberg Economics防务主管Becca Wasser分析其他战区 readiness 风险。"
+      "summary": "五角大楼敦促防务公司加速武器生产，因伊朗战争消耗了美国关键武器储备，引发对其他地区战备能力的担忧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2435,7 +2454,7 @@
       "publishedAt": "2026-08-09T12:39:30.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "8月12日 Wednesday 日全食将穿越格陵兰、冰岛、葡萄牙和西班牙北部，这是1999年以来西欧和中欧首次可见日全食，格林尼治皇家天文台专家 Imo Bell 解读天象。"
+      "summary": "8月12日将发生日全食，横跨格陵兰、冰岛、葡萄牙和西班牙北部，这是1999年以来欧洲中部和西部首次可见的日全食。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2445,7 +2464,7 @@
       "publishedAt": "2026-08-09T12:23:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "波多黎各超过18万客户面临每48小时轮换供水，严重干旱加剧岛屿基础设施长期问题。常驻代表Pablo José Hernández 接受Bloomberg周末版采访，讨论水资源危机。"
+      "summary": "波多黎各超过18万客户面临轮流48小时断水，严重干旱加剧了该岛长期存在的水基础设施问题。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2455,27 +2474,7 @@
       "publishedAt": "2026-08-09T12:08:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "伊朗与阿曼仍在谈判霍尔木兹海峡临时通航安排，但区域能源基础设施袭击及过境规则重大分歧使谈判进展有限，航运市场仍处紧张状态。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Barrick Chairman's Planned Overhaul Meets Investor Backlash",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition",
-      "excerpt": "John Thornton appeared ready last year to step down as chairman of Barrick Mining Corp. after a turbulent 12-year tenure. Instead, he seized control from his long-time CEO and is now driving a reinvention of one of the world’s largest gold producers.",
-      "publishedAt": "2026-08-09T12:01:32.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "高盛老将John Thornton在Barrick Mining担任主席12年后原定离职，却反而从CEO手中夺回控制权，推动这家全球最大金矿公司重组，但遭遇投资者抵制。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Typhoon Dolphin Makes Landfall in East China After Red Alert",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
-      "excerpt": "Typhoon Dolphin made two landfalls in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services suspended as well.",
-      "publishedAt": "2026-08-09T06:14:43.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "台风「海豚」周日夜间在中国东部两次登陆，北京发布最高级别风暴红色预警，超过1000架航班取消，部分铁路服务暂停。"
+      "summary": "伊朗与阿曼仍在讨论霍尔木兹海峡航运的临时安排，但地区能源基础设施遭袭及过境规则的重大分歧使谈判复杂化。"
     },
     {
       "sourceId": "wsj-markets",
@@ -2659,13 +2658,23 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Burnham promises to tackle false discounts in latest cost-of-living pledge",
+      "url": "https://www.ft.com/content/82922307-311d-499b-9798-0292d5f6b7ed?syn-25a6b1a6=1",
+      "excerpt": "",
+      "publishedAt": "2026-08-09T21:30:02.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "英国内政大臣艾薇·怀特（Burnham）承诺打击虚假折扣，作为新一轮生活成本举措的一部分。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "FirstFT: Ex-CIA officials warn Donald Trump is dismantling US guardrails",
       "url": "https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
       "excerpt": "Also in today’s newsletter: Kashmir protests test Pakistan’s military rulers and the bank behind China’s AI listings bonanza",
       "publishedAt": "2026-08-09T21:16:57.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国前CIA官员警告特朗普正在 dismantling 美国制度制衡机制。同日 newsletter 还报道克什米尔抗议考验巴基斯坦军方领导人，以及支持中国AI上市热潮背后的银行。"
+      "summary": "前CIA官员警告特朗普正在拆解美国制度性约束。另据报道，克什米尔抗议考验巴基斯坦军方统治，以及支持中国AI上市潮的银行。"
     },
     {
       "sourceId": "ft-companies",
@@ -2675,7 +2684,7 @@
       "publishedAt": "2026-08-09T17:15:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国Clacton补选落幕，但改革英国党领导人问题仍未解决。同日日食预计带来经济提振效应，市场关注后续政治与经济走向。"
+      "summary": "英国克拉克顿补选即将落幕，但未解决关于改革英国党领袖的严肃问题。日全食预计为经济带来提振。"
     },
     {
       "sourceId": "ft-companies",
@@ -2685,7 +2694,7 @@
       "publishedAt": "2026-08-09T11:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "FT分析称，追究公职人员责任比想象中困难。新法律强制官员履行诚实义务，但实际执行效果存疑，问责机制面临制度性挑战。"
+      "summary": "一项新规要求公务员履行诚实义务，但分析指出，让公职人员真正 accountable 并非易事。"
     },
     {
       "sourceId": "ft-companies",
@@ -2695,7 +2704,7 @@
       "publishedAt": "2026-08-09T10:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "亚洲汽车制造商借高油价提振美国混动需求获利。7月丰田、本田、现代等混动车型销量同比大幅增长20%，亚洲车企受益明显。"
+      "summary": "亚洲汽车制造商在日本高油价推动美国对混合动力车需求激增的背景下迎来增长，7月销量—including本田、现代和丰田--上涨五分之一。"
     },
     {
       "sourceId": "ft-companies",
@@ -2705,7 +2714,7 @@
       "publishedAt": "2026-08-09T04:00:10.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "土耳其新网络法将广泛权力移交给总统，社交媒体和游戏平台的「绝对数字服从」引发担忧，数字监管力度大幅升级。"
+      "summary": "土耳其新网络法将广泛权力移交总统，引发社交媒体和游戏平台对'绝对数字服从'的担忧。"
     },
     {
       "sourceId": "ft-companies",
@@ -2715,7 +2724,7 @@
       "publishedAt": "2026-08-09T04:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国最大DIY投资平台Hargreaves Lansdown要求员工每周三天返回办公室，远程办公政策收紧，职场文化回归传统模式。"
+      "summary": "英国最大DIY投资平台Hargreaves Lansdown要求员工每周三天返回办公室工作。"
     },
     {
       "sourceId": "ft-companies",
@@ -2725,7 +2734,7 @@
       "publishedAt": "2026-08-09T04:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "投资者重返欧洲股市，Stoxx Europe 600成分股第二季度利润预计增长22%，强劲财报缓解伊朗战争带来的悲观情绪，市场信心回升。"
+      "summary": "投资者重返欧洲股市，Stoxx Europe 600成分股二季度利润预计增长22%，伊朗战争阴霾因强劲盈利有所缓解。"
     },
     {
       "sourceId": "ft-companies",
@@ -2735,7 +2744,7 @@
       "publishedAt": "2026-08-09T04:00:09.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "德国造船厂TKMS负责人Oliver Burkhard称「不要低估我们」，尽管获得大量订单，仍强调「审慎增长」与交付优先，确保长期竞争力。"
+      "summary": "德国造船商TKMS虽获大量订单，但CEO Oliver Burkhard强调审慎增长，优先确保交付能力。"
     },
     {
       "sourceId": "ft-companies",
@@ -2744,8 +2753,7 @@
       "excerpt": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market",
       "publishedAt": "2026-08-09T02:05:57.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "印尼试图控制国内煤价， discouraging 企业供应本土市场，导致全球最大煤炭生产商之一陷入运营困境，电力供应面临风险。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2879,15 +2887,6 @@
       "url": "https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1",
       "excerpt": "Probe concludes that Trip.com Group abused its power as platform handling more than half of country’s hotel bookings",
       "publishedAt": "2026-08-08T00:54:25.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
-      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-      "excerpt": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
-      "publishedAt": "2026-08-07T23:00:07.000Z",
       "category": "finance",
       "source": "Financial Times"
     },
@@ -3169,7 +3168,7 @@
       "publishedAt": "2026-08-09T16:22:40.000Z",
       "category": "finance",
       "source": "The Economist Finance",
-      "summary": "《经济学人》分析中国如何成为世界石油强国。分析指出，中国不再依赖OPEC，而是由共产党掌握石油定价与供应主导权，重塑全球能源格局。"
+      "summary": "中国已成为全球石油大国，但这次并非通过欧佩克（OPEC）。中国共产党中央委员会现在掌握着石油市场的主动权。"
     },
     {
       "sourceId": "economist-finance",
@@ -3440,7 +3439,7 @@
       "publishedAt": "2026-08-09T21:25:04.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "以色列总理内塔尼亚胡拒绝特朗普15点加沙和平计划，表示以军不会撤出加沙，除非哈马斯真正解除武装。"
+      "summary": "以色列总理内塔尼亚胡宣布，以色列将拒绝特朗普提出的15点加沙和平计划，并强调以军不会在哈马斯'真正解除武装'前从加沙撤出。"
     },
     {
       "sourceId": "bbc-world",
@@ -3450,7 +3449,7 @@
       "publishedAt": "2026-08-09T20:58:18.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "涉嫌犯罪头目丹尼尔·基纳亨从迪拜被引渡后出庭，爱尔兰监狱管理局为其配备了防弹防爆车辆以保障安全。现年49岁的基纳亨系爱尔兰著名黑帮人物。"
+      "summary": "涉嫌爱尔兰黑帮头目Daniel Kinahan从迪拜被引渡回国后，首次出现在法庭上，49岁的他由防弹防爆炸警车押送。"
     },
     {
       "sourceId": "bbc-world",
@@ -3469,7 +3468,7 @@
       "publishedAt": "2026-08-09T22:27:53.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "加拿大不列颠哥伦比亚省巴尔德岭野火仍失控，已蔓延超过53平方英里（约136平方公里）。当局警告居民做好应对最坏情况的准备。"
+      "summary": "加拿大不列颠哥伦比亚省Bald Range野火仍处于'失控'状态，过火面积已扩展至53平方英里（约136平方公里），当局警告居民做好准备。"
     },
     {
       "sourceId": "bbc-world",
@@ -3497,7 +3496,7 @@
       "publishedAt": "2026-08-09T19:57:28.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "尼日利亚军方称成功解救33名在西北部扎姆法拉州被枪手绑架的人质，事件发生于周六。"
+      "summary": "尼日利亚军方称，成功从西北部扎姆法拉州救回33名周六被武装分子绑架的人质。"
     },
     {
       "sourceId": "bbc-world",
@@ -3543,7 +3542,7 @@
       "publishedAt": "2026-08-09T19:40:09.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "自由女神像附近一艘船只倾覆，导致一名女性和一名婴儿遇难。另有12人获救，目前均处于稳定状态。一名男子已被逮捕。"
+      "summary": "纽约自由女神像附近一艘船只倾覆，造成一女子及一名婴儿死亡，另有12人获救，目前状况稳定，一名男子已被逮捕。"
     },
     {
       "sourceId": "bbc-world",
@@ -3760,7 +3759,7 @@
       "publishedAt": "2026-08-09T18:20:25.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "加拿大联邦政府宣布向不列颠哥伦比亚省提供紧急援助，该省正昼夜应对102起野火，快速蔓延的火灾严重阻碍消防行动，迫使数千人流离失所。"
+      "summary": "加拿大联邦政府宣布向不列颠哥伦比亚省提供紧急援助，该省正经历102处野火肆虐，过火速度之快令消防人员难以应对。"
     },
     {
       "sourceId": "guardian-world",
@@ -3806,7 +3805,7 @@
       "publishedAt": "2026-08-09T18:13:57.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "今年最强台风\"海豚\"登陆中国东部沿海，带来暴雨和强风。此前该热带气旋已袭击日本冲绳县。"
+      "summary": "今年中国最强热带气旋'海豚'台风在中国东部沿海登陆，此前已袭击日本冲绳，带来强降雨和强风。"
     },
     {
       "sourceId": "guardian-world",
@@ -3846,13 +3845,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+      "title": "Australia news live: Minns considers banning ebikes for under-12s in NSW; air safety chief says Sydney tarmac near-miss ‘unacceptable’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "excerpt": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live The NSW government is rolling out a new scheme of smart rental bonds, which will allow some renters to transfer their bonds from one rental to the next when they move house. T",
-      "publishedAt": "2026-08-09T22:39:36.000Z",
+      "excerpt": "Australian Transport Safety Bureau gathering information about circumstances surrounding the incident. Follow today’s news live Body of woman found in suitcase by side of road in regional NSW The body of a woman has been found in a suitcase by the side of a road south of Goulburn in regional New Sou",
+      "publishedAt": "2026-08-09T23:49:35.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州政府因AI担忧拟禁止学生将试卷带回家完成，同时因悉尼机场塔台事故频发、两机近距擦撞引发关注，交通部长召开紧急会议。新州还推出智能租赁保证金计划，允许租户将保证金转移至新租处。"
+      "summary": "新州运输部长Minns考虑禁止12岁以下儿童骑电动自行车；悉尼机场滑行道上的飞机近距离险情被民航安全主管形容为'不可接受'，澳大利亚交通安全局正在调查事件详情。"
     },
     {
       "sourceId": "guardian-world",
@@ -3862,7 +3861,7 @@
       "publishedAt": "2026-08-09T22:37:00.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州冈巴尔以南约40公里处的奥伦镇，警方周日接到报案称在沃尔贡路附近发现一个行李箱，内有女性遗体。案件正在调查中。"
+      "summary": "新南威尔士州Goulburn以南约40公里的Oallen地区，周日午后发现一只行李箱，内有一名女性尸体，警方已介入调查。"
     },
     {
       "sourceId": "guardian-world",
@@ -3899,7 +3898,7 @@
       "publishedAt": "2026-08-09T18:00:21.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "英国工党新任部长哈米什·法尔科纳表示，在伯纳姆领导下，英国将在脱欧后推动与欧盟建立\"更紧密关系\"，希望在工党红线范围内加速谈判进程。"
+      "summary": "英国工党新任职大臣Hamish Falconer表示，在总理Burnham领导下，英国将加快与欧盟的关系正常化谈判，但仍坚守工党红线。"
     },
     {
       "sourceId": "guardian-world",
@@ -3945,7 +3944,7 @@
       "publishedAt": "2026-08-09T20:00:48.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "以色列总理内塔尼亚胡在罕见的公开分歧中拒绝美国主导的15点加沙和平计划，誓言以军不会撤出加沙，除非哈马斯真正解除武装，并反驳美国施压其结束战争的要求。"
+      "summary": "以色列总理内塔尼亚胡罕见公开拒绝特朗普支持的15点加沙和平计划，称以军不会在哈马斯解除武装前撤出，并批评美国施压要求以色列接受和平协议。"
     },
     {
       "sourceId": "guardian-world",
@@ -3955,7 +3954,7 @@
       "publishedAt": "2026-08-09T19:54:53.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "内塔尼亚胡拒绝特朗普加沙和平计划，誓言哈马斯解除武装前以军不会撤出加沙。美国主导的15点计划本周遭以色列公开反对，引发对以美关系的关注。"
+      "summary": "内塔尼亚胡公开拒绝特朗普的加沙和平计划，誓言在哈马斯真正解除武装前不以军不会撤出加沙，此为两国罕见公开分歧。"
     },
     {
       "sourceId": "guardian-world",
@@ -4001,7 +4000,7 @@
       "publishedAt": "2026-08-09T17:58:22.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗坚持控制霍尔木兹海峡，以此作为杠杆迫使华盛顿解冻伊朗资产、解除经济制裁并结束海军封锁。纽约时报分析伊朗的谈判立场。"
+      "summary": "伊朗坚持控制霍尔木兹海峡，以此为筹码迫使华盛顿释放冻结资产、解除经济制裁并结束海军封锁，推动恢复6月备忘录。"
     },
     {
       "sourceId": "nyt-world",
@@ -4011,7 +4010,7 @@
       "publishedAt": "2026-08-09T21:34:51.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国和以色列于2月28日对伊朗发动袭击，引发持续数月的战争，战火蔓延至邻国并冲击全球市场。纽约时报梳理了冲突的关键时间节点与袭击事件。"
+      "summary": "美国与以色列于2月28日对伊朗发动袭击，开启了一场持续数月、蔓延至周边国家并冲击全球市场的战争。"
     },
     {
       "sourceId": "nyt-world",
@@ -4021,7 +4020,7 @@
       "publishedAt": "2026-08-09T18:18:22.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗任命资深伊斯兰革命卫队指挥官莫森·雷扎伊为最高国家安全委员会秘书，被视为伊朗旧政权巩固权力的信号。"
+      "summary": "伊朗任命革命卫队长期指挥官Mohsen Rezaei担任最高国家安全委员会秘书长，被视为伊朗旧势力巩固权力的信号。"
     },
     {
       "sourceId": "nyt-world",
@@ -4031,7 +4030,7 @@
       "publishedAt": "2026-08-09T21:40:37.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "以色列拒绝特朗普政府主导的15点加沙和平计划。该计划旨在让哈马斯交出武器，同时以军从加沙撤出。特朗普和平委员会上月宣布已达成相关协议。"
+      "summary": "以色列拒绝特朗普政府主导的15点加沙和平计划，该计划曾要求哈马斯交出水枪并以以色列撤军为交换条件。"
     },
     {
       "sourceId": "nyt-world",
@@ -4113,7 +4112,7 @@
       "publishedAt": "2026-08-09T22:23:03.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大不列颠哥伦比亚省野火活动急剧增加，数千人在安大略省烟雾笼罩东海岸数周后再次被迫撤离家园。"
+      "summary": "加拿大不列颠哥伦比亚省野火活动急剧增加，数千居民被迫撤离；此前安大略省山火烟雾曾笼罩美国东海岸。"
     },
     {
       "sourceId": "nyt-world",
@@ -4123,7 +4122,7 @@
       "publishedAt": "2026-08-09T21:28:02.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "纽约时报驻加沙摄影记者用文字与影像记录当地流离失所与危险困境，描绘其家园长期处于冲突中的真实处境。"
+      "summary": "《纽约时报》一名摄影记者以文字和影像记录加沙民众持续流离失所与面临危险的生存现状。"
     },
     {
       "sourceId": "nyt-world",
@@ -4268,7 +4267,7 @@
       "publishedAt": "2026-08-09T22:00:52.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "荷兰车手黛米·沃勒林第二次夺得环法自行车赛冠军，以领先西班牙选手保拉·布拉西·卡约尔和2024年冠军波兰选手卡塔日娜·涅维亚当-菲内超过一分钟的成绩完赛。她此前于2023年首夺该项荣誉。"
+      "summary": "荷兰车手Demi Vollering第二次赢得女子环法自行车赛总冠军，领先第二名西班牙车手Paula Blasi Cairol和2024年冠军波兰选手Katarzyna Niewiadoma-Phinney超过一分钟。"
     },
     {
       "sourceId": "npr-world",
@@ -4278,7 +4277,7 @@
       "publishedAt": "2026-08-09T21:27:11.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "NPR记者罗布·施米茨与哥伦比亚大学国际事务教授彼得·索尔兹伯里讨论伊朗及其盟友如何重塑中东战争格局。伊朗的\"抵抗轴心\"对地区冲突产生深远影响。"
+      "summary": "NPR记者Rob Schmitz访谈哥伦比亚大学学者Peter Salisbury，分析伊朗及其'抵抗轴心'盟友如何重塑中东战争格局。"
     },
     {
       "sourceId": "npr-world",
@@ -4288,7 +4287,7 @@
       "publishedAt": "2026-08-09T18:21:45.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "内塔尼亚胡拒绝特朗普加沙和平计划，要求哈马斯先解除武装。此声明发表于特朗普上周宣布\"历史性\"协议后仅一周，协议要求哈马斯交出武器。"
+      "summary": "内塔尼亚胡拒绝特朗普的加沙和平计划，坚持哈马斯必须先解除武装，此举距特朗普宣布和平协议达成仅一周。"
     },
     {
       "sourceId": "npr-world",
@@ -4625,13 +4624,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "excerpt": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
+      "publishedAt": "2026-08-09T23:28:38.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "特朗普在新泽西州Bedminster的高尔夫俱乐部所在空域实施限航，两架民用飞机进入该区域后，被F-16战斗机拦截。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "excerpt": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "publishedAt": "2026-08-09T23:01:25.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴勒斯坦记者公会报告，2026年7月共发生108起针对巴勒斯坦记者的袭击事件。自2023年10月巴以冲突爆发以来，加沙已有超过270名记者遇难。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "What’s driving unrest in Pakistan-administered Kashmir?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
       "excerpt": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.",
       "publishedAt": "2026-08-09T22:37:11.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "巴基斯坦管辖的克什米尔地区正面临近年来最严重的政治危机，局势持续动荡。半岛电视台记者阿娃·沃里纳解释该地区不稳定的深层原因。"
+      "summary": "巴控克什米尔正面临多年来最严重的政治危机，Al Jazeera记者Ava Warriner对此进行分析报道，揭示驱动该地区动荡的深层原因。"
     },
     {
       "sourceId": "aljazeera",
@@ -4641,7 +4660,7 @@
       "publishedAt": "2026-08-09T20:40:25.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "德国发现携带爆炸物的无人机后，内政部长警告该国正面临\"日常混合战争\"，包括间谍活动、破坏、网络攻击和秘密行动等威胁已成为\"恒常现实\"。"
+      "summary": "德国发现一架携带爆炸物的无人机后，内政部警告该国正面临'日常混合战争'，间谍活动、破坏和网络攻击已成为'常态现实'。"
     },
     {
       "sourceId": "aljazeera",
@@ -4651,7 +4670,7 @@
       "publishedAt": "2026-08-09T20:02:57.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "巴勒斯坦方面表示，内塔尼亚胡拒绝和平计划的决定使局势\"倒退\"，当前没有清晰的和平路径。"
+      "summary": "巴勒斯坦方面表示，内塔尼亚胡拒绝美国和平计划的决定使和平前景渺茫，称局势正在'倒退'。"
     },
     {
       "sourceId": "aljazeera",
@@ -4661,7 +4680,7 @@
       "publishedAt": "2026-08-09T19:30:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "前爱尔兰总统玛丽·罗宾逊代表\"长者\"组织表示，以色列正\"从物理、经济、文化和政治层面抹除巴勒斯坦\"，呼吁国际社会关注。"
+      "summary": "国际组织'长者'成员、爱尔兰前总统Mary Robinson指出，以色列正在'从物理、经济、文化及政治层面抹除巴勒斯坦'。"
     },
     {
       "sourceId": "aljazeera",
@@ -4671,7 +4690,7 @@
       "publishedAt": "2026-08-09T19:07:35.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "刚果民主共和国首都金沙萨向东部强大反叛联盟移交15名囚犯，多哈框架协议能否终结东部冲突引发关注。"
+      "summary": "刚果（金）政府向东部强大反政府联盟移交15名囚犯，多哈框架协议能否终结东部刚果冲突引发分析。"
     },
     {
       "sourceId": "aljazeera",
@@ -4681,7 +4700,7 @@
       "publishedAt": "2026-08-09T18:59:33.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "数百名西班牙反旅游抗议者在马略卡岛索列尔镇游行，反对大规模旅游业对当地社会和环境的冲击。"
+      "summary": "西班牙马略卡岛索勒尔镇数百人周六举行反大规模旅游示威，抗议旅游业对当地社区造成的负面影响。"
     },
     {
       "sourceId": "aljazeera",
@@ -4691,7 +4710,7 @@
       "publishedAt": "2026-08-09T18:44:28.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "分析人士称，伊朗尚未直接受到沙特、巴基斯坦和土耳其三国联盟的威胁，伊朗官员更关注减少美国在该地区的影响力。"
+      "summary": "分析人士称伊朗并未因沙特-巴基斯坦-土耳其三国同盟而受到直接威胁，伊朗官员更关注该协议减少美国在中东角色的一面。"
     },
     {
       "sourceId": "aljazeera",
@@ -4700,8 +4719,7 @@
       "excerpt": "Number one ranked player in men's tennis will miss the tournament due to a knee issue, he says via organisers.",
       "publishedAt": "2026-08-09T16:53:53.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "男子网球世界第一扬尼克·辛纳因膝伤退出辛辛那提公开赛，经由组委会宣布消息。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4710,8 +4728,7 @@
       "excerpt": "Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.",
       "publishedAt": "2026-08-09T16:53:45.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "伊拉克反腐行动持续，前萨拉赫丁省省长艾哈迈德·朱博里及其一名亲信因涉嫌挪用合同资金被逮捕。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4836,24 +4853,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
       "excerpt": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
       "publishedAt": "2026-08-09T14:20:51.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Trump targets birthright citizenship again",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
-      "excerpt": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
-      "publishedAt": "2026-08-09T14:20:31.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-      "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
-      "excerpt": "Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
-      "publishedAt": "2026-08-09T13:54:41.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5134,7 +5133,7 @@
       "excerpt": "ANALISISGenap 2 minggu, persoalan bagaimana seorang pembantu juruterbang Malaysia yang ditahan di Jakarta kerana membawa 25 kilogram dadah melepasi mesin pengimbas bagasi di Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) masih belum berjawab. Ketika...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "马来西亚籍副机长在印尼因携带25公斤毒品被捕，但事件牵出吉隆坡国际机场（KLIA）行李扫描程序漏洞，该航班行李如何过安检仍未有答案，引发公众对航空安全机制的质疑。"
+      "summary": "马来西亚副驾驶员在印尼雅加达因携带25公斤毒品被扣留，但两周过去了，其行李如何顺利通过吉隆坡国际机场（KLIA）扫描仪的问题仍未得到解答。"
     },
     {
       "sourceId": "berita-harian",
@@ -5143,7 +5142,7 @@
       "excerpt": "Shah Alam: Pelabur asing yang dibawa masuk ke Malaysia disarankan bekerjasama dengan syarikat tempatan bagi memastikan kehadiran mereka memberi nilai tambah kepada ekosistem perniagaan domestik. Menteri Pelaburan, Perdagangan dan Industri, Datuk Seri...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "投资、贸易及工业部长建议外国投资者进入马来西亚时与本地企业合作，确保带来增值效益，强化国内商业生态体系，而非仅以短期利润为目标。"
+      "summary": "工业部长兼投资、贸易和工业部长拿督斯里建议外国投资者与本地企业合作，确保其为马来西亚商业生态系统带来增值。"
     },
     {
       "sourceId": "berita-harian",
@@ -5152,7 +5151,7 @@
       "excerpt": "Ada sesuatu yang menarik untuk diteliti apabila Pengerusi Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN), Datuk Seri Rohani Abdul Karim mendedahkan kos sara hidup semakin meningkat menjadi antara cabaran utama golongan muda memenuhi keinginan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "国家人口及家庭发展局主席罗哈妮阿都卡林披露，生活成本持续攀升已成为马来西亚年轻一代实现有尊严生活的最大障碍，债务问题亦随之加剧。"
+      "summary": "国家人口和家庭发展委员会主席拿督斯里罗哈妮·阿卜杜勒·卡里姆指出，生活成本持续上升成为年轻人追求有尊严生活的主要挑战。"
     },
     {
       "sourceId": "berita-harian",
@@ -5161,7 +5160,7 @@
       "excerpt": "Kota Bharu: Jabatan Peguam Negara akan meneliti hasil siasatan yang dilakukan oleh agensi penguat kuasa berhubung laporan Suruhanjaya Siasatan Diraja (RCI) Tabung Haji (TH). Peguam Negara, Tan Sri Mohd Dusuki Mokhtar, berkata sebarang tindakan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "总检察长莫哈末杜苏基确认，总检察署将审查各执法机构就朝觐基金局（TH）皇家调查委员会（RCI）报告所开展的调查成果，以确保后续法律行动得当。"
+      "summary": "总检察长莫哈末杜苏基表示，总检察署将审查执法机构针对朝觐基金理事会（TH）皇家调查委员会（RCI）报告所提交的调查结果。"
     },
     {
       "sourceId": "berita-harian",
@@ -5170,7 +5169,7 @@
       "excerpt": "Setiap langkah penguatkuasaan dan penambahbaikan disyorkan laporan Suruhanjaya Siasatan Diraja (RCI) Lembaga Tabung Haji (TH) akan diperincikan secara teliti demi memastikan struktur tadbir urus badan berkanun itu diperkemaskan ke tahap...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "政府表示将详细审视皇家调查委员会针对朝觐基金局提出的每项执法与治理改良建议，以强化该法定机构的监管架构及透明度。"
+      "summary": "政府将仔细审查朝觐基金理事会皇家调查委员会建议的每一项执行和改进措施，以加强该机构的治理结构。"
     },
     {
       "sourceId": "berita-harian",
@@ -5179,7 +5178,7 @@
       "excerpt": "Kementerian Dalam Negeri (KDN) akan meneliti penambahbaikan mesin pengimbas di lapangan terbang sebagai langkah memperkukuh keselamatan dan meningkatkan keberkesanan pemeriksaan bagas,i terutama mengesan kontraban. Menterinya, Datuk Seri Saifuddin...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "内政部长赛夫丁纳苏蒂安表示，内政部将研究优化机场行李扫描设备，以加强安检成效并提升对违禁品的侦测能力，回应副机长携毒事件的安检漏洞质疑。"
+      "summary": "内政部将审查机场扫描仪的改进措施，以加强安全并提高行李检查的有效性，特别是针对违禁品的检测。"
     },
     {
       "sourceId": "berita-harian",
@@ -5188,7 +5187,7 @@
       "excerpt": "dua minggu, persoalan bagaimana seorang pembantu juruterbang Malaysia yang ditahan di Jakarta kerana membawa dadah, melepasi mesin pengimbas bagasi di Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA), belum berjawab. Ketika pelbagai persoalan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "马来西亚副机长在印尼因携带毒品被捕，引发公众对吉隆坡国际机场行李扫描安全机制的质疑，两周内多项关键问题仍未获官方清晰回应。"
+      "summary": "马来西亚副驾驶员在雅加达因携带毒品被扣留的事件发生两周后，关于其行李如何通过吉隆坡国际机场（KLIA）扫描仪的疑问仍未得到解答。"
     },
     {
       "sourceId": "berita-harian",
@@ -5197,7 +5196,7 @@
       "excerpt": "Kemelut dalaman PKR yang dicetuskan oleh beberapa peletakan jawatan membabitkan pemimpin tertinggi dan Ahli Parlimennya, mengundang persoalan besar berkaitan masa depan peralihan barisan kepemimpinan, tahap kesepaduan dan hala tuju parti, selepas era...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "分析人士指出，人民公正党（PKR）近期多名高层及国会议员辞职引发的党内危机，可能成为反对党攻击的「政治武器」，影响该党未来领导层过渡及政治团结。"
+      "summary": "人民公正党（PKR）高层及国会议员的多起辞职引发的党内危机，可能成为反对党手中的政治武器，引发对未来领导权过渡的质疑。"
     },
     {
       "sourceId": "berita-harian",
@@ -5206,7 +5205,7 @@
       "excerpt": "Kuala Lumpur: Kemelut dalaman parti dijangka tidak menjejaskan persediaan Pakatan Harapan (PH) bagi menghadapi Pilihan Raya Negeri (PRN) Melaka dan Pilihan Raya Umum (PRU) akan datang. Ketua Penerangan PKR, Datuk Seri Fahmi Fadzil, berkata perkara itu...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "公正党宣传主任法米法兹强调，党内危机不会妨碍民主行动党（PH）为马六甲州选及第16届全国大选的准备工作，政府将继续推进选举筹备工作。"
+      "summary": "公正党宣传主席拿督斯里法米法兹表示，党内危机不会影响希望联盟（PH）为马六甲州选和下一届全国大选所做的准备工作。"
     },
     {
       "sourceId": "berita-harian",
@@ -5215,7 +5214,7 @@
       "excerpt": "Taiping: BERSATU masih menjadi komponen Perikatan Nasional (PN) walaupun timbul dakwaan keanggotaannya sudah dibatalkan. Pengerusi PN, Datuk Seri Dr Ahmad Samsuri Mokhtar, berkata tiada keputusan dibuat untuk menyingkirkan BERSATU daripada gabungan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "国民联盟（PN）主席艾哈迈德萨姆苏里确认，土著团结党（BERSATU）仍是PN成员党，联盟内并未作出开除或终止其成员资格的决议。"
+      "summary": "国盟主席敦阿末沙姆苏里确认，尽管有关成员资格被取消的质疑，诚信党（BERSATU）仍是国盟的组成部分，未被排除出联盟。"
     },
     {
       "sourceId": "berita-harian",
@@ -5224,7 +5223,7 @@
       "excerpt": "Kuala Lumpur: Muafakat parti politik Melayu tidak harus dilihat sekadar strategi pembahagian kerusi untuk memenangi pilihan raya. Ketua Penerangan Perikatan Nasional (PN), Tan Sri Annuar Musa, berkata ia memerlukan penghayatan dan kefahaman dasar...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "国民联盟宣传主任安努亚慕沙强调，马来政党间的合作不应仅被视为选举席位分配策略，而应深化对宗教与社群团结理念的理解与实践。"
+      "summary": "国盟宣传主席丹斯里安努亚慕莎强调，马来政党之间的团结不应仅被视为选举席位分配策略，而应深入理解政策内涵。"
     },
     {
       "sourceId": "berita-harian",
@@ -5233,7 +5232,7 @@
       "excerpt": "Kuala Lumpur: Jabatan Pendaftaran Pertubuhan (ROS) diminta mengambil tindakan segera bagi menangani kemelut yang berlaku dalam Perikatan Nasional (PN). Ketua Penerangan BERSATU, Datuk Tun Faisal Ismail Aziz, mendakwa PAS mempergunakan PN sesuka hati...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "土著团结党宣传主任费萨尔伊斯梅尔阿里兹敦促社团注册局（ROS）介入国民联盟（PN）内部危机，指控伊斯兰党（PAS）滥用PN平台谋取政治利益。"
+      "summary": "诚信党宣传主席敦法伊斯尔伊斯梅尔呼吁社团注册局（ROS）立即介入国盟（PN）内部的危机，指控巫统滥用国盟。"
     },
     {
       "sourceId": "berita-harian",
@@ -5241,7 +5240,8 @@
       "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026081000000000001001&page=7&article=67e1fb5a-301f-428e-af42-39be620fe0ce&key=v1QGzISpM97cqGYNiS5RwA%3d%3d&feed=rss",
       "excerpt": "Wakil rakyat di Melaka diingatkan supaya terus memahami kesusahan dihadapi rakyat termasuk ketika berdepan bencana seperti banjir, selain tidak menganggap kedudukan disandang sebagai keistimewaan. Ketua Menteri, Datuk Seri Ab Rauf Yusoh, berkata,...",
       "category": "politics",
-      "source": "Berita Harian (MY)"
+      "source": "Berita Harian (MY)",
+      "summary": "马六甲首席部长拿督斯里阿末鲁芙敦促国会议员体恤民众疾苦，包括在洪水等灾害期间，不应将职位视为特权。"
     },
     {
       "sourceId": "berita-harian",
@@ -5250,7 +5250,7 @@
       "excerpt": "Landskap politik negara kini menunjukkan corak kerjasama yang lebih fleksibel, namun perkembangan itu berpotensi mengelirukan rakyat jika parti politik gagal menjelaskan pendirian dan hala tuju mereka dengan baik. Penganalisis Politik Universiti...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "政治分析师指出，马来西亚当前政党合作格局日益灵活，但若各党未能明确传达政策立场与发展方向，将令公众对政治走向产生混淆。"
+      "summary": "政治分析家指出，当前政治合作格局灵活多变，若政党未能清楚阐明立场和方向，可能导致民众困惑。"
     },
     {
       "sourceId": "berita-harian",
@@ -5259,7 +5259,7 @@
       "excerpt": "Kuala Lumpur: Penggunaan elemen agama dan kisah menyentuh perasaan antara pendekatan paling ‘mujarab’ digunakan pihak tertentu, termasuk pertubuhan bukan kerajaan (NGO) untuk menarik sumbangan orang ramai, sebelum wang berkenaan digunakan untuk...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "政府谴责部分非政府组织（NGO）滥用宗教情感与悲惨故事向公众募捐，却将善款中饱私囊，呼吁加强监管以保障公益资金流向。"
+      "summary": "政府警告非政府组织（NGO）利用宗教情感和悲惨故事骗取公众捐款，却将资金用于其他目的，呼吁加强监管。"
     },
     {
       "sourceId": "berita-harian",
@@ -5268,7 +5268,7 @@
       "excerpt": "Kuala Lumpur: Wang zakat yang dikutip oleh pertubuhan bukan kerajaan (NGO), sama ada daripada orang ramai atau organisasi, hendaklah disalurkan sepenuhnya kepada asnaf dan tidak boleh diagihkan bagi tujuan lain, termasuk menampung kos pengurusan atau...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "宗教机构强调，NGO代募的天课资金必须全数拨付予符合资格的受助群体，不得挪作管理费或其他用途，以确保宗教义务履行的透明度。"
+      "summary": "政府强调非政府组织（NGO）征收的天课资金必须全部用于指定的接受者（asnaf），不得用于管理成本或其他用途。"
     },
     {
       "sourceId": "berita-harian",
@@ -5277,7 +5277,7 @@
       "excerpt": "Dari kemunculan PAS bermula sejak 23 Ogos 1951 sehingga berkembang menjadi pertubuhan politik-dakwah penting di negara ini, sejarah PAS penuh onak berduri. Penyertaan PAS pada pilihan raya 1959 biarpun hanya menang 13 kerusi parlimen daripada 104...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "马来西亚伊斯兰党（PAS）自1951年成立以来历经政治风浪，1959年首次参选即获13个国会议席，至今仍是国内重要的政治与宗教力量。"
+      "summary": "文章回顾马来政党（PAS）自1951年成立以来的艰难历程，指出其在1959年大选中仅赢得13个议席，但始终坚持生存。"
     },
     {
       "sourceId": "berita-harian",
@@ -5285,8 +5285,7 @@
       "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026081000000000001001&page=10&article=373eebba-42b1-4175-99f8-79256307c670&key=%2f68xRSJwhZFfSDf9f1Ub9g%3d%3d&feed=rss",
       "excerpt": "Renungkan hal ini: Banyak udang banyak garam, Banyak tukang terbuang kayu, Banyak politik negara hancur. Tidak perlu pergi jauh untuk lihat kedudukan kita di titik mana. Cukup ke selatan tanah air. Sesekali menikmati ikan bakar di Senibong, Johor...",
       "category": "politics",
-      "source": "Berita Harian (MY)",
-      "summary": "政治评论指出，马来西亚政局的稳定性取决于主要政党间能否维持共识与合作，各方需避免内斗导致国家治理陷入停滞。"
+      "source": "Berita Harian (MY)"
     },
     {
       "sourceId": "berita-harian",
@@ -5295,7 +5294,7 @@
       "excerpt": "Pada 13 Februari lalu, Mesyuarat Pasukan Petugas Khas Indeks Persepsi Rasuah (CPI) Kebangsaan dipengerusikan Ketua Setiausaha Negara meneliti dapatan Laporan CPI 2025, termasuk kedudukan Malaysia dalam Projek Keadilan Sedunia (WJP) Indeks Kedaulatan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "国家秘书处主持的反腐败感知指数工作小组于2月13日审阅2025年 CPI 报告及世界正义项目法治指数，强调持续推进法治与廉政改革。"
+      "summary": "联邦政府强调持续推进法律改革以建设廉洁国家的重要性，参考2025年腐败感知指数和世界正义项目法治指数数据。"
     },
     {
       "sourceId": "berita-harian",
@@ -5304,7 +5303,7 @@
       "excerpt": "Enam tahun lalu, negara melakar satu langkah penting dalam landskap pembangunan budaya apabila melancarkan Dasar Kebudayaan Negara (DAKEN) 2021 sebagai dokumen dasar tertinggi menentukan hala tuju pembangunan kebudayaan negara. DAKEN bukan sekadar...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "《国家文化政策》（DAKEN 2021）已颁布六年，被视为指导国家文化发展的最高纲领，政府呼吁各界持续落实以推动艺术文化领域稳健发展。"
+      "summary": "文化评论指出，国家文化发展政策（DAKEN 2021）需要持续贯彻，不能朝令夕改，以确保文化发展的连贯性和可持续性。"
     },
     {
       "sourceId": "berita-harian",
@@ -5313,7 +5312,7 @@
       "excerpt": "Dalam menuju kelestarian alam dan menyokong usaha rendah karbon, Alam Flora Sdn Bhd (Alam Flora) menyasar penggunaan 242 kenderaan dan peralatan pembersihan berkuasa elektrik di seluruh kawasan perkhidmatannya menjelang hujung tahun ini. Ketua Pegawai...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "绿树园公司宣布计划年底前在其服务区全面推广242辆电动清洁车辆及设备的绿色技术转型，以支持马来西亚低碳可持续发展目标。"
+      "summary": "Alam Flora公司计划在年底前将电动车辆和设备增至242辆，以降低碳排放并支持环境可持续性目标。"
     },
     {
       "sourceId": "berita-harian",
@@ -5322,7 +5321,7 @@
       "excerpt": "Kuala Lumpur: Perbicaraan bagi permohonan perintah mandamus terhadap Menteri Besar Negeri Sembilan di Mahkamah Tinggi Kuala Lumpur adalah antara beberapa kes berprofil tinggi dijadualkan berlangsung sepanjang minggu ini. Ia bertujuan mengarahkan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "吉隆坡高等法院本周将审理多起高 PROFILE 案件，包括针对森美兰州务大臣的命令书申请，涉及州政府行政权力的法律争议。"
+      "summary": "吉隆坡高等法院本周将审理针对森美兰州务大臣的强制令申请，要求执行相关命令，此案备受关注。"
     },
     {
       "sourceId": "berita-harian",
@@ -5331,7 +5330,7 @@
       "excerpt": "Kuching: Pendekatan Pihak Berkuasa Kemajuan Pekebun Kecil Perusahaan Getah (RISDA) sebagai pembeli utama atau anchor buyer getah berjaya membantu meningkatkan harga komoditi itu dan secara tidak langsung menambah pendapatan pekebun kecil. Timbalan...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "小橡胶园发展局（RISDA）作为橡胶主要买家，通过稳定采购机制有效提升天然橡胶价格，进而增加小农收入，助力乡村经济。"
+      "summary": "橡胶小农发展局（RISDA）作为主要买家成功稳定橡胶价格，间接提高了小农收入，在古晋举行的活动中被强调。"
     },
     {
       "sourceId": "berita-harian",
@@ -5340,7 +5339,7 @@
       "excerpt": "Kuala Lumpur: Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB) mengingatkan orang ramai menyemak terlebih dahulu status kontraktor, sebelum melantik mereka melakukan kerja pembinaan atau ubah suai rumah. Ketua Eksekutif CIDB, Ahmad Farrin...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "马来西亚建筑业发展局（CIDB）提醒公众在聘用承包商进行房屋建设或翻新前，应先核实其注册资格与信誉，避免遭受欺诈或劣质工程。"
+      "summary": "马来西亚建筑业发展委员会（CIDB）提醒公众在雇佣承包商进行建设或房屋改建前，务必核实其资格和状态。"
     },
     {
       "sourceId": "berita-harian",
@@ -5349,7 +5348,7 @@
       "excerpt": "Kuala Lumpur: Kerajaan wajar mempertimbang penubuhan agensi integriti berpusat sebagai saluran berkecuali menerima maklumat secara tertutup, sekali gus mengurangkan risiko kebocoran identiti dan meningkatkan keyakinan terhadap sistem perlindungan sedia...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "政府正考虑设立独立诚信机构，作为接收举报信息的保密渠道，以降低举报人身份泄露风险并增强公众对吹哨人保护制度的信心。"
+      "summary": "政府被建议考虑成立集中式诚信机构，作为接受匿名举报的独立渠道，以减少身份泄露风险并增强公众对举报制度的信心。"
     },
     {
       "sourceId": "berita-harian",
@@ -5358,7 +5357,7 @@
       "excerpt": "Kuala Lumpur: Lebih 1,800 akaun palsu dikesan dan sebahagiannya digunakan untuk menyebarkan kandungan 3R (agama, kaum dan institusi diraja), selain menggunakan taktik ‘gaslighting’ bagi mencetuskan kecaman serta mengelirukan masyarakat. Menteri...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "警方查获逾1,800个虚假社交账号，部分被用于传播宗教、种族及皇室（3R）敏感内容，并通过「煤气灯」手法煽动社会对立与混淆。"
+      "summary": "警方发现超过1,800个虚假社交媒体账户，部分被用于传播宗教、种族和王室（3R）敏感内容，并采用gaslighting手段制造混乱。"
     },
     {
       "sourceId": "berita-harian",
@@ -5367,7 +5366,7 @@
       "excerpt": "Melaka: Kerajaan menyasarkan pembinaan sekurang-kurangnya 1,000 Taman Rekreasi MADANI di seluruh negara menjelang 2035 bagi menyediakan kemudahan rekreasi kepada masyarakat setempat. Ketua Pengarah Jabatan Landskap Negara, Mansor Mohamad, berkata 216...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "国家景观局计划到2035年在全国建设至少1,000座「MADANI休闲公园」，目前全国已落实216座，以提升社区休闲设施覆盖率。"
+      "summary": "政府计划到2035年在全国建设至少1,000个MADANI休闲公园，目前已完成216个，为社区提供便利的休闲设施。"
     },
     {
       "sourceId": "berita-harian",
@@ -5375,7 +5374,8 @@
       "url": "http://www.pressdisplay.com/pressdisplay/viewer.aspx?issue=58312026081000000000001001&page=17&article=b22985cd-6e07-4994-b870-a04e1d2b0a8d&key=suS5foZaVmSoMgrw4qSNCA%3d%3d&feed=rss",
       "excerpt": "Kuala Lumpur: Biarpun berdepan landskap ekonomi dan kewangan semakin mencabar, Lembaga Tabung Haji (TH) terus memperkukuh peranan melalui penambahbaikan tadbir urus, kedudukan kewangan serta penyampaian perkhidmatan. Pengerusinya, Tan Sri Abdul Rashid...",
       "category": "politics",
-      "source": "Berita Harian (MY)"
+      "source": "Berita Harian (MY)",
+      "summary": "朝觐基金理事会（TH）主席丹斯里阿卜杜勒·拉希德表示，尽管面临经济挑战，理事会正持续加强治理和财务结构。"
     },
     {
       "sourceId": "berita-harian",
@@ -5384,7 +5384,7 @@
       "excerpt": "Pasangan suami isteri bersama cucu perempuannya cedera selepas kenderaan Utiliti Sukan (SUV) yang dinaiki dihempap pokok tumbang dalam kejadian di Jalan Macalister di sini, semalam. Loh Kok Kim, 66, cedera di dada, Lee Geok Suan, 68, cedera pada...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "一名66岁男子、68岁妻子及孙女在吉隆坡麦卡利斯特街遭遇树木倒塌压中SUV，三人受伤送院，事故引发对城市老树安全的关注。"
+      "summary": "一名66岁男子、68岁女子及其孙女在吉隆坡麦卡利斯特路因 SUV 被倒塌的树木压住而受伤。"
     },
     {
       "sourceId": "berita-harian",
@@ -5393,7 +5393,7 @@
       "excerpt": "Georgetown: Kereputan akar dan kaviti pada batang dikenal pasti punca pokok tumbang, dalam kejadian di Jalan Macalister, di sini semalam. Datuk Bandar Majlis Bandaraya Pulau Pinang (MBPP), Datuk A Rajendran berkata, kereputan bahagian akar dianggar...",
       "category": "politics",
       "source": "Berita Harian (MY)",
-      "summary": "槟城市政厅确认，吉隆坡麦卡利斯特街树木倒塌事故主因是根部腐朽及树干内部空洞，当局将加强城市老树结构检测以防范类似意外。"
+      "summary": "槟城市政厅（MBPP） mayor确认，树根腐烂和树干空洞是导致吉隆坡麦卡利斯特路树木倒塌的主要原因。"
     },
     {
       "sourceId": "the-sun",
