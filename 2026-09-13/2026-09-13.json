@@ -1,149 +1,149 @@
 {
-  "hero_headline": "DeepSeek V4.1 开源引爆大模型军备竞赛，AI 安全关切升温",
-  "daily_overview": "科技领域，DeepSeek 发布 V4.1-Flash 开源模型引发行业震动，OpenAI 的 GPT-6 Astra 被 Perplexity、Cognition 等企业集成至工作流，AlphaGenome Atlas 公布全基因组变异预测图谱。财经方面，SpaceX 即将纳入纳斯达克 100 指数，全球债券收益率持续攀升，印度央行强制塔塔集团上市。时政焦点，特朗普就爱尔兰统一发表突破性言论，德国情报机关指控俄罗斯特工参与未遂袭击，澳大利亚持续辩论社交媒体算法监管。",
+  "hero_headline": "特朗普公开支持爱尔兰统一，打破美官方中立立场，引发欧洲震动",
+  "daily_overview": "今日科技领域，DeepSeek发布v4.1-Flash开源旗舰模型，以763B参数架构主打推理效率；DeepMind同步公布AlphaGenome Atlas基因组预测图谱及WeatherNext 3气象大模型，AI在科学与气候预测领域再提速。财经层面，SpaceX获纳斯达克100指数权重上调，或触发被动基金数十亿美元买入；印度央行强制塔塔集团上市，酝酿印度史上最大IPO之一。时政方面，特朗普访问爱尔兰期间表态支持统一，打破美国数十年中立传统；Altman与马斯克联合声援Anthropic创始人Amodei的AI减速呼吁，业内对高级自主Agent的风险担忧持续升温。",
   "tech_briefs": [
     {
-      "title": "DeepSeek V4.1-Flash 开源，763B 参数编码器-解码器架构亮相",
-      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "source": "Latent Space",
-      "summary": "DeepSeek 推出 V4.1-Flash 开源旗舰模型，采用 763B 总参数的因果编码器-解码器架构，主打极端推理效率与低成本。业界认为此举应命名为 DeepSeek v5，标志着开源模型竞争进入新阶段。（多家报道）",
+      "title": "DeepSeek发布v4.1-Flash开源旗舰模型，主打极低推理成本",
+      "url": "https://news.smol.ai/issues/26-09-10-not-much/",
+      "source": "Smol AI News",
+      "summary": "DeepSeek推出V4.1-Flash开源模型，采用763B总参数的因果编码器-解码器架构，目标是通过极致推理效率降低成本。社区认为此版本规格更接近DeepSeek V5，其混合专家设计可大幅降低实际部署费用。",
       "importance": 9
     },
     {
-      "title": "AlphaGenome Atlas 公布全基因组 90 亿单碱基变异预测图谱",
+      "title": "DeepMind发布AlphaGenome Atlas，映射90亿个DNA突变分子效应",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind 发布 AlphaGenome Atlas，绘制人类基因组中 90 亿种单碱基 DNA 变异的分子效应预测图谱，为精准医学与遗传病研究提供关键工具，代表 AI 驱动生物学的重大突破。（多家报道）",
+      "summary": "AlphaGenome Atlas是首个预测人类基因组中每一个单碱基变异分子效应的图谱，覆盖约90亿种可能突变。该模型利用AlphaFold技术路线，为理解遗传病致病机制和精准医疗提供底层数据基础设施。",
       "importance": 8
     },
     {
-      "title": "Perplexity 与 Cognition 采用 GPT-6 Astra 构建自主代理工作流",
+      "title": "Perplexity全面接入GPT-6 Astra，端到端系统可靠性大幅提升",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News",
-      "summary": "Perplexity 使用 GPT-6 Astra 完成通讯撰写、软件变更与生产系统监控等端到端任务，检查频率较早期模型大幅降低。Cognition 亦利用该模型提升 Devin 软件测试能力，目标让工程师减少代码审查工作量。（多家报道）",
+      "summary": "Perplexity宣布在生产环境中使用GPT-6 Astra处理通信撰写、软件变更及生产系统监控等端到端任务，相比早期模型，人工复核频率显著下降，体现GPT-6在复杂系统操作中的稳定性突破。",
       "importance": 7
     },
     {
-      "title": "GitHub 热门项目 gods-eye-view 实现浏览器内真实卫星数据 3D 地球仪",
+      "title": "DeepMind推出WeatherNext 3，成全球最精准气象AI模型",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "DeepMind Blog",
+      "summary": "WeatherNext 3是DeepMind最新一代全球气象预测AI模型，在准确性指标上超越传统数值预报方法。该技术有望提升极端天气预警能力，对农业、灾害应对和能源调度等领域具有重要应用价值。",
+      "importance": 7
+    },
+    {
+      "title": "GitHub热榜：gods-eye-view开源实时卫星模拟器",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "source": "GitHub Trending",
-      "summary": "该项目为开源空间情报模拟器，在浏览器中呈现 photorealistic 3D 地球仪，集成真实间谍卫星数据，允许用户以三维方式可视化地理空间信息，为 GIS 爱好者与研究人员提供新工具。（多家报道）",
+      "summary": "该项目在浏览器内构建了一个基于真实开源空间情报数据的3D地球模拟器，用户可实时查看卫星遥感影像。项目采用photorealistic渲染技术，将商业卫星数据可视化，为地理信息分析和开源情报研究提供低门槛工具。",
       "importance": 6
-    },
-    {
-      "title": "T1 论文引入 122B 专家混合模型用于终端长程任务代理",
-      "url": "https://huggingface.co/papers/2609.11042",
-      "source": "HuggingFace Trending Papers",
-      "summary": "T1（Terminal Agent Reinforcement Learning）是针对编程与科学发现等长程任务的终端代理模型，采用 122B 总参数的专家混合架构，应对 AI 代理使用场景向复杂多步任务延伸的趋势。（多家报道）",
-      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX 即将纳入纳斯达克 100 指数，被动基金或触发数十亿美元买入",
+      "title": "SpaceX获纳斯达克100指数权重上调，被动基金或增持数十亿美元",
       "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
       "source": "Bloomberg Markets",
-      "summary": "SpaceX 将在本月指数再平衡后获得纳斯达克 100 权重提升，追踪该指数的被动基金可能被迫买入数十亿美元股份，对 SpaceX 估值及美股资金流向产生显著影响。（多家报道）",
+      "summary": "SpaceX将于本月晚些时候获得纳斯达克100指数加权提升，这将触发追踪该指数的被动基金大量买入，预计涉及金额达数十亿美元，进一步推高这位私人航天巨头的估值。",
       "importance": 8
     },
     {
-      "title": "全球债券收益率飙升，通胀与资本需求双重挤压下投资者承压",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
-      "source": "The Economist Finance",
-      "summary": "顽固通胀、企业资本需求旺盛及政府巨额债务共同推动债券收益率上升，不仅债券投资者受损，更对实体经济融资成本与货币政策构成压力，预示更广范围经济痛苦。（多家报道）",
-      "importance": 7
+      "title": "Altman与马斯克联手声援AI减速呼吁，业内风险担忧常态化",
+      "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "OpenAI CEO Altman与马斯克公开支持Anthropic创始人Amodei的AI发展减速倡议，强调先进AI可能超出人类控制。两家公司在产品竞争上激烈对峙，但在安全规制问题上罕见达成一致，标志行业内部对自主Agent风险的认知已趋于主流。",
+      "importance": 8
     },
     {
-      "title": "印度央行强制塔塔集团上市，或成印度史上最大 IPO",
+      "title": "印度央行强制塔塔集团上市，酝酿印度史上最大IPO",
       "url": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "印度储备银行驳回塔塔集团上诉，强制其 conglomerate 公开上市，此举有望造就印度最大首次公开募股，对印度资本市场深度与外资参与度具有标志性意义。（多家报道）",
+      "summary": "印度储备银行驳回塔塔集团的上诉，要求其将集团主要公司分拆上市。此举被视为印度近年来最具分量的监管干预之一，有望催生印度资本市场历史上规模最大的IPO交易。",
       "importance": 7
     },
     {
-      "title": "英国通胀数据显示食品替代趋势，消费者组织警告「缩水通胀」蔓延",
-      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "消费者组织 Which? 指出超市货架上更低营养的Jack mackerel罐头替代传统鲭鱼，属于「缩水通胀」典型表现，反映家庭在能源成本压力下消费降级趋势。（多家报道）",
-      "importance": 5
+      "title": "全球债券收益率飙升，通胀与资本需求双重挤压固定收益市场",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+      "source": "The Economist Finance",
+      "summary": "顽固通胀、企业融资需求及公共债务扩张共同推动全球债券收益率上行，不仅债券投资者承压，实体经济融资成本亦随之攀升。央行降息空间持续受限，高利率环境可能延续至明年。",
+      "importance": 7
     },
     {
-      "title": "美国 8 月 CPI 同比上涨 3.4%，燃料成本持续挤压家庭预算",
-      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "美国最新通胀报告显示 12 个月 CPI 涨幅达 3.4%，燃料价格高企继续侵蚀家庭可支配收入，凸显能源成本对整体物价水平的传导压力。（多家报道）",
+      "title": "拉里·埃隆森紧急撤回75亿美元Oracle股份出售计划",
+      "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "Oracle创始人拉里·埃隆森在披露拟于十月底前出售最高5000万股计划的次日，突然取消了75亿美元的股份出售方案。 analysts认为此举或对Oracle股价形成短期支撑，也反映出大股东对公司未来价值的信心转变。",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普打破外交惯例，公开支持爱尔兰统一称「非常棒」",
+      "title": "特朗普访爱尔兰期间表态支持统一，打破美国数十年中立立场",
       "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "source": "NYT World",
-      "summary": "特朗普表示爱尔兰统一将是「非常棒」的决定，打破美国数十年来在爱尔兰问题上的官方中立立场，此前北爱冲突曾导致数十年暴力，1998 年和平协议后美国保持谨慎平衡。（多家报道）",
+      "summary": "特朗普在爱尔兰访问时表示「非常乐见爱尔兰统一」，此番言论打破了美国自1998年《贝尔法斯特协议》以来在该问题上保持的官方中立传统。英国与爱尔兰政府均未立即回应，分析人士认为此举可能加剧北爱尔兰政治格局的不确定性。",
+      "importance": 9
+    },
+    {
+      "title": "德国情报机构：俄罗斯特工参与莱比锡机场无人机袭击未遂事件",
+      "url": "https://www.dw.com/zh/德情报机关：俄罗斯特工参与对莱比锡机场的未遂袭击/a-79245879?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "德情报机关内部报告指出，8月初针对莱比锡机场的无人机袭击未遂事件背后，有俄罗斯籍特工和白俄罗斯公民参与预谋。爆炸物事先从保加利亚和塞尔维亚非法运入德国，事件进一步凸显欧洲关键基础设施面临的外部安全威胁。",
       "importance": 8
     },
     {
-      "title": "德国情报机关指控俄罗斯特工参与莱比锡机场无人机袭击未遂事件",
-      "url": "https://www.dw.com/zh/德情报机关：俄罗斯特工参与对莱比锡机场的未遂袭击/a-79245879?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "德情报机关内部报告指出，一名俄罗斯籍特工与一名白俄罗斯公民在 8 月初莱比锡机场无人机袭击前潜入德国，炸药从保加利亚、塞尔维亚偷运入境，事件反映俄在白俄罗斯境内策划跨境行动能力。（多家报道）",
+      "title": "也门战火重燃，胡塞武装与沙特支持政府冲突推向人道危机边缘",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "source": "NYT World",
+      "summary": "沙特支持的也门政府与伊朗支持的胡塞武装之间新一轮战斗正在展开，饥荒与疾病本已折磨也门多年，战事升级使数百万平民流离失所。分析人士警告，该地区冲突正与更广泛的中东地缘博弈深度交织。",
       "importance": 7
-    },
-    {
-      "title": "澳大利亚工党推动社交媒体算法「退出选择」引发争议",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
-      "source": "The Guardian",
-      "summary": "澳大利亚工党政府推进社交媒体算法「退出选择」政策，执政党内部 Andrew Hastie 挑战该策略，批评其未能充分解决虚假信息与平台责任问题，辩论持续主导议会议程。（多家报道）",
-      "importance": 6
     }
   ],
-  "editor_note": "今日三大主线交织：AI 技术竞赛白热化与开源生态崛起，全球经济金融条件收紧信号明确，地缘政治中大国博弈与历史问题回潮。科技与安全议题正重塑产业格局与国际关系。",
+  "editor_note": "本周科技与地缘政治出现罕见交汇：AI模型能力跃升的同时，其创造者群体正公开呼吁减速；特朗普的爱尔兰言论则为本就敏感的双边关系增添了新的不确定变量。",
   "keywords": [
-    "DeepSeek V4.1",
-    "GPT-6 Astra",
-    "AlphaGenome Atlas",
-    "SpaceX 纳斯达克",
-    "债券收益率",
-    "印度 IPO",
-    "特朗普 爱尔兰",
-    "德国情报 俄罗斯"
+    "DeepSeek",
+    "特朗普",
+    "爱尔兰统一",
+    "AlphaGenome",
+    "SpaceX",
+    "AI安全",
+    "印度IPO",
+    "债券市场"
   ],
   "trading": {
-    "market_overview": "美股大盘整体维持多头格局，SPY RSI 50.3 处于中性水平，价格略低于 SMA20（764 vs 766）但远在 SMA50/200 之上，呈现高位震荡特征。QQQ 走势类似，RSI 50.8。科技股内部分化明显：AAPL 多头排列且 RSI 62.8，META 5日涨 6.12%、RSI 67.2 动量最强；NVDA 虽多头排列但 MACD 已死叉，短期动能转弱。中概股技术面全面承压，BABA/PDD/0700.HK 均为空头排列，RSI 分别在 36.6/30.3/39.7，PDD 逼近超卖区。加密市场情绪贪婪指数 61，BTC-USD 与 ETH-USD 均呈多头排列且金叉确认，ETH RSI 63.8 偏强，但总市值 24h 跌 2.54% 显示短期有回调压力。商品方面 CL=F RSI 71.5 超买、^TNX RSI 73.7 超买，美元/人民币 RSI 14.7 深度超卖且 MACD 死叉。VIX 空头排列于 15.84 低位，市场恐慌情绪处于相对平静区间。",
+    "market_overview": "美股整体维持多头排列但分化明显：标普与纳指均站于SMA50之上，SPY与QQQ RSI约50呈中性震荡，NVDA触发MACD死叉提示短期动能转弱；中概股全线弱势，BABA/PDD/腾讯RSI均低于40且呈空头排列，技术面承压。加密市场在贪婪情绪下BTC/ETH维持多头排列，ETH的RSI 63.8动能偏强，加密总市值24h下滑2.54%。商品端WTI原油RSI 71.5进入超买区，黄金走势中性；VIX单月暴跌11.21%反映避险情绪降温，美元/人民币汇率RSI 14.7严重超卖。整体市场呈结构性分化，美股高位震荡、中概底部寻撑、加密韧性尚可。",
     "watchlist": [
       {
-        "symbol": "META",
-        "display_name": "Meta (META)",
+        "symbol": "AAPL",
+        "display_name": "苹果 (AAPL)",
         "stance": "偏上行",
-        "rationale": "META 当日收 648.03，5日涨幅 +6.12% 为全表最强，价格远高于 SMA20/50/200（586/601/623），呈现标准多头排列。RSI 14 录得 67.2，MACD 柱状图 14.02 远大于信号线 4.14，短期动量强劲。当前趋势标签为 neutral 但技术指标明确指向多头延续，属于强势跟踪标的。"
+        "rationale": "当前价格332.27，股价站上SMA20(316.63)、SMA50(317.97)及SMA200(284.95)，呈现完整多头排列。RSI14为62.8，处于中性偏强区间，未超买。MACD 3.23高于信号线1.90，柱状图为正，近期+1.75%/+1.24%连续两天上行，短期动量向上，技术面偏向多头延续。"
       },
       {
-        "symbol": "AAPL",
-        "display_name": "Apple (AAPL)",
+        "symbol": "MSFT",
+        "display_name": "微软 (MSFT)",
         "stance": "偏上行",
-        "rationale": "AAPL 收 332.27，1日涨 1.75%，5日涨 1.24%，价格全面站上 SMA20/50/200（316/318/285），多头排列确认。RSI 14 为 62.8 处于中性偏强区间，MACD 柱状图 3.23 明显高于信号线 1.90，短期动能向上。距离 52 周高点仅 -3.57%，技术面上方空间有限但下方支撑明确。"
+        "rationale": "价格495.63，SMA50(453.67)上穿SMA200(431.26)触发金叉，SMA20(494.43)为短期阻力位。RSI14=56.7，中性区域。MACD 10.17低于信号线14.01，柱状图收窄，短期动能边际走弱。5日跌幅-2.84%，但未破SMA50支撑。整体技术结构偏多头，但需观察能否突破SMA20压制，当前偏上行倾向成立。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "BABA 收 109.30，价格位于 SMA20/50/200 之下（117.6/117.3/134.5），空头排列清晰。RSI 14 仅 36.6 接近超卖但未触及，MACD 柱状图 -3.02 弱于信号线 -1.81，下行动能持续。52 周高点下方 -43.27%，技术面未见止跌信号，整体仍处空头轨道运行。"
+        "rationale": "价格109.3，明显低于SMA20(117.6)、SMA50(117.28)与SMA200(134.53)，呈空头排列。RSI14仅36.6，接近超卖但未触发极端信号。MACD -3.02低于信号线-1.81，柱状图持续为负，空头动能维持。距52周高点-43.27%，下方无明显技术支撑位。短期趋势偏下行，反弹空间受限。"
       },
       {
-        "symbol": "PDD",
-        "display_name": "拼多多 (PDD)",
-        "stance": "偏下行",
-        "rationale": "PDD 收 77.81，5日跌 -4.68%，价格远低于 SMA20/50/200（84.3/85.7/97.3），空头排列。RSI 14 为 30.3，逼近超卖边界但尚未触发，MACD 柱状图 -2.27 仍在信号线 -1.35 下方，下跌动能未衰竭。52 周高点下方 -44.19%，技术面弱势明显，短期无反转信号。"
+        "symbol": "BTC-USD",
+        "display_name": "比特币 (BTC-USD)",
+        "stance": "偏上行",
+        "rationale": "价格77252.96，站上SMA20(78586.86)、SMA50(70908.6)及SMA200(70091.05)，SMA50上穿SMA200形成金叉，多头排列确立。RSI14=55，中性偏弱，MACD 1808.4高于信号线2569.9但柱状图收敛，短期动能放缓。加密恐慌贪婪指数61（贪婪），总市值24h下滑2.54%。整体技术结构偏上行，但上方逼近SMA20压制，需关注突破情况。"
       },
       {
-        "symbol": "USDCNY=X",
-        "display_name": "美元/人民币 (USDCNY=X)",
+        "symbol": "CL=F",
+        "display_name": "WTI原油期货 (CL=F)",
         "stance": "中性",
-        "rationale": "USDCNY 收 6.70，价格低于 SMA20/50/200（6.72/6.75/6.85），空头排列且 MACD 死叉。RSI 14 仅 14.7，处于深度超卖区域，已触及极端水平。虽然趋势标签 bearish，但超卖读数暗示短期有技术性反弹可能。52 周低点附近，多空博弈进入敏感区间，方向仍需观察放量信号确认。"
+        "rationale": "价格100.05，SMA20(88.52)、SMA50(83.23)、SMA200(79.59)呈多头排列。RSI14=71.5，已进入超买区间，短期上涨动能强劲但存在回调压力。5日涨幅+9.58%，单日下跌-2.37%，波动加大。MACD 4.19高于信号线2.71，多头柱状图维持。技术面超买信号明显，短期面临动能衰竭风险， stance定为中性。"
       }
     ],
-    "risk_caveat": "本报告仅供技术指标解读参考，不构成任何投资建议或买卖依据。所有结论基于历史行情与指标读数客观描述，过去走势不代表未来表现，读者应自行判断风险并承担相应后果。",
+    "risk_caveat": "本报告基于公开技术指标数据生成，仅供技术状态描述与客观解读参考，不构成任何投资建议。市场有风险，过去走势不代表未来表现，请读者结合个人判断独立决策。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -366,18 +366,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 77255.6,
-        "pct1Day": 0.1059985750506795,
-        "pct5Day": -2.3513006884978433,
-        "pct52WeekHigh": -38.78226505365732,
-        "pct52WeekLow": 33.78110592191567,
-        "sma20": 78586.996484375,
-        "sma50": 70908.649765625,
-        "sma200": 70091.0598046875,
-        "rsi14": 55.0519909594261,
-        "macd": 1808.6358827128279,
-        "macdSignal": 2569.963936821632,
-        "macdHistogram": -761.3280541088043,
+        "currentPrice": 77252.96,
+        "pct1Day": 0.1025777248309145,
+        "pct5Day": -2.354637567198964,
+        "pct52WeekHigh": -38.78435700324101,
+        "pct52WeekLow": 33.77653431649633,
+        "sma20": 78586.864453125,
+        "sma50": 70908.596953125,
+        "sma200": 70091.0466015625,
+        "rsi14": 55.04351660405757,
+        "macd": 1808.425234564682,
+        "macdSignal": 2569.921807192003,
+        "macdHistogram": -761.4965726273213,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -398,18 +398,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2524.95,
-        "pct1Day": 0.4062502730489669,
-        "pct5Day": 1.3646152235762006,
-        "pct52WeekHigh": -46.99226363534507,
-        "pct52WeekLow": 67.60308308159736,
-        "sma20": 2470.748254394531,
-        "sma50": 2173.9438525390624,
-        "sma200": 2055.689344482422,
-        "rsi14": 63.82202539927937,
-        "macd": 88.03261815105589,
-        "macdSignal": 104.11673631816299,
-        "macdHistogram": -16.084118167107107,
+        "currentPrice": 2524.42,
+        "pct1Day": 0.38517448436218477,
+        "pct5Day": 1.3433382691539468,
+        "pct52WeekHigh": -47.003390232019555,
+        "pct52WeekLow": 67.56790233186639,
+        "sma20": 2470.7217529296877,
+        "sma50": 2173.933251953125,
+        "sma200": 2055.6866943359373,
+        "rsi14": 63.788646334120166,
+        "macd": 87.9903366117037,
+        "macdSignal": 104.10828001029256,
+        "macdHistogram": -16.117943398588864,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -425,18 +425,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 101.59,
-        "pct1Day": -0.7873802806155356,
-        "pct5Day": -2.1915051136866515,
-        "pct52WeekHigh": -59.87913584737405,
-        "pct52WeekLow": 68.15438356744846,
-        "sma20": 102.4302318572998,
-        "sma50": 87.42358963012695,
-        "sma200": 83.03612991333007,
-        "rsi14": 57.04783772404034,
-        "macd": 3.909639307386584,
-        "macdSignal": 5.072309278468721,
-        "macdHistogram": -1.1626699710821367,
+        "currentPrice": 101.72,
+        "pct1Day": -0.6604225036343413,
+        "pct5Day": -2.066344129975456,
+        "pct52WeekHigh": -59.82779504276886,
+        "pct52WeekLow": 68.36956291446852,
+        "sma20": 102.43673210144043,
+        "sma50": 87.4261897277832,
+        "sma200": 83.03677993774414,
+        "rsi14": 57.27945187684822,
+        "macd": 3.920010067269061,
+        "macdSignal": 5.0743834304452164,
+        "macdHistogram": -1.1543733631761555,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -744,13 +744,13 @@
       "timestamp": "2026-09-13T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2659050689970.9595,
-      "total24hVolumeUsd": 45749802521.56719,
-      "marketCapChangePct24h": -2.540184232095812,
-      "btcDominance": 58.23026614210246,
-      "ethDominance": 11.56296135726621,
+      "totalMarketCapUsd": 2659139244951.0483,
+      "total24hVolumeUsd": 46022833168.9833,
+      "marketCapChangePct24h": -2.5430848084662743,
+      "btcDominance": 58.23015003151364,
+      "ethDominance": 11.565869938714204,
       "activeCryptocurrencies": 21145
     },
-    "generated_at": "2026-09-13T00:18:31.532Z"
+    "generated_at": "2026-09-13T01:00:23.850Z"
   }
 }
